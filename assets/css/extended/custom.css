@@ -26,3 +26,9 @@
   max-width: fit-content;
 
 } 
+
+.banner-image {
+  margin: auto;  
+  margin-bottom: 3rem;
+  border-radius: 2rem;
+}
