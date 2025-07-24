@@ -1,0 +1,252 @@
+[
+    {
+        "Titles": ["Executive Director in the US Research Software Engineers Association (US-RSE)", "Senior Researcher at the San Diego Supercomputer Center"],
+        "year": "2023 - present",
+        "URLs": ["https://us-rse.org/", "https://www.sdsc.edu/"]
+    },
+    {
+        "Titles": ["Scientific Outreach and DEI Lead at the Discovery Partners Institute (DPI)"],
+        "location": "University of Illinois Chicago, IL, US",
+        "year": "2021 - 2023",
+        "URLs": ["https://dpi.uillinois.edu/"],
+        "projects": [
+            {
+                "Title": "Collaborative Research: EAGER: Characterizing Research Software from NSF Awards",
+                "Description": "Aug 2022-July 2024",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=221276"
+            },
+            {
+                "Title": "The US Research Software Sustainability Institute (URSSI)",
+                "Description": "Aug 2022-July 2024",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=221276"
+            },
+            {
+                "Title": "Evaluation of HUBzero® as a Platform to Service a Diverse Set of Scientific Communities",
+                "Description": "Jul 2017-Oct 2023",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=211276"
+            },
+            {
+                "Title": "Wastewater Epidemiology",
+                "Description": "Jul 2022-Oct 2023",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=221305"
+            },
+            {
+                "Title": "International partnerships for accelerating climate-ready, sustainable, and clean urban transportation",
+                "Description": "Jan 2023-Oct 2023",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=220772"
+            },
+            {
+                "Title": "VisDict - Visual Dictionaries for Enhancing the Communication between Domain Scientists and Scientific Workflow Providers",
+                "Description": "May 2021-Oct 2023",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=226851"
+            },
+            {
+                "Title": "Sustainable software for sustainable manufacturing: developing and training of open-source, high-performance computing simulation tools for additive manufacturing",
+                "Description": "Jun 2022-Aug 2023",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=222307"
+            },
+            {
+                "Title": "CyberTraining: Pilot: A Professional Development and Certification Program for Cyberinfrastructure Facilitators",
+                "Description": "Sept 2021-Aug 2023",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231406"
+            },
+            { "Title": "Coordinating Curricula and User Preferences to Maximize the Participation of Women and Students of Color in Engineering",
+                "Description": "Oct 2018-Sep 2022",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=220225"
+            }
+        ]
+    },
+    {
+        "Titles": ["Associate Research Professor in the Department of Computer Science and Engineering", "Computational Scientist at the Center for Research Computing"],
+        "location": "University of Notre Dame, US",
+        "year": "2019 - 2021",
+        "URLs": ["https://www.computer.org/about/people/faculty/tatsat-jha.html", "https://www.crnc.org/"],
+        "projects": [
+            {
+                "Title": "ICTBioMed",
+                "Description": "2014-2021",
+                "URL": "https://ictbiomed.org/"
+            },
+            {
+                "Title": "II-New: Infrastructure for Supporting Biomedical Application Algorithms, Runtime Development and Resource Management",
+                "Description": "Aug 2016-Jul 2019",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1956006"
+            },
+            {
+                "Title": "Conceptualizing a US Research Software Sustainability Institute",
+                "Description": "Dec 2017-Jun 2021",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=216851"
+            },
+            {
+                "Title": "Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+                "Description": "Jul 2018 -Jun 2021",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=201475"
+            }
+        ]
+    },
+    {
+        "Titles":["Research Assistant Professor in the Department of Computer Science and Engineering", "Computational Scientist at the Center for Research Computing"],
+        "location": "University of Notre Dame, US",
+        "year": "2014 - 2019",
+        "URLs": ["https://www.computer.org/about/people/faculty/tatsat-jha.html", "https://www.crnc.org/"],
+        "projects": [
+            {
+                "Title": "cHiPSet",
+                "Description": "April 2015-April 2019",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1954006"
+            },
+            {
+                "Title": "Planning a Research Data & Software Preservation Quality Tool",
+                "Description": "Nov 2016-Oct 2018",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=201305"
+            },
+            {
+                "Title": "MoSGrid science gateway",
+                "Description": "2009-2018",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1806006"
+            },
+            {
+                "Title": "Web-based workflow editor",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1306006"
+            },
+            {
+                "Title": "DASPOS",
+                "URL": "https://daspos.crc.nd.edu/"
+            }
+        ]
+    },
+    {
+        "Titles":["Research Programmer at the Center for Research Computing"],
+        "location": "University of Notre Dame, US",
+        "year": "2013 - 2014",
+        "URLs": ["https://www.computer.org/about/people/faculty/tatsat-jha.html", "https://www.crnc.org/"],
+        "projects": [
+            {
+                "Title": "VecNet",
+                "URL": "https://vecnet.org/"
+            },
+            {
+                "Title": "VectorBase",
+                "URL": "https://vectorbase.org/"
+            }
+        ]
+    },
+    {
+        "Titles":["Research Associate in the Edinburgh Data-Intensive Group"],
+        "location": "University of Edinburgh, UK",
+        "year": "2013",
+        "URLs": ["https://www.ed.ac.uk/profile/tatsat-jha"],
+        "projects": [
+            {
+                "Title": "Design of a generic workflow editor",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1305006"
+            }
+        ]
+    },
+    {
+        "Titles": ["Freelancer"],
+        "location": "Tübingen, Germany",
+        "year": "2011 - 2013",
+        "URLs": ["https://www.tuebingen.mpg.de/en/research/research-groups/bioinformatics-group/people/tatsat-jha/"],
+        "projects": [
+            {
+                "Title": "TYPO3 web pages in collaboration with PCI Services",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1206006"
+            },
+            {
+                "Title": "Social networking portal in collaboration with Kult Software UG",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1106006"
+            },
+            {
+                "Title": "SEO in collaboration with Baumeister-Webdesign",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1006006"
+            }
+        ]
+    },
+    {
+        "Titles": ["Research Associate in the Applied Bioinformatics Group"],
+        "location": "University of Tübingen, Germany",
+        "year": "2006 - 2011",
+        "URLs": ["https://www.tuebingen.mpg.de/en/research/research-groups/applied-bioinformatics-group/people/tatsat-jha/"],
+        "projects": [
+            {
+                "Title": "Project MoSGrid (Molecular Simulation Grid)",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=0906006"
+            },
+            {
+                "Title": "Project bwGRiD (Baden-Württemberg Grid)",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=0806006"
+            }
+        ]
+    },
+    {
+        "Titles":["Head of the group \"Application systems\" at LVM Versicherungen"],
+        "location": "Münster, Germany",
+        "year": "2004 - 2006",
+        "URLs": ["https://www.lvm-versicherungen.de/en/team/head-of-the-group-application-systems/"],
+        "projects": [
+            {
+                "Title": "Project \"Development of a web-based application for the administration of insurance policies\"",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=0606006"
+            },
+            {
+                "Title": "Project \"Development of a web-based application for the administration of claims\"",
+                "URL": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=0506006"
+            }
+        ]
+    },
+    {
+        "Titles":["System programmer at LVM Versicherungen"],
+        "location": "Münster, Germany",
+        "year": "2001 - 2004",
+        "URLs": ["https://www.lvm-versicherungen.de/en/team/system-programmer/"],
+        "projects": [  
+            {
+                "Title": "Integration of 'GDV-Schadennetz' with MQSeries"
+            },
+            {
+                "Title": "Migration from SAP R/2 to SAP R/3"
+            }
+        ]
+    },
+    {
+        "Titles":["Administrator and programmer at Intergest North America"],
+        "location": "New York, US",
+        "year": "2001",
+        "URLs": ["https://www.intergest.com/about/team/tatsat-jha/"],
+        "projects": [
+            {
+                "Title": "Implementing a Call Accounting Software with Visual Basic"
+            },
+            {
+                "Title": "Training InterGest staff on the use of SAP R/3 BC"
+            }
+        ]
+    },
+    {
+        "Titles":["Application programmer at LVM Versicherungen"],
+        "location": "Münster, Germany",
+        "year": "2000 - 2001",
+        "URLs": ["https://www.lvm-versicherungen.de/en/team/application-programmer/"],
+        "projects": [
+            {
+                "Title": "Design and implementation of a new accident insurance dialog"
+            },
+            {
+                "Title": "Design and implementation of an automatic request processing"
+            }
+        ]
+    },
+    {
+        "Titles":["Administrator and programmer at PARADOR"],
+        "location": "Coesfeld, Germany",
+        "year": "1994 - 1996",
+        "URLs": ["https://www.zdv.uni-mainz.de/team/tatsat-jha/"],
+        "projects": [
+            {
+                "Title": "Configuration and installation of the network infrastructure"
+            }
+        ]
+    }
+    
+]
