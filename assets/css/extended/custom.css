@@ -1,0 +1,25 @@
+:root {
+  /* Light mode overrides */
+  --theme: rgb(254, 247, 235);               /* background */
+  --entry: rgb(254, 247, 235);               /* post background */
+  --primary: ;             /* primary links/buttons */
+  --secondary: ;           /* less prominent accents */
+  --tertiary: ;            /* bordering/padding backgrounds */
+  --content: ;            /* text color */
+  --hljs-bg: ;            /* code block background */
+  --code-bg: rgb(254, 247, 235);            /* inline code bgcolor */
+  --border: ;             /* borders */
+}
+
+.list{
+  background: var(--theme)
+}
+
+/* .nav {
+  max-width: fit-content;
+} */
+
+#menu {
+  overflow-x: hidden;
+
+} 

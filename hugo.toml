@@ -1,0 +1,61 @@
+baseURL = 'https://localhost:1313/'
+languageCode = 'en-us'
+title = 'Sandra Gesing'
+theme = "papermod"
+
+[params]
+  homeInfoParams = false
+  showPostsOnHomePage = false
+
+  
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    pageRef = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Awards"
+    pageRef = "/awards/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Publications"
+    pageRef = "/publications/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Lectures and Talks"
+    pageRef = "/lectures-and-talks/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Professional Services"
+    pageRef = "/professional-services/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Bio"
+    pageRef = "/bio/"
+    weight = 7
+
+  [[menu.main]]
+    name = "What a Wonderful World"
+    pageRef = "/what-a-wonderful-world/"
+    weight = 8
+
+  [[menu.main]]
+    name = "In the Press"
+    pageRef = "/in-the-press/"
+    weight = 9
+
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact/"
+    weight = 10
