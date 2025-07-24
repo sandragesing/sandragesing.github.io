@@ -15,11 +15,14 @@
   background: var(--theme)
 }
 
-/* .nav {
-  max-width: fit-content;
-} */
+.nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 #menu {
   overflow-x: hidden;
+  max-width: fit-content;
 
 } 
