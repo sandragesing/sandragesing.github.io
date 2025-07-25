@@ -1,0 +1,30 @@
+<table>
+    <thead>
+    </thead>
+    <tbody>
+        {{ $file := .Get "file" }}
+        {{ $data := index .Site.Data $file }}
+        {{ range $data }}
+            <tr>
+                <td>{{ .year }} </td> <td>{{ range .Titles }} {{ . }} <br> {{ end }}</td>
+            </tr>
+            {{ range .projects }}
+                <tr>
+                    <td></td>
+                    <td>
+                        {{ if .URL }}
+                            <a href="{{ .URL }}">{{ .Title }}</a>
+                        {{ else }}
+                            {{ .Title }}
+                        {{ end }}
+                        {{ if .Description }}
+                            <br>
+                            <br>
+                            {{ .Description }}
+                        {{ end }}
+                    </td>
+                </tr>
+            {{ end }}
+        {{ end }}
+    </tbody>
+  </table>
