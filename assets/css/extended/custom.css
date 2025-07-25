@@ -3,9 +3,9 @@
   --theme: rgb(254, 247, 235);               /* background */
   --entry: rgb(254, 247, 235);               /* post background */
   --primary: ;             /* primary links/buttons */
-  --secondary: ;           /* less prominent accents */
-  --tertiary: ;            /* bordering/padding backgrounds */
-  --content: ;            /* text color */
+  --secondary: rgb(209,117,56);           /* less prominent accents */
+  --tertiary: lightgrey;            /* bordering/padding backgrounds */
+  --content: black;            /* text color */
   --hljs-bg: ;            /* code block background */
   --code-bg: rgb(254, 247, 235);            /* inline code bgcolor */
   --border: ;             /* borders */
@@ -31,4 +31,8 @@
   margin: auto;  
   margin-bottom: 3rem;
   border-radius: 2rem;
+}
+
+.description {
+  font-size: 0.8rem;
 }
