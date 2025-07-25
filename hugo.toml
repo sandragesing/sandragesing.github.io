@@ -6,6 +6,7 @@ theme = "papermod"
 [params]
   homeInfoParams = false
   showPostsOnHomePage = false
+  showToc = true
 
   
 [menu]
