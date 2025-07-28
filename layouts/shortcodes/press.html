@@ -1,0 +1,17 @@
+<table>
+    <thead>
+    </thead>
+    <tbody>
+        {{ $data := index .Site.Data.press }}
+        {{ range $data }}
+        <tr>
+            <td>
+                <a style="box-shadow: none;" href="{{ .article.url }}">{{ .article.title }}</a>
+            </td>
+            <td>
+                <a style="box-shadow: none;" href="{{ .publisher.url }}">{{ .publisher.title }}</a>
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+  </table>

@@ -3,7 +3,7 @@
     </thead>
     <tbody>
         {{ $file := .Get "file" }}
-        {{ $data := index .Site.Data $file }}
+        {{ $data := index .Site.Data.lectures $file }}
         {{ range $data }}
         <tr>
             <td>
