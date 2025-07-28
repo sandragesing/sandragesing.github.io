@@ -1,0 +1,27 @@
+{{ $data := index .Site.Data.publications }}
+{{ range $data }}
+<table>
+    <thead>
+    </thead>
+    <tbody>
+            <tr>
+                <td>
+                    {{ $header := printf "### %v" .year }}
+                    {{ $header| markdownify }} 
+                </td> 
+            </tr>
+            {{ range .publications }}
+                <tr>
+                    <td></td>
+                    <td>
+                        {{ .authors }}
+                        <br>
+                        <a href = "{{ .url}}"> {{ .link }} </a>
+                        <br>
+                        {{ .title}}
+                    </td>
+                </tr>
+            {{ end }}
+        {{ end }}
+    </tbody>
+  </table>

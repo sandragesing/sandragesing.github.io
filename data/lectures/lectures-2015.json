@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Genomics and Biological Big Data: Facing Current and Future Challenges around Data and Software Sharing and Reproducibility",
+        "description": "BDAC-15 (Big Data Analytics: Challenges and Opportunities), In Cooperation with ACM/IEEE SC15, Austin, TX, USA, November 2015"
+    },
+    {
+        "title": "Lecture on Science Gateways in the Big Data Era",
+        "description": "Research Computing Centre, University of Queensland, Brisbane, Australia, October 2015"
+    },
+    {
+        "title": "Panel on The Future of Science Gateways: Planning for Success",
+        "description": "IWSG-A (International Workshop on Science Gateway – Australia), Brisbane, Australia, October 2015"
+    },
+    {
+        "title": "Developing Science Gateways: Current Solution and Future Challenges",
+        "description": "IWSG-A (International Workshop on Science Gateway – Australia), Brisbane, Australia, October 2015"
+    },
+    {
+        "title": "Lecture on Science Gateways – Enhancing Usability and Reproducibility of Scientific Applications",
+        "description": "eResearch Centre, James Cook University, Townsville, Australia, October 2015"
+    },
+    {
+        "title": "Invited talk on Enhancing Research Data Collaboration Using Science Gateways",
+        "description": "AERO (Australian eResearch Organisations), Webinar, August 2015"
+    },
+    {
+        "title": "Lecture on Science Gateways – Boosting the Usability of Bioinformatic Applications",
+        "description": "TGAC (The Genome Analysis Centre), Norwich, UK, July 2015"
+    },
+    {
+        "title": "Science Gateways – Leveraging Modeling and Simulations in HPC Infrastructures via Increased Usability",
+        "description": "HPCS 2015 (The 2015 International Conference on High Performance Computing & Simulation), Amsterdam, The Netherlands, July 2015"
+    },
+    {
+        "title": "Challenges and Modifications for Creating a MoSGrid Science Gateway for US and European Infrastructures",
+        "description": "IWSG 2015 (International Workshop on Science Gateways), Budapest, Hungary, June 2015"
+    },
+    {
+        "title": "Lecture on Science Gateways: The Past, Present and Future",
+        "description": "School Seminar Programme, Cardiff University, UK, May 2015"
+    },
+    {
+        "title": "Welcome to CCGrid-Life 2015 – Trends in the Life Sciences",
+        "description": "CCGrid-Life 2015 (Workshop on Clusters, Clouds and Grids for Life Sciences), Shenzhen, Guangdong, China, May 2015"
+    },
+    {
+        "title": "Panel Science Gateways: Helping Communities Lead the Way",
+        "description": "Internet2 Global Summit 2015, Washington, DC, US, April 2015"
+    },
+    {
+        "title": "Unicore Use Case Integration for XSEDE and PRACE",
+        "description": "PRACE-XSEDE Interoperability projects, ECSS Symposium, Web conference, March 2015"
+    },
+    {
+        "title": "Panel Towards a Global Cyber-Infrastructure for Science: Cluster, Gateways, Grid and Clouds",         
+        "description": "Accelerating Biology 2015 – Catalyzing Evolution, Pune, India, January 2015"    
+    }
+]

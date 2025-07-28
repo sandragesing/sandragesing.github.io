@@ -6,6 +6,7 @@ theme = "papermod"
 [params]
   homeInfoParams = false
   showPostsOnHomePage = false
+  showToc = true
 
   
 [menu]
@@ -46,16 +47,11 @@ theme = "papermod"
     weight = 7
 
   [[menu.main]]
-    name = "What a Wonderful World"
-    pageRef = "/what-a-wonderful-world/"
-    weight = 8
-
-  [[menu.main]]
     name = "In the Press"
     pageRef = "/in-the-press/"
-    weight = 9
+    weight = 8
 
   [[menu.main]]
     name = "Contact"
     pageRef = "/contact/"
-    weight = 10
+    weight = 9

@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Invited talk on Experiences with Computational Workflows at Notre Dame’s Center for Research Computing",
+        "description": "SC13 Workflow BOF, Denver, CO, US, November 2013"
+    },
+    {
+        "title": "The Demand for Consistent Web-based Workflow Editors",
+        "description": "WORKS 2013: 8th Workshop On Workflows in Support of Large-Scale Science, Denver, CO, US, November 2013"
+    },
+    {
+        "title": "User-friendly metaworkflows in quantum chemistry",
+        "description": "SGIW 2013 (Science Gateway Institute Workshop), Indianapolis, US, September 2013"
+    },
+    {
+        "title": "Lecture on Science Gateways for Life Sciences – Balancing Usability and Re-Usability",
+        "description": "CSE Seminar, University of Notre Dame, US, September 2013"
+    },
+    {
+        "title": "Lecture on GeWWE – A Generic Web-based Workflow Editor",
+        "description": "Research Seminar Series, University of Edinburgh, UK, July 2013"
+    },
+    {
+        "title": "Invited talk on Multi-Workflow Systems and Editors",
+        "description": "OSDC PIRE Workshop, Edinburgh, UK, June 2013"
+    },
+    {
+        "title": "Invited talk on MoSGrid – Molecular Simulations in a Distributed Environment",
+        "description": "OSDC PIRE Workshop, Edinburgh, UK, June 2013"
+    },
+    {
+        "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
+        "description": "Melbourne eResearch Group, University of Melbourne, Australia, March 2013"
+    }
+]

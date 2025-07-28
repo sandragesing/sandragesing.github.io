@@ -1,0 +1,254 @@
+[
+    {
+        "titles": ["Executive Director in the US Research Software Engineers Association (US-RSE)", "Senior Researcher at the San Diego Supercomputer Center"],
+        "year": "2023 - present",
+        "urls": ["https://us-rse.org/", "https://www.sdsc.edu/"]
+    },
+    {
+        "titles": ["Scientific Outreach and DEI Lead at the Discovery Partners Institute (DPI)"],
+        "location": "University of Illinois Chicago, IL, US",
+        "year": "2021 - 2023",
+        "urls": ["https://dpi.uillinois.edu/"],
+        "rows": [
+            {
+                "title": "Collaborative Research: EAGER: Characterizing Research Software from NSF Awards",
+                "description": "Aug 2022-July 2024",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211276"
+            },
+            {
+                "title": "The US Research Software Sustainability Institute (URSSI)",
+                "description": "Aug 2022-July 2024",
+                "url": "https://urssi.us/"
+            },
+            {
+                "title": "Evaluation of HUBzero® as a Platform to Service a Diverse Set of Scientific Communities",
+                "description": "Jul 2017-Oct 2023",
+                "url": "https://hubzero.org/"
+            },
+            {
+                "title": "Wastewater Epidemiology",
+                "description": "Jul 2022-Oct 2023",
+                "url": "https://dpi.uillinois.edu/applied-research/wastewater-epidemiology/"
+            },
+            {
+                "title": "International partnerships for accelerating climate-ready, sustainable, and clean urban transportation",
+                "description": "Jan 2023-Oct 2023",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230772"
+            },
+            {
+                "title": "VisDict - Visual Dictionaries for Enhancing the Communication between Domain Scientists and Scientific Workflow Providers",
+                "description": "May 2021-Oct 2023",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2100561"
+            },
+            {
+                "title": "Sustainable software for sustainable manufacturing: developing and training of open-source, high-performance computing simulation tools for additive manufacturing",
+                "description": "Jun 2022-Aug 2023",
+                "url": "https://iin.uillinois.edu/programs/sustaining-illinois/"
+            },
+            {
+                "title": "CyberTraining: Pilot: A Professional Development and Certification Program for Cyberinfrastructure Facilitators",
+                "description": "Sept 2021-Aug 2023",
+                "url": "https://nsf.gov/awardsearch/showAward?AWD_ID=2118193&HistoricalAwards=false"
+            },
+            { 
+                "title": "Coordinating Curricula and User Preferences to Maximize the Participation of Women and Students of Color in Engineering",
+                "description": "Oct 2018-Sep 2022",
+                "url": "https://nsf.gov/awardsearch/showAward?AWD_ID=1826632"
+            }
+        ]
+    },
+    {
+        "titles": ["Associate Research Professor in the Department of Computer Science and Engineering", "Computational Scientist at the Center for Research Computing"],
+        "location": "University of Notre Dame, US",
+        "year": "2019 - 2021",
+        "urls": ["https://cse.nd.edu/", "https://crc.nd.edu/"],
+        "rows": [
+            {
+                "title": "ICTBioMed",
+                "description": "2014-2021",
+                "url": "http://www.ictbiomed.net/activities"
+            },
+            {
+                "title": "II-New: Infrastructure for Supporting Biomedical Application Algorithms, Runtime Development and Resource Management",
+                "description": "Aug 2016-Jul 2019",
+                "url": "http://nsf.gov/awardsearch/showAward?AWD_ID=1629914"
+            },
+            {
+                "title": "Conceptualizing a US Research Software Sustainability Institute",
+                "description": "Dec 2017-Jun 2021",
+                "url": "http://urssi.us/"
+            },
+            {
+                "title": "Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+                "description": "Jul 2018 -Jun 2021",
+                "url": "http://presqt.crc.nd.edu/"
+            }
+        ]
+    },
+    {
+        "titles":["Research Assistant Professor in the Department of Computer Science and Engineering", "Computational Scientist at the Center for Research Computing"],
+        "location": "University of Notre Dame, US",
+        "year": "2014 - 2019",
+        "urls": ["https://cse.nd.edu/", "https://crc.nd.edu/"],
+        "rows": [
+            {
+                "title": "http://chipset-cost.eu/",
+                "description": "April 2015-April 2019",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1954006"
+            },
+            {
+                "title": "Planning a Research Data & Software Preservation Quality Tool",
+                "description": "Nov 2016-Oct 2018",
+                "url": "http://presqt.crc.nd.edu/"
+            },
+            {
+                "title": "MoSGrid science gateway",
+                "description": "2009-2018",
+                "url": "https://mosgrid.de/portal"
+            },
+            {
+                "title": "Web-based workflow editor",
+                "url": "http://research.nesc.ac.uk/node/972"
+            },
+            {
+                "title": "DASPOS",
+                "url": "https://daspos.crc.nd.edu/"
+            }
+        ]
+    },
+    {
+        "titles":["Research Programmer at the Center for Research Computing"],
+        "location": "University of Notre Dame, US",
+        "year": "2013 - 2014",
+        "urls": ["https://crc.nd.edu/"],
+        "rows": [
+            {
+                "title": "VecNet",
+                "url": "http://vecnet.org/"
+            },
+            {
+                "title": "VectorBase",
+                "url": "http://vectorbase.org/"
+            }
+        ]
+    },
+    {
+        "titles":["Research Associate in the Edinburgh Data-Intensive Group"],
+        "location": "University of Edinburgh, UK",
+        "year": "2013",
+        "urls": ["http://research.nesc.ac.uk/"],
+        "rows": [
+            {
+                "title": "Design of a generic workflow editor",
+                "url": "http://research.nesc.ac.uk/node/972"
+            }
+        ]
+    },
+    {
+        "titles": ["Freelancer"],
+        "location": "Tübingen, Germany",
+        "year": "2011 - 2013",
+        "rows": [
+            {
+                "title": "TYPO3 web pages in collaboration with PCI Services",
+                "url": "PCI Services"
+            },
+            {
+                "title": "Social networking portal in collaboration with Kult Software UG",
+                "url": "http://www.kultsoftware.com/home.html"
+            },
+            {
+                "title": "SEO in collaboration with Baumeister-Webdesign",
+                "url": "http://www.baumeister-webdesign.de/"
+            }
+        ]
+    },
+    {
+        "titles": ["Research Associate in the Applied Bioinformatics Group"],
+        "location": "University of Tübingen, Germany",
+        "year": "2006 - 2011",
+        "urls": ["http://www-abi.informatik.uni-tuebingen.de/", "http://www.zdv.uni-tuebingen.de/"],
+        "rows": [
+            {
+                "title": "Project MoSGrid (Molecular Simulation Grid)",
+                "url": "http://www.mosgrid.de/portal"
+            },
+            {
+                "title": "Project bwGRiD (Baden-Württemberg Grid)",
+                "url": "http://www.bw-grid.de/en/portal/"
+            }
+        ]
+    },
+    {
+        "titles":["Head of the group \"Application systems\" at LVM Versicherungen"],
+        "location": "Münster, Germany",
+        "year": "2004 - 2006",
+        "urls": ["http://www.lvm.de/"],
+        "rows": [
+            {
+                "title": "Project \"Infrastructure for web-based applications\""
+            
+            },
+            {
+                "title": "Project \"Authentication via smartcards\""   
+            },
+            {
+                "title": "Project \"Migration of Lotus Notes\""
+            }
+        ]
+    },
+    {
+        "titles":["System programmer at LVM Versicherungen"],
+        "location": "Münster, Germany",
+        "year": "2001 - 2004",
+        "urls": ["http://www.lvm.de/"],
+        "rows": [  
+            {
+                "title": "Project \"Integration of 'GDV-Schadennetz' with MQSeries\""
+            },
+            {
+                "title": "Project \"Migration from SAP R/2 to SAP R/3\""
+            }
+        ]
+    },
+    {
+        "titles":["Administrator and programmer at Intergest North America"],
+        "location": "New York, US",
+        "year": "2001",
+        "urls": ["http://www.intergest.com/en/home/"],
+        "rows": [
+            {
+                "title": "Project \"Implementing a Call Accounting Software with Visual Basic\""
+            },
+            {
+                "title": "Project \"Training InterGest staff on the use of SAP R/3 BC\""
+            }
+        ]
+    },
+    {
+        "titles":["Application programmer at LVM Versicherungen"],
+        "location": "Münster, Germany",
+        "year": "2000 - 2001",
+        "urls": ["http://www.lvm.de/"],
+        "rows": [
+            {
+                "title": "Project \"Design and implementation of a new accident insurance dialog\""
+            },
+            {
+                "title": "Project \"Design and implementation of an automatic request processing\""
+            }
+        ]
+    },
+    {
+        "titles":["Administrator and programmer at PARADOR"],
+        "location": "Coesfeld, Germany",
+        "year": "1994 - 1996",
+        "urls": ["http://en.parador.eu/"],
+        "rows": [
+            {
+                "title": "Project \"Configuration and installation of the network infrastructure\""
+            }
+        ]
+    }
+    
+]

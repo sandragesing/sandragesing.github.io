@@ -1,0 +1,963 @@
+[
+
+    {
+        "category": "Professional affiliations",
+        "rows":[
+            {
+                "title": "Vice-Chair of the Steering Committee of the US Research Software Engineer (US-RSE) Association",
+                "description": "2019-2023",
+                "url": "https://us-rse.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "RDA Virtual Research Environment IG (VRE-IG)",
+                "description": "since 2016",
+                "url": "https://www.rd-alliance.org/groups/virtual-research-environment-ig",
+                "sub_entries": []
+            },
+            {
+                "title": "ACM (Association for Computing Machinery)",
+                "description": "2023, 2014",
+                "url": "https://www.acm.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "International Coalition on Science Gateways",
+                "description": "2016-2020",
+                "url": "https://sciencegateways.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "AGU",
+                "description": "2022, 2020, 2018, 2016",
+                "url": "https://www.agu.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "IEEE",
+                "description": "2014-2021",
+                "url": "https://www.ieee.org/",
+                "sub_entries": [
+                    {
+                        "title": "IEEE Computer Society",
+                        "description":"",
+                        "url": "https://www.computer.org/"
+
+                    },
+                    {
+                        "title": "IEEE Technical Committee on Scalable Computing (TCSC)",
+                        "description":"",
+                        "url": "https://www.computer.org/web/tcsc"
+                    },
+                    {
+                        "title": "Coordinator and chair of the IEEE Technical Area on Science Gateways",
+                        "description": "2014-2021",
+                        "url": "https://www.computer.org/web/tcsc/technical-areas/science-gateways"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Funding agencies",
+        "rows":[
+            {
+                "title": "NSF review panel",
+                "description": "2024, 2022, 2020, 2018, 2016",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2118193",
+                "sub_entries": []
+            },
+            {
+                "title": "NSF write-in reviewer",
+                "description": "2024, 2023, 2019, 2018, 2017",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826632",
+                "sub_entries": []
+            },
+            {
+                "title": "DOE reviewer",
+                "description": "2020, 2018",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826632",
+                "sub_entries": []
+            },
+            {
+                "title": "DOE write-in reviewer",
+                "description": "2023, 2022, 2021, 2019",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826632",
+                "sub_entries": []
+            },
+            {
+                "title": "CONACYT reviewer",
+                "description": "2020",
+                "url": "https://www.conacyt.org/awards/conacyt-award-2020-2021",
+                "sub_entries": []
+            },
+            {
+                "title": "IMLS reviewer",
+                "description": "2019",
+                "url": "https://imls.gov/grants/awarded/lg-70-18-0082-18",
+                "sub_entries": []
+            },
+            {
+                "title": "Helmholtz reviewer",
+                "description": "2019",
+                "url": "https://www.helmholtz-rz.de/en/news/news-detail/news-detail-detail/detail/id/2019/sekretariat-fuer-wissenschaftliche-forschung-und-technologie-im-bereich-wissenschaftsgateways-2019-award-of-the-helmholtz-research-fund.html",
+                "sub_entries": []
+            },
+            {
+                "title": "NeIC reviewer",
+                "description": "2021, 2019",
+                "url": "https://neic.no/awards/2021/09/08/neic-award-2021-2022/",
+                "sub_entries": []
+            }
+        ]
+    },
+    {
+        "category": "Advisory boards",
+        "rows":[
+            {
+                "title": "INTERSECT Research Software Engineering Training Advisory Board",
+                "description": "since 2020",
+                "url": "https://intersect.org.au/",
+                "sub_entries": []
+            },
+            {
+                "title": "eScience Conference Steering Committee",
+                "description": "since 2023",
+                "url": "https://www.escience-conference.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "CRC Committee for Appointments and Promotions",
+                "description": "2019",
+                "url": "",
+                "sub_entries": []
+            },
+            {
+                "title": "S&T 2030 - Computer Science / Software Engineering Technical Expert Panel at the Air Force Research Laboratory",
+                "description": "2018",
+                "url": "",
+                "sub_entries": []
+            },
+            {
+                "title": "Exascale programing models for extreme data processing (ASPIDE) Advisory Board",
+                "description": "since 2018",
+                "url": "",
+                "sub_entries": []
+            },
+            {
+                "title": "The National Data Service (NDS) Technical Advisory Board",
+                "description": "since 2017",
+                "url": "",
+                "sub_entries": []
+            },
+            {
+                "title": "Internet2 External Advisory Group",
+                "description": "2016-2019",
+                "url": "",
+                "sub_entries": []
+            }
+        ]
+    },
+    {	
+        "category": "Chair",
+        "rows":[
+            {
+                "title": "IWSG",
+                "description": "International Workshop on Science Gateways",
+                "url": "https://sciencegateways.org/iwsg/",
+                "sub_entries": [
+                    {
+                        "title": "IWSG 2024",
+                        "description": "16th International Workshop on Science Gateways, June 2024, Toulouse, France",
+                        "url": "https://sciencegateways.org/iwsg/2024"
+                    },
+                    {
+                        "title": "IWSG 2023",
+                        "description": "15th International Workshop on Science Gateways, June 2023, Tübingen, Germany",
+                        "url": "https://sciencegateways.org/iwsg/2023"
+                    },
+                    {
+                        "title": "IWSG 2022",
+                        "description": "14th International Workshop on Science Gateways, June 2022, Trento, Italy",
+                        "url": "https://sciencegateways.org/iwsg/2022"       
+                    },
+                    {
+                        "title": "IWSG 2021",
+                        "description": "13th International Workshop on Science Gateways, June 2021, virtual",
+                        "url": "https://sciencegateways.org/iwsg/2021"
+                    },
+                    {
+                        "title": "IWSG 2020",
+                        "description": "12th International Workshop on Science Gateways, June 2020, Cardiff, UK",
+                        "url": "https://sciencegateways.org/iwsg/2020"
+                    },
+                    {
+                        "title": "IWSG 2019",
+                        "description": "11th International Workshop on Science Gateways, June 2019, Ljubljana, Slovenia",
+                        "url": "https://sciencegateways.org/iwsg/2019"
+                    },
+                    {
+                        "title": "IWSG 2018",
+                        "description": "10th International Workshop on Science Gateways, June 2018, Edinburgh, UK",
+                        "url": "https://sciencegateways.org/iwsg/2018"
+                    },
+                    {
+                        "title": "IWSG 2017",
+                        "description": "9th International Workshop on Science Gateways, June 2017, Poznan, Poland",
+                        "url": "https://sciencegateways.org/iwsg/2017"
+                    },
+                    {
+                        "title": "IWSG 2016",
+                        "description": "8th International Workshop on Science Gateways, June 2016, Rome, Italy",
+                        "url": "https://sciencegateways.org/iwsg/2016"
+                    },
+                    {
+                        "title": "IWSG 2015",
+                        "description": "7th International Workshop on Science Gateways, June 2015, Budapest, Hungary",
+                        "url": "https://sciencegateways.org/iwsg/2015"
+                    },
+                    {
+                        "title": "IWSG 2014",
+                        "description": "6th International Workshop on Science Gateways, June 2014, Dublin, Ireland",
+                        "url": "https://sciencegateways.org/iwsg/2014"
+                    },
+                    {
+                        "title": "IWSG-Life 2012",
+                        "description": "4th International Workshop on Science Gateways for Life Sciences, May 2012, Amsterdam, The Netherlands",
+                        "url": "https://sciencegateways.org/iwsg-life/2012"
+                    },
+                    {
+                        "title": "IWPLS'09",
+                        "description": "1st International Workshop on Portals for Life Sciences, September 2009, Edinburgh, UK",
+                        "url": "https://sciencegateways.org/iwpls/2009"
+                    }
+                ]
+            },
+            {
+                "title": "Gateways",
+                "description":"",
+                "url": "https://sciencegateways.org/gateways/",
+                "sub_entries": [
+                    {
+                        "title": "Code of Conduct Chair Gateways 2024",
+                        "description": "Bozeman, MT, US, October 2024",
+                        "url": "https://sciencegateways.org/gateways/2024"
+                    },
+                    {
+                        "title": "Code of Conduct Chair Gateways 2023",
+                        "description": "Pittsburgh, PA, US, October 2023",
+                        "url": "https://sciencegateways.org/gateways/2023"
+                    },
+                    {
+                        "title": "Gateways 2022",
+                        "description": "San Diego, CA, US, October 2022",
+                        "url": "https://sciencegateways.org/gateways/2022"
+                    },
+                    {
+                        "title": "Mini Gateways 2022",
+                        "description": "April 2022",
+                        "url": "https://sciencegateways.org/mini-gateways/2022"
+                    },
+                    {
+                        "title": "Gateways 2021",
+                        "description": "October 2021",
+                        "url": "https://sciencegateways.org/gateways/2021"
+                    }
+                ]
+            },
+            {
+                "title": "US-RSE",
+                "description": "US Research Software Engineer Association",
+                "url": "https://us-rse.org/",
+                "sub_entries": [
+                    {
+                        "title": "US-RSE Conference 2023",
+                        "description": "October 2023",
+                        "url": "https://us-rse.org/conference/2023/"
+                    },
+                    {
+                        "title": "US-RSE Virtual Workshop 2022",
+                        "description": "September 2022",
+                        "url": "https://us-rse.org/virtual-workshop/2022/"
+                    },
+                    {
+                        "title": "US-RSE Virtual Workshop 2021",
+                        "description": "May 2021",
+                        "url": "https://us-rse.org/virtual-workshop/2021/"
+                    }
+                ]
+            },
+            {
+                "title": "PEARC",
+                "description": "Practice & Experience in Advanced Research Computing",
+                "url": "https://pearc.acm.org/",
+                "sub_entries": [
+                    {
+                        "title": "PEARC20",
+                        "description": "General Co-Chair, July 2020, Portland, USA",
+                        "url": "https://pearc.acm.org/pearc20/"
+                    },
+                    {
+                        "title": "PEARC17",
+                        "description": "Software & Data Track Chair, July 2017, New Orleans, USA",
+                        "url": "https://pearc.acm.org/pearc17/"
+                    }
+                ]
+            },
+            {
+                "title": "SC",
+                "description": "The International Conference for HPC, Networking, Storage and Analysis",
+                "url": "https://sc22.supercomputing.org/",
+                "sub_entries": [
+                    {
+                        "title": "SC24",
+                        "description": "Workshop on Research Software Engineers in HPC, November 2024",
+                        "url": "https://sc24.supercomputing.org/"
+                    },
+                    {
+                        "title": "SC23",
+                        "description": "Workshop on Research Software Engineers in HPC, November 2023",
+                        "url": "https://sc23.supercomputing.org/"
+                    },
+                    {
+                        "title": "SC22",
+                        "description": "Workshop on Research Software Engineers in HPC, November 2022",
+                        "url": "https://sc22.supercomputing.org/"
+                    },
+                    {
+                        "title": "SC21",
+                        "description": "Program Clouds and Distributed Computing Co-Chair, November 2021",
+                        "url": "https://sc21.supercomputing.org/"
+                    },
+                    {
+                        "title": "SC21",
+                        "description": "BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering, November 2021",
+                        "url": "https://sc21.supercomputing.org/BoF/"
+                    },
+                    {
+                        "title": "SC20",
+                        "description": "BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering, November 2020",
+                        "url": "https://sc20.supercomputing.org/BoF/"
+                    },
+                    {
+                        "title": "SC20",
+                        "description": "Workshop on Research Software Engineers in HPC, November 2020",
+                        "url": "https://sc20.supercomputing.org/"
+                    }
+                ]
+            },
+            {
+                "title": "RDA Plenary Meetings",
+                "description": "Research Data Alliance Plenary Meetings",
+                "url": "https://www.rd-alliance.org/plenary-meetings",
+                "sub_entries": [
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), May 2024, Virtual",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-may-2024-virtual"
+                    },
+                    {
+                        "title": "FAIR for Virtual Research Environments WG",
+                        "description": ", March 2023, Gothenburg, Sweden",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/fair-for-virtual-research-environments-wg-march-2023-gothenburg-sweden"
+                    },
+                    {
+                        "title": "FAIR for Virtual Research Environments WG",
+                        "description": ", June 2022, Virtual Meeting",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/fair-for-virtual-research-environments-wg-june-2022-virtual-meeting"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), November 2021, Virtual Meeting",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-november-2021-virtual-meeting"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), April 2021, Virtual Meeting",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-april-2021-virtual-meeting"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), November 2020, Virtual Meeting",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-november-2020-virtual-meeting"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), April 2020, Virtual Meeting",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-april-2020-virtual-meeting"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), October 2019, Helsinki, Finland",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-october-2019-helsinki-finland"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), April 2019, Philadelphia, PA, USA",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-april-2019-philadelphia-pa-usa"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), March 2018, Berlin, Germany",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-march-2018-berlin-germany"
+                    },
+                    {
+                        "title": "VRE-IG",
+                        "description": "(Virtual Research Environment Interest Group), September 2017, Montreal, Canada",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/virtual-research-environment-interest-group-vre-ig-september-2017-montreal-canada"
+                    },
+                    {
+                        "title": "ICSG meeting",
+                        "description": "(International Coalition on Science Gateways), September 2017, Montreal, Canada",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/icsg-meeting-international-coalition-on-science-gateways-september-2017-montreal-canada"
+                    }
+                ]
+            },
+            {
+                "title": "HICSS",
+                "description": "Hawaii International Conference on System Sciences",
+                "url": "https://hicss.acm.org/",
+                "sub_entries": [
+                    {
+                        "title": "HICSS-58 Minitrack on Software Sustainability: Research on Usability, Maintainability and Reproducibility",
+                        "description": "January 2025, Hilton Waikoloa, Big Island, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-sustainability/2025/index.html"
+                    },
+                    {
+                        "title": "HICSS-58 Minitrack on Impact of AI on Software Engineering",
+                        "description": "January 2025, Hilton Waikoloa, Big Island, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-ai/2025/index.html"
+                    },
+                    {
+                        "title": "HICSS-57 Minitrack on Smart (City) and Data Streaming Application Development: Challenges and Experiences",
+                        "description": "January 2024, Honolulu, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2024/index.html"
+                    },
+                    {
+                        "title": "HICSS-57 Minitrack on Software Sustainability: Strategies for Long-Lasting and Usable Software",
+                        "description": "January 2024, Honolulu, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-sustainability/2024/index.html"
+                    },
+                    {
+                        "title": "HICSS-56 Minitrack on Smart (City) and Data Streaming Application Development: Challenges and Experiences",
+                        "description": "January 2023, Maui, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2023/index.html"
+                    },
+                    {
+                        "title": "HICSS-56 Minitrack on Software Sustainability: Strategies for Long-Lasting and Usable Software",
+                        "description": "January 2023, Maui, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-sustainability/2023/index.html"
+                    },
+                    {
+                        "title": "HICSS-55 Minitrack on Smart (City) and Data Streaming Application Development: Challenges and Experiences",
+                        "description": "January 2022, Maui, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2022/index.html"
+                    },
+                    {
+                        "title": "HICSS-55 Minitrack on Software Sustainability: Strategies for Long-Lasting and Usable Software",
+                        "description": "January 2022, Maui, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-sustainability/2022/index.html"
+                    },
+                    {
+                        "title": "HICSS-54 Minitrack on Smart (City) Application Development: Challenges and Experiences",
+                        "description": "January 2021, Kauai, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2021/index.html"
+                    },
+                    {
+                        "title": "HICSS-54 Minitrack on Software Survivability: Strategies for Long-Lasting and Usable Software",
+                        "description": "January 2021, Kauai, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-sustainability/2021/index.html"
+                    },
+                    {
+                        "title": "HICSS-53 Minitrack on Smart (City) Application Development: Challenges and Experiences",
+                        "description": "January 2020, Maui, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2020/index.html"
+                    },
+                    {
+                        "title": "HICSS-52 Minitrack on Smart (City) Application Development: Challenges and Experiences",
+                        "description": "January 2019, Maui, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2019/index.html"
+                    },
+                    {
+                        "title": "HICSS-51 Minitrack on Turning Smart: Challenges and Experiences in Smart Application Development",
+                        "description": "January 2018, Hilton Waikoloa Village, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-smartcity/2018/index.html"
+                    },
+                    {
+                        "title": "HICSS-50 Minitrack on Science Gateways and Portals",
+                        "description": "January 2017, Hilton Waikoloa Village, Hawaii, USA",
+                        "url": "https://hicss.acm.org/sigs/sig-portals/2017/index.html"
+                    }
+                ]
+            },
+            {
+                "title": "eScience",
+                "description": "",
+                "url": "https://www.escience-conference.org/",
+                "sub_entries": [
+                    {
+                        "title": "Co-Chair Track for Computational Science for sustainable development eScience 2023",
+                        "description": "Oct 2023, Limassol, Cyprus",
+                        "url": "https://www.escience-conference.org/2023/call-for-papers/"
+                    },
+                    {
+                        "title": "Workshop chair of eScience 2022",
+                        "description": "September 2022, Salt Lake City, USA",
+                        "url": "https://www.escience-conference.org/2022/call-for-papers/"
+                    },
+                    {
+                        "title": "Publicity chair of eScience 2019",
+                        "description": "September 2019, San Diego, USA",
+                        "url": "https://www.escience-conference.org/2019/call-for-papers/"
+                    }
+                ]
+            },
+            {
+                "title": "NSF CSSI PI meeting",
+                "description": "",
+                "url": "https://www.nsf.gov/news/special_reports/cssi/",
+                "sub_entries": [
+                    {
+                        "title": "CSSI PI meeting 2020",
+                        "description": "February 2020, Seattle, WA, USA",
+                        "url": ""
+                    },
+                    {
+                        "title": "SI2 PI meeting 2018",
+                        "description": "May 2018, Washington, DC, USA",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "title": "SIAM CSE",
+                "description": "SIAM Conference on Computational Science and Engineering",
+                "url": "https://www.siam.org/conferences/major/cse21/",
+                "sub_entries": [
+                    {
+                        "title": "Minisymposium: Enhancing Sustainability and Productivity for Research Software",
+                        "description": "March 2021, SIAM CSE21",
+                        "url": ""
+                    },
+                    {
+                        "title": "Minisymposterium: Software Productivity and Sustainability for CSE",
+                        "description": "March 2021, SIAM CSE21",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "title": "Society of Research Software Engineering (US Research Software Engineer Association)",
+                "description": "",
+                "url": "",
+                "sub_entries": [
+                    {
+                        "title": "SeptembRSE Worldwide",
+                        "description": "September 2021",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "title": "URSSI Workshops (US Research Software Sustainability Institute Workshops)",
+                "description": "",
+                "url": "",
+                "sub_entries":[
+                    {
+                        "title":"Second Workshop",
+                        "description":"October 2018, Chicago, IL, USA",
+                        "url":""
+                    },
+                    {
+                        "title":"First Workshop",
+                        "description":"April 2018, Berkeley, CA, USA",
+                        "url":""
+                    }
+                ]
+            },
+            {
+                "title":"WORKS Workshop (Workshop on Workflows in Support of Large-Scale Science)",
+                "description":"",
+                "url":"",
+                "sub_entries":[
+                    {
+                        "title":"WORKS 2019",
+                        "description":"14th WORKS Workshop, in conjunction with SC19, November 2019, Denver, USA",
+                        "url":"https://works-workshop.github.io/2019/"
+                    },
+                    {
+                        "title":"WORKS 2018",
+                        "description":"13th WORKS Workshop, in conjunction with SC18, November 2018, Denver, USA",
+                        "url":"https://works-workshop.github.io/2018/"
+                    },
+                    {
+                        "title":"WORKS 2017",
+                        "description":"12th WORKS Workshop, in conjunction with SC17, November 2017, Denver, USA",
+                        "url":"https://works-workshop.github.io/2017/"
+                    },
+                    {
+                        "title":"WORKS 2016",
+                        "description":"11th WORKS Workshop, in conjunction with SC16, November 2016, Salt Lake City, USA",
+                        "url":"https://works-workshop.github.io/2016/"
+                    }
+                ]
+            },
+            {
+                "title": "CCCGrid",
+                "description": "(IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing)",
+                "url": "https://www.cccgrid.org/",
+                "sub_entries": [
+                    {
+                        "title": "Travel Grant Chair",
+                        "description": "May 2023, Bangalore, India",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    },
+                    {
+                        "title": "Doctoral Symposium",
+                        "description": "May 2019, Larnaca, Cyprus",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    },
+                    {
+                        "title": "SCALE 2018",
+                        "description": "May 2018, Washington, DC, USA",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    },
+                    {
+                        "title": "CCGrid-Life 2018",
+                        "description": "Workshop on Clusters, Clouds and Grids for Life Sciences, May 2018, Washington, DC, USA",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    },
+                    {
+                        "title": "Workshop Co-Chair",
+                        "description": "CCGrid 2017, May 2017, Madrid, Spain",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    },
+                    {
+                        "title": "CCGrid-Life 2015",
+                        "description": "Workshop on Clusters, Clouds and Grids for Life Sciences, May 2015, Shenzhen, Guangdong, China",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    },
+                    {
+                        "title": "CCGrid-Health 2014",
+                        "description": "Workshop on Clusters, Clouds and Grids for Health, May 2014, Chicago, USA",
+                        "url": "https://www.cccgrid.org/about/board-of-directors/"
+                    }
+                ]
+            },
+            {
+                "title": "AGU Fall Meeting",
+                "description": "American Geophysical Union",
+                "url": "https://agu.confex.com/agu/fm20/",
+                "sub_entries": [
+                    {
+                        "title": "Innovative Data-Driven Platforms and VREs for Complex Earth, Space, and Environmental Sciences Applications",
+                        "description": "December 2018, Washington, USA",
+                        "url": "https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/1003439"
+                    },
+                    {
+                        "title": "Crossing the Globe with Virtual Research Environments, Science Gateways, and Virtual Laboratories",
+                        "description": "December 2016, San Francisco, USA",
+                        "url": "https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/1003438"
+                    }
+                ]
+            },
+            {
+                "title": "IDCS2019",
+                "description": "The 12th International Conference on Internet and Distributed Computing Systems, October 2019, Napoli, Italy",
+                "url": "https://www.idcs.org/conference/idcs2019",
+                "sub_entries": []
+            },
+            {
+                "title": "PresQT Workshops",
+                "description": "Preservation Quality Tool",
+                "url": "https://www.rd-alliance.org/plenary-meetings/preservation-quality-tool",
+                "sub_entries": [
+                    {
+                        "title": "PresQT Workshop 2",
+                        "description": "in conjunction with RDA 10th Plenary Meeting, September 2017, Montreal, Canada",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/preservation-quality-tool/2017/09/01/prestqt-workshop-2-in-conjunction-with-rda-10th-plenary-meeting-september-2017-montreal-canada"
+                    },
+                    {
+                        "title": "PresQT Workshop 1",
+                        "description": "May 2017, University of Notre Dame, IN, USA",
+                        "url": "https://www.rd-alliance.org/plenary-meetings/preservation-quality-tool/2017/05/01/prestqt-workshop-1-may-2017-university-of-notre-dame-in-usa"
+                    }
+                ]
+            },
+            {
+                "title": "UCC 2015",
+                "description": "8th IEEE/ACM International Conference on Utility and Cloud Computing, Chair of UCC Cloud Challenge, December 2015, St. Raphael Resort, Limassol, Cyprus",
+                "url": "https://ucc2015.sciencesconf.org/",
+                "sub_entries": []
+            }
+        ]
+    },
+    {
+        "category": "Editor",
+        "rows":[
+            {
+                "title": "Computing in Science & Engineering (CiSE) Reproducibility Research Track",
+                "description": "since 2021",
+                "url": "https://www.computer.org/web/cise/cise-reproducibility-research-track",
+                "sub_entries": []
+            },
+            {
+                "title": "Frontiers - Mathematics of Computation and Data Science",
+                "description": "since 2017",
+                "url": "https://www.frontiersin.org/mathematics-of-computation-and-data-science",
+                "sub_entries": []
+            },
+            {
+                "title": "PeerJ Computer Science",
+                "description": "since 2015",
+                "url": "https://peerj.com/computer-science",
+                "sub_entries": []
+            },
+            {
+                "title": "Special Issues",
+                "dscription": "",
+                "url": "https://www.computer.org/web/cise/special-issues",
+                "sub_entries": []
+            },
+            {
+                "title": "Edited Proceedings",
+                "dscription": "",
+                "url": "https://www.computer.org/web/cise/edited-proceedings",
+                "sub_entries": []
+            }
+        ]
+    },
+    {
+        "category": "Referee",
+        "rows":[
+            {
+                "title": "IEEE Transactions on Parallel and Distributed Systems",
+                "description": "2017",
+                "url": "https://www.computer.org/web/tpds",
+                "sub_entries": []
+            },
+            {
+                "title": "Future Generation Computer Systems",
+                "description": "2020, 2019, 2018, 2017, 2016, 2015",
+                "url": "https://www.computer.org/web/fgcs",
+                "sub_entries": []
+            },
+            {
+                "title": "Journal of Grid Computing",
+                "description": "2017, 2016, 2013, 2012, 2011, 2010, 2009, 2008",
+                "url": "https://www.computer.org/web/journals/jgc",
+                "sub_entries": []
+            },
+            {
+                "title": "Journal Concurrency and Computation: Practice and Experience",
+                "description": "2016, 2015, 2014",
+                "url": "https://www.computer.org/web/journals/jcpe",
+                "sub_entries": []
+            },
+            {
+                "title": "PLOS ONE",
+                "description": "2015",
+                "url": "https://www.computer.org/web/journals/plos-one",
+                "sub_entries": []
+            },
+            {
+                "title": "Current Drug Targets",
+                "description": "2015",
+                "url": "https://www.computer.org/web/journals/current-drug-targets",
+                "sub_entries": []
+            },
+            {
+                "title": "The International Journal of High Performance Computing Applications",
+                "description": "2019, 2014",
+                "url": "https://www.computer.org/web/journals/ijhpca",
+                "sub_entries": []
+            },
+            {
+                "title": "Journal frontiers in Bioengineering and Biotechnology",
+                "description": "2015, 2014",
+                "url": "https://www.computer.org/web/journals/frontiers-in-bioengineering-and-biotechnology",
+                "sub_entries": []
+            },
+            {
+                "title": "BICoB 2015 (7th International Conference on Bioinformatics and Computational Biology)",
+                "description": "March 2015, Honolulu, Hawaii, USA",
+                "url": "https://www.computer.org/web/conferences/bicob",
+                "sub_entries": []
+            },
+            {
+                "title": "10th Annual Meeting of the Bioinformatics Italian Society BITS 2013 - BMC Bioinformatics Supplement",
+                "description": "May 2013, Udine, Italy",
+                "url": "https://www.computer.org/web/conferences/bits",
+                "sub_entries": []
+            },
+            {
+                "title": "CCGRID 2009 (IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing)",
+                "description": "May 2009, San Jose, California, USA",
+                "url": "https://www.computer.org/web/ccgrid",
+                "sub_entries": []
+            }
+        ]
+    },
+    {
+        "category": "PC Member",
+        "rows":[
+            {
+                "title": "IWSG",
+                "description": "(International Workshop on Science Gateways) 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009",
+                "url": "https://sciencegateways.org/iwsg/",
+                "sub_entries": []
+            },
+            {
+                "title": "Gateways (formerly GCE)",
+                "description": "(International Workshop on Science Gateways) 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013",
+                "url": "https://sciencegateways.org/gateways/",
+                "sub_entries": []
+            },
+            {
+                "title": "SC Conference Series (Supercomputing Conference)",
+                "description": "(Supercomputing Conference) 2024, 2023, 2022, 2021, 2020, 2019, 2017",
+                "url": "https://sc22.supercomputing.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "PEARC",
+                "description": "(Practice & Experience in Advanced Research Computing), formerly XSEDE (XSEDE annual conference) 2020, 2017, 2016, 2015",
+                "url": "https://pearc.acm.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "SORSE (International Series of Online Research Software Events)",
+                "description": "2021, 2020",
+                "url": "https://sorse.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "IDPDS (International Parallel and Distributed Processing Symposium)",
+                "description": "2021",
+                "url": "https://www.idpds.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "CCGrid (International Symposium on Cluster, Cloud and Internet Computing)",
+                "description": "2023, 2020",
+                "url": "https://www.cccgrid.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "PDP (Euromicro International Conference on Parallel, Distributed and network-based Processing)",
+                "description": "2019, 2018, 2017, 2016, 2015, 2014, 2013",
+                "url": "https://www.euromicro.com/conferences/pdp2019/",
+                "sub_entries": []
+            },
+            {
+                "title": "SCAsia (Supercomputing Asia)",
+                "description": "2020, 2019",
+                "url": "https://sc20.supercomputing.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "HPCS (International Conference on High Performance Computing & Simulation)",
+                "description": "2020, 2019, 2018, 2017",
+                "url": "https://hpcs.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "BIO-HPC (Workshop on Novel High Performance Computing algorithms and platforms in Bioinformatics)",
+                "description": "2019, 2018, 2017",
+                "url": "https://biohpc.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "HiCOMB (International Workshop on High Performance Computational Biology)",
+                "description": "2019",
+                "url": "https://hicomb.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "WORKS (Workshop On Workflows in Support of Large-Scale Science)",
+                "description": "2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014",
+                "url": "https://works-workshop.github.io/2023/",
+                "sub_entries": []
+            },
+            {
+                "title": "SBAC-PAD (The International Symposium on Computer Architecture and High Performance Computing)",
+                "description": "2019, 2017",
+                "url": "https://www.sbac-pad.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "WSSSPE (Workshop on Sustainable Software for Science: Practice and Experiences)",
+                "description": "2018, 2017, 2016, 2015",
+                "url": "https://wssspe.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "SE4Science (International Workshop on Software Engineering for Science)",
+                "description": "2019",
+                "url": "https://se4science.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "IWSG-A (International Workshop on Science Gateways Australia)",
+                "description": "2017, 2016, 2015",
+                "url": "https://sciencegateways.org/iwsg-a/",
+                "sub_entries": []
+            },
+            {
+                "title": "UCC Cloud Challenge",
+                "description": "2018, 2015",
+                "url": "https://ucc-cloud-challenge.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "ESG (International Conference on Energy Engineering and Smart Grids)",
+                "description": "2018",
+                "url": "https://www.esg-conference.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "Cloud Computing (The International Conference on Cloud Computing, GRIDs, and Virtualization)",
+                "description": "2017",
+                "url": "https://cloudcomputing.acm.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "AWICT (International Conference on Advanced Wireless Information, Data, and Communication Technologies)",
+                "description": "2017",
+                "url": "https://awict.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "WCCI (IEEE World Congress on Computational Intelligence)",
+                "description": "2016",
+                "url": "https://wcci.ieee.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "IT4RIs (International Workshop on Interoperable infrastructures for interdisciplinary big data sciences)",
+                "description": "2015",
+                "url": "https://it4ris.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "HealthGrid Conference",
+                "description": "2012",
+                "url": "https://healthgrid.org/",
+                "sub_entries": []
+            },
+            {
+                "title": "PUCOWO (P-GRADE Portal User COmmunity WOrkshop)",
+                "description": "2011, 2010",
+                "url": "https://pucowo.github.io/",
+                "sub_entries": []
+            },
+            {
+                "title": "GWW (Grid Workflow Workshop)",
+                "description": "2011",
+                "url": "https://gww.github.io/",
+                "sub_entries": [] 
+            }
+        ]
+    }
+
+]

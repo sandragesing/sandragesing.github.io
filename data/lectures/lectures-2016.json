@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Invited talk on Enabling Research without Geographical Boundaries via Collaborative Research Infrastructures",
+        "description": "AGU Fallmeeting, San Francisco, US, December 2016"
+    },
+    {
+        "title": "Invited talk on The Science Gateways Community Institute",
+        "description": "S2I2 HEP/CS Workshop 2016, University of Urbana-Champaign, US, December 2016"
+    },
+    {
+        "title": "Panel on Report to the Facilitator/Cyberpractitioner Community of an NSF-Supported Workshop on the Profession: Community-Building and Next Steps",
+        "description": "BoF, SC16, Salt Lake City, US, November 2016"
+    },
+    {
+        "title": "Insights into Cancer research by the ICTBioMed consortium",
+        "description": "Workshop on Computational Approaches for Cancer, SC16, Salt Lake City, US, November 2016"
+    },
+    {
+        "title": "Panel on The Science Gateways Community Institute",
+        "description": "SC16, Panel at SDSC Booth, Salt Lake City, US, November 2016"
+    },
+    {
+        "title": "Using Docker with GPUs",
+        "description": "CCL Workshop on Scalable Scientific Computing 2016, University of Notre Dame, US, October 2016"
+    },
+    {
+        "title": "Panel on Ushering Universities into the Digital Age",
+        "description": "Rigor and Relevance in Scholarly Publishing, Hesburgh Libraries, University of Notre Dame, US, October 2016"
+    },
+    {
+        "title": "Science Gateways – Leveraging Modeling and Simulations in HPC Infrastructures via Increased Usability",
+        "description": "cHiPSet Training School – New Trends in Modeling and Simulation in HPC Systems, Bucharest, Romania, September 2016"
+    },
+    {
+        "title": "Lightning Talk: The Science Gateways Community Institute – Supporting Communities to Achieve Sustainability for Their Science Gateways",
+        "description": "WSSSPE4 (4th Workshop on Sustainable Software for Science: Practice and Experiences), Manchester, UK, September 2016"
+    },
+    {
+        "title": "Seminar on Increasing the Efficiency of Workflows: Use Cases in the Life Sciences",
+        "description": "RCC/MURPA Seminars, The University of Queensland, Australia, August 2016"
+    },
+    {
+        "title": "Lecture on Usability, Re-usability and Sustainability for Workflows in the Life Sciences",
+        "description": "Malcolm Atkinson’s group, University of Edinburgh, UK, June 2016"
+    },
+    {
+        "title": "Studium Generale Bioinformatics – Containing Malaria",
+        "description": "Baden-Württemberg Cooperative State University, Mosbach, Germany, June 2016"
+    },
+    {
+        "title": "Lecture on Improving Bioinformatic Methods via Enhancing and Scaling Up Workflows",
+        "description": "Ewa Deelman’s group, Information Sciences Institute, University of Southern California, CA, USA, March 2016"
+    },
+    {
+        "title": "Lecture on Usability, Reusability and Reproducibility of Bioinformatic Applications",        
+        "description": "Robert Grossman Lab, Institute for Genomics & Systems Biology, University of Chicago, IL, USA, February 2016"   
+    }
+]
