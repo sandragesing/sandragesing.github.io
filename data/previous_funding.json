@@ -1,0 +1,117 @@
+[
+    {
+        "title": "Co-PI of Collaborative Research: EAGER: Characterizing Research Software from NSF Awards",
+        "description": "NSF (National Science Foundation), award id 2211276, Aug 2022-Jul 2024",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211276"
+    },
+    {
+        "title": "Co-PI of The US Research Software Sustainability Institute (URSSI)",
+        "description": "Sloan Foundation, Aug 2022-July 2024",
+        "url": "https://sloan.org/grant-detail/1000"
+    },
+    {
+        "title": "PI of Evaluation of HUBzero® as a Platform to Service a Diverse Set of Scientific Communities",
+        "description": "Contract, Jul 2017-Oct 2023",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2116851"
+    },
+    {
+        "title": "Co-PI of Wastewater Epidemiology",
+        "description": "Contracts with CDPH/IDPH, Jul 2022-Oct 2023",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230772"
+    },
+    {
+        "title": "Co-PI of International partnerships for accelerating climate-ready, sustainable, and clean urban transportation",
+        "description": "NSF (National Science Foundation), award id 2230772, Jan 2023-Oct 2023",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230772"
+    },
+    {
+        "title": "PI of EAGER: VisDict - Visual Dictionaries for Enhancing the Communication between Domain Scientists and Scientific Workflow Providers",
+        "description": "NSF (National Science Foundation), award id 2216851, May 2021-Oct 2023",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2216851"
+    },
+    {
+        "title": "Co-PI of S2I2: Impl: The Science Gateways Community Institute (SGCI) for the Democratization and Acceleration of Science",
+        "description": "NSF (National Science Foundation), award id 1547611, Aug 2016-Jul 2023",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547611"
+    },
+    {
+        "title": "Co-PI of Sustainable software for sustainable manufacturing: developing and training of open-source, high-performance computing simulation tools for additive manufacturing",
+        "description": "Illinois Innovation Network, Jun 2022-Aug 2023",
+        "url": "https://innovation.illinois.edu/grants/sustainable-software-for-sustainable-manufacturing-developing-and-training-of-open-source-high-performance-computing-simulation-tools-for-additive-manufacturing"
+    },
+    {
+        "title": "Senior Personnel on CyberTraining: Pilot: A Professional Development and Certification Program for Cyberinfrastructure Facilitators",
+        "description": "NSF (National Science Foundation), award id 2118193, Sept 2021-Aug 2023",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2118193"
+    },
+    {
+        "title": "Co-PI of Coordinating Curricula and User Preferences to Maximize the Participation of Women and Students of Color in Engineering",
+        "description": "NSF (National Science Foundation), award id 1826632, Oct 2018-Sep 2022",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826632"
+    },
+    {
+        "title": "Co-PI of SI2-S2I2 Conceptualization: Conceptualizing a US Research Software Sustainability Institute (URSSI)",
+        "description": "NSF (National Science Foundation), award id 1743188, Dec 2017-Jun 2021",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743188"
+    },
+    {
+        "title": "Co-PI of Tools and Services to Improve Preservation and Re-use of Research Data & Software",
+        "description": "IMLS (Institute of Museum and Library Services), National Leadership Grants for Libraries, award id LG-70-18-0082-18, Jul 2018-Jun 2021",
+        "url": "https://www.imls.gov/grants/awarded/lg-70-18-0082-18"
+    },
+    {
+        "title": "II-New: Infrastructure for Supporting Biomedical Application Algorithms, Runtime Development and Resource Management",
+        "description": "NSF (National Science Foundation), award id 1629914, Aug 2016-Jul 2019",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1629914"
+    },
+    {
+        "title": "High-Performance Modelling and Simulation for Big Data Applications (cHiPSet)",
+        "description": "ICT COST Action IC1406, April 2015-April 2019", 
+        "url": "https://www.ict.usc.edu/cost-action/ic1406"
+    },
+    {
+        "title": "Co-PI of Planning a Research Data & Software Preservation Quality Tool",
+        "description": "IMLS (Institute of Museum and Library Services), National Leadership Grants for Libraries, award id LG-72-16-0122-16, Nov 2016-Oct 2018",
+        "url": "https://www.imls.gov/grants/awarded/lg-72-16-0122-16"
+    },
+    {
+        "title": "PI of 8th International Workshop on Science Gateways (IWSG 2016) grant",
+        "description": "NSF (National Science Foundation), award id 1632929, May 2016-Apr 2018",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632929"
+    },
+    {   
+        "title": "PI of International Workshop on Science Gateways (IWSG 2014) grant",
+        "description": "NSF (National Science Foundation), award id 1443149, May 2014-Apr 2015",
+        "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1443149"
+    },
+    {
+        "title": "PI of UNICORE Use Case Integration for XSEDE and PRACE",
+        "description": "PRACE XSEDE Request for Support, Apr 2014-Mar 2015",
+        "url": "https://www.xsede.org/web/unicore/use-case-integration-for-xsede-and-prace"
+    },    
+    {
+        "title": "Modeling Malaria Transmission on Windows Azure",
+        "description": "Windows Azure Research Award Program, 2014",
+        "url": "https://research.microsoft.com/en-us/projects/modeling-malaria-transmission-on-windows-azure/"
+    },
+    {
+        "title": "The Broader Engagement Travel grant for SC14",
+        "description": "November 2014, New Orleans",
+        "url": "https://www.broader.org/funding/grants/travel-grants/the-broader-engagement-travel-grant-for-sc14"
+    },
+    {
+        "title": "SCI-BUS (Scientific gateway Based User Support)",
+        "description": "EU FP7/2007-2013 grant agreement no 28348, Sep 2011-Aug 2014",
+        "url": "https://sci-bus.eu/"
+    },
+    {
+        "title": "MoSGrid (Molecular Simulation Grid)",
+        "description": "BMBF (German Federal Ministry of Education and Research) reference 01IG09006, Oct 2009-Sep 2012",
+        "url": "https://www.bmbf.de/en/projects/mosgrid.html"
+    },
+    {
+        "title": "Semantic Grid Portal for Bioinformatic Applications",
+        "description": "Baden-Württemberg Ministry of Science, Research and the Arts, 2010-2011",
+        "url": "https://www.baden-wuerttemberg.de/en/research/projects/semantic-grid-portal-for-bioinformatic-applications/"
+    }
+]
