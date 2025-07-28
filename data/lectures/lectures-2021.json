@@ -1,0 +1,122 @@
+[
+    {
+        "title": "SGCI: Advancing Access to Scientific Software via Science Gateways Improves the Trust within the Computational Sciences Landscape",
+        "description": "Workshop on the Science of Scientific-Software Development and Use, December 2021"
+    },
+    {
+        "title": "The US-RSE Association: Accelerating Changes in the Scientific-Computing Community to Improve Practices for Software Development and Use",
+        "description": "Workshop on the Science of Scientific-Software Development and Use, December 2021"
+    },
+    {
+        "title": "VisDict: Enhancing the Communication between Workflow Providers and User Communities via a Visual Dictionary",
+        "description": "WORKS21, 16th Workshop on Workflows in Support of Large-Scale Science at SC21, November 2021"
+    },
+    {
+        "title": "FAIR for VREs: The Path Forward",
+        "description": "RDA 18th Plenary, November 2021"
+    },
+    {
+        "title": "VREs/Virtual Labs/Science Gateways: Is FAIRness Sufficient to Increase Trust in VREs and to Foster Critical Thinking?",
+        "description": "RDA 18th Plenary, November 2021"
+    },
+    {
+        "title": "Panel on Gateways Conference Advisory Board panel — discussion on the path forward for the Gateways Conference",
+        "description": "Gateways 2021, October 2021"
+    },
+    {
+        "title": "Panel on SGCI PI Panel—discussion on the path forward for the SGCI",
+        "description": "Gateways 2021, October 2021"
+    },
+    {
+        "title": "Panel on Best practices in CDI research",
+        "description": "The Xpert Network Meetings series, September 2021"
+    },
+    {
+        "title": "FAIR4RS Subgroup Adoption Guidelines",
+        "description": "FAIR 4 Research Software, September 2021"
+    },
+    {
+        "title": "Teatime on What makes RSEs unique members of a software team?",
+        "description": "Collegeville Workshop 2021, July 2021"
+    },
+    {
+        "title": "A Vision for Science Gateways: Bridging the Gap and Broadening the Outreach",
+        "description": "PEARC21, July 2021"
+    },
+    {
+        "title": "BoF on Marketing and Promotion of Scientific Activities for Sustainability Purposes",
+        "description": "PEARC21, July 2021"
+    },
+    {
+        "title": "Panel on Research Software Engineer (RSE) Careers – State of the Profession, Opportunities, and Challenges in Academia",
+        "description": "PEARC21, July 2021"
+    },
+    {
+        "title": "Best Practices for FAIR Research Software",
+        "description": "ESIP Summer Meeting, July 2021"
+    },
+    {
+        "title": "Panel on Best practices in CDI research, training new group members on those best practices, and supporting science teams",
+        "description": "The Xpert Network Meetings series, July 2021"
+    },
+    {
+        "title": "Panel on Sustaining Integrated Solutions for Accelerating Science with Science Gateways",
+        "description": "Internet2 Community Voices Series, July 2021"
+    },
+    {
+        "title": "FAIR Implementations, Challenges & Solutions",
+        "description": "FAIR Festival 2021, June 2021"
+    },
+    {
+        "title": "Panel on Teams of CI Professionals: Recruitment & Retention, Management, Team-building, and Motivation",
+        "description": "Joint session IWSG 2021 and Virtual Residency 2021, June 2021"
+    },
+    {
+        "title": "PresQT Services – A Path Forward for Connecting Platforms While Increasing Quality and FAIRness of Data and Software",
+        "description": "US-RSE Virtual Workshop 2021, May 2021"
+    },
+    {
+        "title": "Bridging Gaps and Broadening Participation in Today’s and Future Research Computing Ecosystem",
+        "description": "Discovery Partner Institute, May 2021"
+    },
+    {
+        "title": "US-RSE Community Building",
+        "description": "GO FAIR US Data Stewardship Interest Group, April 2021"
+    },
+    {
+        "title": "VREs/Virtual Labs/Science Gateways: Visions for addressing barriers, needs and requirements for the next generation of VREs",
+        "description": "17th RDA Plenary, April 2021"
+    },
+    {
+        "title": "PresQT – Preservation Quality Tool",
+        "description": "17th RDA Plenary, April 2021"
+    },
+    {
+        "title": "Science Gateways and Research Software",
+        "description": "Moment to See, Courage to Act, April 2021"
+    },
+    {
+        "title": "PresQT – Services to Improve Re-use and FAIRness of Research Data and Software",
+        "description": "Collaborations Workshop 2021 (CW21), March 2021"
+    },
+    {
+        "title": "HUBzero – Achieving Software Sustainability for a Science Gateway Framework",
+        "description": "Collaborations Workshop 2021 (CW21), March 2021"
+    },
+    {
+        "title": "Enhancing Sustainability and Productivity for Research Software",
+        "description": "SIAM CSE21, March 2021"
+    },
+    {
+        "title": "Models and Workflows Driven by Data",
+        "description": "MaRDA Annual Meeting, February 2021"
+    },
+    {
+        "title": "Best practices for Data-Intensive applications",
+        "description": "Xpert Network Panel, February 2021"
+    },
+    {
+        "title": "PresQT – How to achieve FAIRness in your gateway",
+        "description": "SGCI Webinar, February 2021"
+    }
+]

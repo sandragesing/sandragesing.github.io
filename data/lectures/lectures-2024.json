@@ -1,0 +1,182 @@
+[
+    {
+        "title": "SGX3 and NAIRR: The NAIRR Pilot Portal and a Vision for a NAIRR Portal",
+        "description": "SGX3 Webinar, December 2024"
+    },
+    {
+        "title": "Keynote on Bridging Disciplines and Accelerating Discovery: Science Gateways and Workflows for Data-Driven Innovation",
+        "description": "Fonda Retreat, Kremmen, December 2024"
+    },
+    {
+        "title": "Science Gateways and Research Software Engineers: Catalysts for Progress in Science",
+        "description": "University of Potsdam, November 2024"
+    },
+    {
+        "title": "Panelist on Professional Development",
+        "description": "SC24, SDSC booth, November 2024"
+    },
+    {
+        "title": "Virtual Research Environment IG: VREs/Virtual Labs/Science Gateways: Defining FAIRness badges for VREs",
+        "description": "RDA’s 23rd Plenary, Costa Rica and virtual, November 2024"
+    },
+    {
+        "title": "Panelist on Building an Inclusive HPC Workforce for the Future,",
+        "description": "NERSC@50, Berkeley, CA, US, October 2024"
+    },
+    {
+        "title": "Importance of Science Gateway Frameworks for Research and Their Benefits for Research Software Engineers,",
+        "description": "US-RSE’24, Albuquerque, NM, US, October 2024"
+    },
+    {
+        "title": "RSE Model at the Center for Research ComputingUniversity of Notre Dame,",
+        "description": "US-RSE’24, Albuquerque, NM, US, October 2024"
+    },
+    {
+        "title": "Keynote US-RSE: Together We Grow Strong RSE Careers and a Thriving Community,",
+        "description": "US-RSE’24, Albuquerque, NM, US, October 2024"
+    },
+    {
+        "title": "Panel Community Growth: Achievements Enhanced by SGCI/SGX3 Services,",
+        "description": "Gateways 2024, Bozeman, MT, US, October 2024"
+    },
+    {
+        "title": "Keynote SGX3 Highlights,",
+        "description": "Gateways 2024, Bozeman, MT, US, October 2024"
+    },
+    {
+        "title": "Focus Group Vision for the NAIRR portal,",
+        "description": "Gateways 2024, Bozeman, MT, US, October 2024"
+    },
+    {
+        "title": "SGX3 Webinar: Blueprint Factories,",
+        "description": "SGX3 Webinar Series, virtual, September 2024"
+    },
+    {
+        "title": "US-RSE: Empowering Hidden Contributors Accelerating Science,",
+        "description": "IEEE Computer Society, Chicago Chapter, virtual, September 2024"
+    },
+    {
+        "title": "Panelist in Strategy and Policy Panel,",
+        "description": "RSE Asia Australia Unconference, virtual, September 2024"
+    },
+    {
+        "title": "Keynote in the Worldwide session US-RSE: Where Coders and Researchers Collide (And Sometimes Make Magic),",
+        "description": "RSECon, Newcastle, UK, September 2024"
+    },
+    {
+        "title": "US-RSE: Increase Diversity of Volunteers,",
+        "description": "RSECon, Newcastle, UK, September 2024"
+    },
+    {
+        "title": "Panelist on The People Resource Gap,",
+        "description": "NSF CSSI/CyberTraining/SCIPE PI Meeting, Charlotte, NS, US, August 2024"
+    },
+    {
+        "title": "US-RSE: Empowering Hidden Contributors Driving Science,",
+        "description": "HDF5 User Group Meeting, Chicago, IL, US, August 2024"
+    },
+    {
+        "title": "Accelerating Science: It Takes a Village,",
+        "description": "University of Ljubljana, Lubljana, Slovenia, August 2024"
+    },
+    {
+        "title": "BOF: Reproducibility of Computational Research Community of Practice,",
+        "description": "PEARC24, Providence, RI, US, July 2024"
+    },
+    {
+        "title": "CoCo – The Communities of Communities,",
+        "description": "PEARC24, Providence, RI, US, July 2024"
+    },
+    {
+        "title": "The US Research Software Engineer Association (US-RSE),",
+        "description": "ACES Workshop 2024, Providence, RI, US, July 2024"
+    },
+    {
+        "title": "CI CoE: SGX3 – A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for CI Through Science Gateways",
+        "description": "ACES Workshop 2024, Providence, RI, US, July 2024"
+    },
+    {
+        "title": "How could FAIRness badges for providers, developers and users of science gateways look like?,",
+        "description": "SGX3 webinar, July 2024"
+    },
+    {
+        "title": "Certification WG: FAIR and Modeling",
+        "description": "iEMSS, virtual, June 2024"
+    },
+    {
+        "title": "US-RSE and SGX3: Accelerating Science and Empowering Hidden Contributors",
+        "description": "Argonne CS Seminar, virtual, June 2024"
+    },
+    {
+        "title": "Keynote US-RSE: Empowering Hidden Contributors Driving Science",
+        "description": "7th Texas A&M Research Computing Symposium, College Station, TX, May 2024"
+    },
+    {
+        "title": "VREs/Virtual Labs/Science Gateways: How could FAIRness badges for providers, developers and users of VREs look like?,",
+        "description": "22th RDA Plenary, May 2024, Virtual"
+    },
+    {
+        "title": "How to Position Your Globus Data Portal for Success: Ten Good Practices",
+        "description": "Globus World 2024, Chicago, IL, May 2024"
+    },
+    {
+        "title": "The US Research Software Engineer Association – Aiming at Collaborating with ChiHackNight",
+        "description": "Collaborations Workshop, virtual, May 2024"
+    },
+    {
+        "title": "The US Research Software Association",
+        "description": "ChiHackNight, virtual, April 2024"
+    },
+    {
+        "title": "Panel Research Computing and Modeling",
+        "description": "ModelShare Workshop Series, virtual, April 2024"
+    },
+    {
+        "title": "Empowering RSE Leaders: Fueling the Passion without Burning Out",
+        "description": "RSE Leaders Meeting, virtual, April 2024"
+    },
+    {
+        "title": "Panelist on The Turing Way: Aligning Professional Roles and Incentives with Open, Reproducible, and Ethical Research",
+        "description": "Year of Open Science Culminating Conference, virtual, March 2024"
+    },
+    {
+        "title": "US-RSE: Empowering Hidden Contributors Driving Science",
+        "description": "The Coalition for Academic Scientific Computation, Arlington, VI, US, March 2024"
+    },
+    {
+        "title": "Keynote Ushering in a New Era with Unconventional Paths and Hidden Contributors Driving Discoveries in Academia and National Labs",
+        "description": "National Data Science Fabric All Hands Meeting, San Diego, CA, US, March 2024"
+    },
+    {
+        "title": "FAIR for Virtual Research Environments WG- Recommendations for making VREs FAIR and FAIR-enabling",
+        "description": "RDA Organizational Assembly Meeting, virtual, February 2024"
+    },
+    {
+        "title": "SGX3: Science Gateways – Allowing for Accessing Complex Infrastructure More Smoothly",
+        "description": "US-RSE UX Working Group, virtual, February 2024"
+    },
+    {
+        "title": "SGX3: Accelerate Research and Teaching via Science Gateways",
+        "description": "Special SGX3 Webinar, February 2024"
+    },
+    {
+        "title": "Science Gateways and FAIR",
+        "description": "SGX3 Webinar, January 2024"
+    },
+    {
+        "title": "US-RSE and SGX3: Accelerators of Research and Why Research Software Engineers and Science Gateways Creators are so Important for Computational Research",
+        "description": "University of Hawaiʻi at Mānoa, Honolulu, HI, US, January 2024"
+    },
+    {
+        "title": "Introduction to Software Sustainability",
+        "description": "HICSS-57, Honolulu, HI, US, January 2024"
+    },
+    {
+        "title": "Minitrack: Smart Application Development and Data Streaming: IoT, I4.0, Smart Cities and More",
+        "description": "HICSS-57, Honolulu, HI, US, January 2024"
+    },
+    {
+        "title": "Tutorial FAIR Data and Software Management in the Age of AI",
+        "description": "HICSS-57, Honolulu, HI, US, January 2024"
+    }
+]
