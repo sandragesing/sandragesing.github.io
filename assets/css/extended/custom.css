@@ -36,3 +36,14 @@
 .description {
   font-size: 0.8rem;
 }
+
+.post-content a{
+  color: var(--secondary);
+}
+
+.column-1 {
+  width: 8rem;
+}
+.sub_entries {
+  padding-left: 1rem;
+}
