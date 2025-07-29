@@ -1,18 +1,46 @@
 [
-    {
-        "title": "PhD in computer science in the Applied Bioinformatics Group, University of Tübingen, Germany",
-        "description": "2013"
-    },
-    {
-        "title": "Diplom-Informatiker with distinction (equivalent to a Master's degree in computer science) at FernUniversität Hagen (extramural studies), Germany",
-        "description": "2005"
-    },
-    {
-        "title": "Student at UCLA, Los Angeles, US",
-        "description": "2001"
-    },    
-    {
-        "title": "Apprenticeship \"Mathematisch-technische Assistentin\" at Westfälische Wilhelms-Universität Münster, Germany",
-        "description": "1994"
-    }
+  {
+    "title": "PhD in computer science in the Applied Bioinformatics Group, University of Tübingen, Germany",
+    "description": "2013",
+    "links": [
+      {
+        "url": "http://www-abi.informatik.uni-tuebingen.de/",
+        "text": "Applied Bioinformatics Group"
+      },
+      {
+        "url": "http://www.uni-tuebingen.de/en.html",
+        "text": "University of Tübingen"
+      }
+    ]
+  },
+  {
+    "title": "Diplom-Informatiker with distinction (equivalent to a Master's degree in computer science) at FernUniversität Hagen (extramural studies), Germany",
+    "description": "2005",
+    "links": [
+      {
+        "url": "http://www.fernuni-hagen.de/mathinf/",
+        "text": "FernUniversität Hagen"
+      }
+    ]
+  },
+  {
+    "title": "Student at UCLA, Los Angeles, US",
+    "description": "2001",
+    "links": [
+      {
+        "url": "http://www.ucla.edu/",
+        "text": "UCLA"
+      }
+    ]
+  },
+  {
+    "title": "Apprenticeship \"Mathematisch-technische Assistentin\" at Westfälische Wilhelms-Universität Münster, Germany",
+    "description": "1994",
+    "links": [
+      {
+        "url": "http://www.uni-muenster.de/",
+        "text": "Westfälische Wilhelms-Universität Münster"
+      }
+    ]
+  }
 ]

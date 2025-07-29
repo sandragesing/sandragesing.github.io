@@ -1,62 +1,133 @@
 [
-    {
-        "title": "US Research Software Engineers Association (US-RSE)",
-        "description": "since 2023"
-    },
-    {
-        "title": "San Diego Supercomputer Center (SDSC) at UC San Diego",
-        "description": "since 2023"
-    },
-    {
-        "title": "National Model for Long-Term Support of High-Potential Kids in Unstable Housing",
-        "desciription": "since 2020"
-    },
-    {
-        "title": "Discovery Partner Institute (DPI)",
-        "description": "2021 - 2023"
-    },
-    {
-        "title": "HUBzero Team",
-        "description": "2017 - 2023"
-    },
-    {
-        "title": "Figuro3D LLC",
-        "description": "2016 - 2020"
-    },
-    {
-        "title": "Center for Research Computing and Department of Computer Science and Engineering",
-        "description": "2013 - 2021"
-    },
-    {
-        "title": "Edinburgh Data-Intensive Research Group",
-        "description": "2014 - 2019"
-    },
-    {
-        "title": "diamedi UG (haftungsbeschränkt)",
-        "description": "2012 - 2014"
-    },
-    {
-        "title": "Freelancer",
-        "description": "2011 - 2013"
-    },
-    {
-        "title": "Applied Bioinformatics Group and at ZDV",
-        "description": "2006 - 2011"
-    },
-    {
-        "title": "Research Associate",
-        "description": "2001"
-    },
-    {
-        "title": "Intergest North America",
-        "description": "2000 - 2004"
-    },
-    {
-        "title": "LVM Versicherungen Münster",
-        "description": "1996 - 2006"
-    },
-    {
-        "title": "PARADOR, Coresfeld, Germany",
-        "description": "1994 - 1996"
-    }
+  {
+    "title": "US Research Software Engineers Association (US-RSE)",
+    "description": "since 2023",
+    "links": [
+      {
+        "url": "https://us-rse.org/",
+        "text": "US Research Software Engineers Association (US-RSE)"
+      }
+    ]
+  },
+  {
+    "title": "San Diego Supercomputer Center (SDSC) at UC San Diego",
+    "description": "since 2023",
+    "links": [
+      {
+        "url": "https://www.sdsc.edu/",
+        "text": "San Diego Supercomputer Center"
+      }
+    ]
+  },
+  {
+    "title": "National Model for Long-Term Support of High-Potential Kids in Unstable Housing",
+    "desciription": "since 2020",
+    "links": [
+      {
+        "url": "https://www.chicagohopesforkids.org/",
+        "text": "National Model for Long-Term Support of High-Potential Kids in Unstable Housing"
+      }
+    ]
+  },
+  {
+    "title": "Discovery Partner Institute (DPI)",
+    "description": "2021 - 2023",
+    "links": [
+      {
+        "url": "https://dpi.uillinois.edu/dpi-vision/",
+        "text": "Discovery Partner Institute (DPI)"
+      }
+    ]
+  },
+  {
+    "title": "HUBzero Team",
+    "description": "2017 - 2023",
+    "links": [
+      {
+        "url": "https://hubzero.org/",
+        "text": "HUBzero Team"
+      }
+    ]
+  },
+  {
+    "title": "Figuro3D LLC",
+    "description": "2016 - 2020"
+  },
+  {
+    "title": "Center for Research Computing and Department of Computer Science and Engineering",
+    "description": "2013 - 2021",
+    "links": [
+      {
+        "url": "https://crc.nd.edu/",
+        "text": "Center for Research Computing"
+      },
+      {
+        "url": "http://cse.nd.edu/",
+        "text": "Department of Computer Science and Engineering"
+      }
+    ]
+  },
+  {
+    "title": "Edinburgh Data-Intensive Research Group",
+    "description": "2014 - 2019",
+    "links": [
+      {
+        "url": "http://research.nesc.ac.uk/",
+        "text": "Edinburgh Data-Intensive Research Group"
+      }
+    ]
+  },
+  {
+    "title": "diamedi UG (haftungsbeschränkt)",
+    "description": "2012 - 2014"
+  },
+  {
+    "title": "Freelancer",
+    "description": "2011 - 2013"
+  },
+  {
+    "title": "Applied Bioinformatics Group and at ZDV",
+    "description": "2006 - 2011",
+    "links": [
+      {
+        "url": "http://www-abi.informatik.uni-tuebingen.de/",
+        "text": "Applied Bioinformatics Group"
+      },
+      {
+        "url": "http://www.zdv.uni-tuebingen.de/",
+        "text": "ZDV"
+      }
+    ]
+  },
+  {
+    "title": "Intergest North America",
+    "description": "2000 - 2004",
+    "links": [
+      {
+        "url": "http://www.intergest.com/en/home/",
+        "text": "Intergest North America"
+      }
+    ]
+  },
+  {
+    "title": "LVM Versicherungen Münster",
+    "description": "1996 - 2006",
+    "links": [
+      {
+        "url": "http://www.lvm.de/",
+        "text": "LVM Versicherungen"
+      }
+    ]
+    
+  },
+  {
+    "title": "PARADOR, Coresfeld, Germany",
+    "description": "1994 - 1996",
+    "links": [
+      {
+        "url": "http://en.parador.eu/",
+        "text": "PARADOR"
+      }
+    ]
+  }
 ]
