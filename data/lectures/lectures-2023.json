@@ -1,94 +1,320 @@
 [
-    {
-        "title": "Science Gateways: Accelerating Research and Education via Collaboration Platforms",
-        "description": "Virtual Listening Session for the U.S. Government National Standards Strategy for Critical and Emerging Technology, virtual, Dec 2023"
-    },
-    {
-        "title": "Science Gateways",
-        "description": "People’s Network End of Year Party, virtual, Dec 2023"
-    },
-    {
-        "title": "US-RSE",
-        "description": "People’s Network End of Year Party, virtual, Dec 2023"
-    },
-    {
-        "title": "US-RSE: Envisioning the Next Stage and Defining Next Steps",
-        "description": "HIRSE seminar, virtual, Dec 2023"
-    },
-    {
-        "title": "Booth panel on The Value of Research Science Gateways and Computing Cyberinfrastructure",
-        "description": "SC23, Denver, CO, Nov 2023"
-    },
-    {
-        "title": "Envisioning the Next Stage of US-RSE and Synergies with the Center of Excellence for Science Gateways (SGX3)",
-        "description": "Community Call US-RSE combined with SGX3 webinar, Nov 2023"
-    },
-    {
-        "title": "How to Position Your Gateway for Success: Ten Good Practices",
-        "description": "Gateways 2023, Pittsburgh, PA, USA, Oct 2023"
-    },
-    {
-        "title": "SGX3: Novel Concepts to Enhance Knowledge and Extend the Community Around Science Gateways",
-        "description": "Gateways 2023, Pittsburgh, PA, USA, Oct 2023"
-    },
-    {
-        "title": "Unleashing Quantum Algorithms in QubitHub: Bridging the Gap Between Theory and Practice Across Leading Quantum Computing Platforms",
-        "description": "Gateways 2023, Pittsburgh, PA, USA, Oct 2023"
-    },
-    {
-        "title": "Empowering Researchers Applying Data Science and Cyberinfrastructure via Science Gateways",
-        "description": "South Big Data Hub, Data Sharing and Cyberinfrastructure Working Group, virtual, September 2023"
-    },
-    {
-        "title": "Science Gateways",
-        "description": "High-performance computing and additive manufacturing summer camp, Chicago, IL, USA, Aug 2023"
-    },
-    {
-        "title": "Reproducibility of Computational Research",        
-        "description": "BoF at PEARC23, Portland, OR, USA, July 2023"
-    },
-    {
-        "title": "Introduction to the Community of Communities",
-        "description": "PEARC23, Portland, OR, USA, July 2023"
-    },
-    {
-        "title": "SGX3: Accelerated Services and Community Interactions Supporting Open-Source Science",
-        "description": "Advancing Science with Open Source, Chicago, IL, USA, July 2023"
-    },
-    {
-        "title": "Panel Research Data Management",
-        "description": "Virtual Residency, virtual, June 2023"
-    },
-    {
-        "title": "Starting with a Firm Foundation: Building a Sustainability Program for the Australian Research Data Commons",
-        "description": "IWSG 2023, Tuebingen, Germany, June 2023"
-    },        
-    {
-        "title": "Virtual Research Environments: A Vision for the Next 10 Years",
-        "description": "The RDA’s 10th Anniversary Events and Activities, virtual, May 2023"
-    },
-    {
-        "title": "US-RSE and SGX3: Accelerated Services and Community Interactions Supporting Research Software Engineers",
-        "description": "The Austin Python Monthly Meetup, Austin, May 2023"
-    },
-    {
-        "title": "SGX3/SGCI: Science Gateways Support for Accelerating Research",
-        "description": "Advisory Board for Faculty, University of Central Florida, Virtual, April 2023"
-    },
-    {
-        "title": "Science Gateways in Neuroscience: Accelerating Information on Grey Cells Via Computational Nodes",
-        "description": "NeuroGateways, Birmingham, AL, March 2023"
-    },
-    {
-        "title": "Draft recommendations for making VREs FAIR and FAIR-enabling",
-        "description": "RDA P20, Gothenborg, Sweden, March 2023"
-    },
-    {
-        "title": "Panel Usability Trends in Smart (City) Applications",
-        "description": "HICSS56, Maui, HI, January 2023"
-    },
-    {
-        "title": "Tutorial Data and software management and re-use with FAIR in the age of Big Data",        
-        "description": "HICSS56, Maui, HI, January 2023"
-    }
+  {
+    "title": "Science Gateways: Accelerating Research and Education via Collaboration Platforms",
+    "description": "Virtual Listening Session for the U.S. Government National Standards Strategy for Critical and Emerging Technology, virtual, Dec 2023",
+    "links": [
+      {
+        "text": "Science Gateways: Accelerating Research and Education via Collaboration Platforms",
+        "url": "http://sandra-gesing.com/wp-content/uploads/2023/12/NIST-National-Standards-Strategy-for-Critical-and-Emerging-Technology-Listening-session.pdf"
+      },
+      {
+        "text": "Virtual Listening Session for the U.S. Government National Standards Strategy for Critical and Emerging Technology",
+        "url": "https://www.nist.gov/news-events/events/virtual-listening-session-us-government-national-standards-strategy-critical-and"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways",
+    "description": "People’s Network End of Year Party, virtual, Dec 2023",
+    "links": [
+      {
+        "text": "Science Gateways",
+        "url": "http://sandra-gesing.com/wp-content/uploads/2023/12/ScienceGatewaysCaRCC2023Sandra.pdf"
+      },
+      {
+        "text": "People’s Network End of Year Party",
+        "url": "https://carcc.org/event/annnual-party-2023/"
+      }
+    ]
+  },
+  {
+    "title": "US-RSE",
+    "description": "People’s Network End of Year Party, virtual, Dec 2023",
+    "links": [
+      {
+        "text": "US-RSE",
+        "url": "http://sandra-gesing.com/wp-content/uploads/2023/12/CaRCC2023US-RSESandra.pdf"
+      },
+      {
+        "text": "People’s Network End of Year Party",
+        "url": "https://carcc.org/event/annnual-party-2023/"
+      }
+    ]
+  },
+  {
+    "title": "US-RSE: Envisioning the Next Stage and Defining Next Steps",
+    "description": "HIRSE seminar, virtual, Dec 2023",
+    "links": [
+      {
+        "text": "US-RSE: Envisioning the Next Stage and Defining Next Steps",
+        "url": "https://www.youtube.com/watch?v=Gy2i1borUPc"
+      },
+      {
+        "text": "HIRSE seminar",
+        "url": "https://www.helmholtz-hirse.de/"
+      }
+    ]
+  },
+  {
+    "title": "Booth panel on The Value of Research Science Gateways and Computing Cyberinfrastructure",
+    "description": "SC23, Denver, CO, Nov 2023",
+    "links": [
+      {
+        "text": "SC23",
+        "url": "https://sc23.supercomputing.org/"
+      }
+    ]
+  },
+  {
+    "title": "Envisioning the Next Stage of US-RSE and Synergies with the Center of Excellence for Science Gateways (SGX3)",
+    "description": "Community Call US-RSE combined with SGX3 webinar, Nov 2023",
+    "links": [
+      {
+        "text": "Envisioning the Next Stage of US-RSE and Synergies with the Center of Excellence for Science Gateways (SGX3)",
+        "url": "https://docs.google.com/presentation/d/1-E0Hr32fsk51awaO36uLP8eQGXBueXmD/edit#slide=id.p1"
+      },
+      {
+        "text": "Community Call US-RSE",
+        "url": "https://us-rse.org/"
+      },
+      {
+        "text": "SGX3 webinar",
+        "url": "https://sciencegateways.org/"
+      }
+    ]
+  },
+  {
+    "title": "How to Position Your Gateway for Success: Ten Good Practices",
+    "description": "Gateways 2023, Pittsburgh, PA, USA, Oct 2023",
+    "links": [
+      {
+        "text": "How to Position Your Gateway for Success: Ten Good Practices",
+        "url": "https://sciencegateways.org/gateways2023-program"
+      },
+      {
+        "text": "Gateways 2023",
+        "url": "https://sciencegateways.org/gateways2023"
+      }
+    ]
+  },
+  {
+    "title": "SGX3: Novel Concepts to Enhance Knowledge and Extend the Community Around Science Gateways",
+    "description": "Gateways 2023, Pittsburgh, PA, USA, Oct 2023",
+    "links": [
+      {
+        "text": "SGX3: Novel Concepts to Enhance Knowledge and Extend the Community Around Science Gateways",
+        "url": "https://sciencegateways.org/gateways2023-program"
+      },
+      {
+        "text": "Gateways 2023",
+        "url": "https://sciencegateways.org/gateways2023"
+      }
+    ]
+  },
+  {
+    "title": "Unleashing Quantum Algorithms in QubitHub: Bridging the Gap Between Theory and Practice Across Leading Quantum Computing Platforms",
+    "description": "Gateways 2023, Pittsburgh, PA, USA, Oct 2023",
+    "links": [
+      {
+        "text": "Unleashing Quantum Algorithms in QubitHub: Bridging the Gap Between Theory and Practice Across Leading Quantum Computing Platforms",
+        "url": "https://sciencegateways.org/gateways2023-program"
+      },
+      {
+        "text": "Gateways 2023",
+        "url": "https://sciencegateways.org/gateways2023"
+      }
+    ]
+  },
+  {
+    "title": "Empowering Researchers Applying Data Science and Cyberinfrastructure via Science Gateways",
+    "description": "South Big Data Hub, Data Sharing and Cyberinfrastructure Working Group, virtual, September 2023",
+    "links": [
+      {
+        "text": "South Big Data Hub, Data Sharing and Cyberinfrastructure Working Group",
+        "url": "https://southbigdatahub.org/newsblog/data-and-cyberinfrastructure-working-group"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways",
+    "description": "High-performance computing and additive manufacturing summer camp, Chicago, IL, USA, Aug 2023",
+    "links": [
+      {
+        "text": "Science Gateways",
+        "url": "https://github.com/TJFord/HPC_AM_Training/"
+      },
+      {
+        "text": "High-performance computing and additive manufacturing summer camp",
+        "url": "https://github.com/TJFord/HPC_AM_Training/"
+      }
+    ]
+  },
+  {
+    "title": "Reproducibility of Computational Research",
+    "description": "BoF at PEARC23, Portland, OR, USA, July 2023",
+    "links": [
+      {
+        "text": "Reproducibility of Computational Research",
+        "url": "https://web.cvent.com/event/432c5157-4c39-4db1-a2cd-d6bba1ddc25d/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce"
+      },
+      {
+        "text": "PEARC23",
+        "url": "https://pearc.acm.org/pearc23/"
+      }
+    ]
+  },
+  {
+    "title": "Introduction to the Community of Communities",
+    "description": "PEARC23, Portland, OR, USA, July 2023",
+    "links": [
+      {
+        "text": "Introduction to the Community of Communities",
+        "url": "https://coco.cyberinfrastructure.org/"
+      },
+      {
+        "text": "PEARC23",
+        "url": "https://pearc.acm.org/pearc23/"
+      }
+    ]
+  },
+  {
+    "title": "SGX3: Accelerated Services and Community Interactions Supporting Open-Source Science",
+    "description": "Advancing Science with Open Source, Chicago, IL, USA, July 2023",
+    "links": [
+      {
+        "text": "SGX3: Accelerated Services and Community Interactions Supporting Open-Source Science",
+        "url": "https://www.meetup.com/_chipy_/events/294379860/"
+      },
+      {
+        "text": "Advancing Science with Open Source",
+        "url": "https://www.meetup.com/_chipy_/events/294379860/"
+      }
+    ]
+  },
+  {
+    "title": "Panel Research Data Management",
+    "description": "Virtual Residency, virtual, June 2023",
+    "links": [
+      {
+        "text": "Research Data Management",
+        "url": "http://www.oscer.ou.edu/virtualresidency2023.php#agendafri"
+      },
+      {
+        "text": "Virtual Residency",
+        "url": "http://www.oscer.ou.edu/virtualresidency2023.php"
+      }
+    ]
+  },
+  {
+    "title": "Starting with a Firm Foundation: Building a Sustainability Program for the Australian Research Data Commons",
+    "description": "IWSG 2023, Tuebingen, Germany, June 2023",
+    "links": [
+      {
+        "text": "Starting with a Firm Foundation: Building a Sustainability Program for the Australian Research Data Commons",
+        "url": "https://iwsgateways.github.io/iwsg2023/programme.html"
+      },
+      {
+        "text": "IWSG 2023",
+        "url": "https://iwsgateways.github.io/iwsg2023/programme.html"
+      }
+    ]
+  },
+  {
+    "title": "Virtual Research Environments: A Vision for the Next 10 Years",
+    "description": "The RDA’s 10th Anniversary Events and Activities, virtual, May 2023",
+    "links": [
+      {
+        "text": "Virtual Research Environments: A Vision for the Next 10 Years",
+        "url": "https://www.rd-alliance.org/virtual-research-environments-vision-next-10-years"
+      },
+      {
+        "text": "The RDA’s 10th Anniversary Events and Activities",
+        "url": "https://www.rd-alliance.org/plenaries-events/events/%E2%80%98-decade-data%E2%80%99-celebrating-10-years-rda/rdas-10th-anniversary-events-and"
+      }
+    ]
+  },
+  {
+    "title": "US-RSE and SGX3: Accelerated Services and Community Interactions Supporting Research Software Engineers",
+    "description": "The Austin Python Monthly Meetup, Austin, May 2023",
+    "links": [
+      {
+        "text": "US-RSE and SGX3: Accelerated Services and Community Interactions Supporting Research Software Engineers",
+        "url": "https://www.meetup.com/austinpython/events/wmmbdtyfchbnb/"
+      },
+      {
+        "text": "The Austin Python Monthly Meetup",
+        "url": "https://www.meetup.com/austinpython/events/wmmbdtyfchbnb/"
+      }
+    ]
+  },
+  {
+    "title": "SGX3/SGCI: Science Gateways Support for Accelerating Research",
+    "description": "Advisory Board for Faculty, University of Central Florida, Virtual, April 2023",
+    "links": [
+      {
+        "text": "SGX3/SGCI: Science Gateways Support \u000bfor Accelerating Research",
+        "url": "https://www.ucf.edu/"
+      },
+      {
+        "text": "Advisory Board for Faculty",
+        "url": "https://www.ucf.edu/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways in Neuroscience: Accelerating Information on Grey Cells Via Computational Nodes",
+    "description": "NeuroGateways, Birmingham, AL, March 2023",
+    "links": [
+      {
+        "text": "Science Gateways in Neuroscience: Accelerating Information on Grey Cells Via Computational Nodes",
+        "url": "https://speaker.neurogateways.com/agenda"
+      },
+      {
+        "text": "NeuroGateways",
+        "url": "https://www.neurogateways.com/"
+      }
+    ]
+  },
+  {
+    "title": "Draft recommendations for making VREs FAIR and FAIR-enabling",
+    "description": "RDA P20, Gothenborg, Sweden, March 2023",
+    "links": [
+      {
+        "text": "Draft recommendations for making VREs FAIR and FAIR-enabling",
+        "url": "https://www.rd-alliance.org/rdas-20th-plenary-programme"
+      },
+      {
+        "text": "RDA P20",
+        "url": "https://www.rd-alliance.org/plenaries/rda-20th-plenary-meeting-gothenburg-hybrid"
+      }
+    ]
+  },
+  {
+    "title": "Panel Usability Trends in Smart (City) Applications",
+    "description": "HICSS56, Maui, HI, January 2023",
+    "links": [
+      {
+        "text": "Usability Trends in Smart (City) Applications",
+        "url": "https://hicss.hawaii.edu/program-hicss56/"
+      },
+      {
+        "text": "HICSS56",
+        "url": "https://hicss.hawaii.edu/program-hicss56/"
+      }
+    ]
+  },
+  {
+    "title": "Tutorial Data and software management and re-use with FAIR in the age of Big Data",
+    "description": "HICSS56, Maui, HI, January 2023",
+    "links": [
+      {
+        "text": "Data and software management and re-use with FAIR in the age of Big Data",
+        "url": "https://sites.google.com/view/data-stewardship-and-reuse/home"
+      },
+      {
+        "text": "HICSS56",
+        "url": "https://hicss.hawaii.edu/program-hicss56/"
+      }
+    ]
+  }
 ]

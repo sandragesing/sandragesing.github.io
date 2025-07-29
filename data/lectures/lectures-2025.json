@@ -1,82 +1,282 @@
 [
-    {
-        "title": "Building a National AI Research Infrastructure: Architecture, Access, and Equity",
-        "description": "University of Potsdam Potsdam, Germany, July 2025"
-    },
-    {
-        "title": "Mind the Gap: Science Gateways, RSEs, and the Not-So-Invisible Infrastructure of AI Research",
-        "description": "EPCC at University of Edinburgh Edinburgh, UK, June 2025"
-    },
-    {
-        "title": "Bridging FAIR and Function: The Science Gateway Advantage",
-        "description": "IWSG 2025, London, UK, June 2025"
-    },
-    {
-        "title": "Gateways to AI: Built for People, Not Just for Compute",
-        "description": "IWSG 2025, London, UK, June 2025"
-    },
-    {
-        "title": "Research Needs More Than Code: RSEs, Sustainability, and the Art of Building Teams That Make It Work",
-        "description": "Warwick RSE Meeting, Online, May 2025"
-    },
-    {
-        "title": "NAIRR We There Yet? Understanding Data Management Needs for the NAIRR Portal",
-        "description": "GlobusWorld 2025, Chicago, IL, April 2025"
-    },
-    {
-        "title": "Panel Building the Future of Research Software",
-        "description": "2nd SciCodes Collaboration Workshop, Washington, DC, April 2025"
-    },
-    {
-        "title": "Panel Optimizing the Pursuit of Data Science: Infrastructure",
-        "description": "2025 Data Science Leadership Summit, Columbus, OH, March 2025"
-    },
-    {
-        "title": "SGX3 and NAIRR: The Center of Excellence for Science Gateways and the NAIRR Pilot Portal",
-        "description": "ADMI Symposium, Virtual Presentation, March 2025"
-    },
-    {
-        "title": "Panel Regional Collaborations Position Group",
-        "description": "CASC Spring Meeting, Reston, VA, March 2025"
-    },
-    {
-        "title": "Leveraging the Open Science Operating System to build virtual environments for science and education",
-        "description": "Good Conference, Boston, MA, March 2025"
-    },
-    {
-        "title": "From Coding in High School to Building a Movement",
-        "description": "Supercomputing and the Future of AI, Reach The World, March 2025"
-    },
-    {
-        "title": "Science Gateways: Because ‘I Can’t Access That’ Shouldn’t Be a Research Problem",
-        "description": "Institute of Open Science Practices’25, Denver, CO, US, February 2025"
-    },
-    {
-        "title": "Envisioning the NAIRR Portal: AI Dreams, Data Dilemmas, and Community Solutions",
-        "description": "Inaugural NAIRR User Meeting, Washington DC, US, February 2025"
-    },
-    {
-        "title": "Closing the Quantum Divide: Empowering Mexico’s Quantum Future via Science Gateways",
-        "description": "LAOP-QubitHub Quantum Computing Workshop, online, February 2025"
-    },
-    {
-        "title": "NAIRR Pilot Portal Update and Outcome of SGX3 NAIRR survey and focus groups",
-        "description": "NAIRR Portal Workshop, San Diego Supercomputer Center, February 2025"
-    },
-    {
-        "title": "US-RSE: Building Bridges between Research and Software",
-        "description": "SciCodes Consortium, online, January 2025"
-    },
-    {
-        "title": "How to Position Your Gateway for Failure: The Ten Don’ts of Gateway Design",
-        "description": "HICSS-58, Waikoloa Village, HI, US, January 2025"
-    },
-    {
-        "title": "Minitrack on Software Sustainability: Research on Usability, Maintainability and Reproducibility",
-        "description": "HICSS-58, Waikoloa Village, HI, US, January 2025"
-    },
-    {
-        "title": "Tutorial on Data and software management and re-use with FAIR in the age of Big Data",
-        "description": "HICSS-58, Waikoloa Village, HI, US, January 2025"
-    }
+  {
+    "title": "Building a National AI Research Infrastructure: Architecture, Access, and Equity",
+    "description": "University of Potsdam Potsdam, Germany, July 2025",
+    "links": [
+      {
+        "text": "Building a National AI Research Infrastructure: Architecture, Access, and Equity",
+        "url": "https://www.uni-potsdam.de/de/cs-se/index"
+      },
+      {
+        "text": "University of Potsdam",
+        "url": "https://www.uni-potsdam.de/de/cs-se/index"
+      }
+    ]
+  },
+  {
+    "title": "Mind the Gap: Science Gateways, RSEs, and the Not-So-Invisible Infrastructure of AI Research",
+    "description": "EPCC at University of Edinburgh Edinburgh, UK, June 2025",
+    "links": [
+      {
+        "text": "Mind the Gap: Science Gateways, RSEs, and the Not-So-Invisible Infrastructure of AI Research",
+        "url": "https://www.epcc.ed.ac.uk/"
+      },
+      {
+        "text": "EPCC at University of Edinburgh",
+        "url": "https://www.epcc.ed.ac.uk/"
+      }
+    ]
+  },
+  {
+    "title": "Bridging FAIR and Function: The Science Gateway Advantage",
+    "description": "IWSG 2025, London, UK, June 2025",
+    "links": [
+      {
+        "text": "Bridging FAIR and Function: The Science Gateway Advantage",
+        "url": "https://iwsgateways.github.io/iwsg2025/programme.html"
+      },
+      {
+        "text": "IWSG 2025",
+        "url": "https://iwsgateways.github.io/iwsg2025/"
+      }
+    ]
+  },
+  {
+    "title": "Gateways to AI: Built for People, Not Just for Compute",
+    "description": "IWSG 2025, London, UK, June 2025",
+    "links": [
+      {
+        "text": "Gateways to AI: Built for People, Not Just for Compute",
+        "url": "https://iwsgateways.github.io/iwsg2025/programme.html"
+      },
+      {
+        "text": "IWSG 2025",
+        "url": "https://iwsgateways.github.io/iwsg2025/"
+      }
+    ]
+  },
+  {
+    "title": "Research Needs More Than Code: RSEs, Sustainability, and the Art of Building Teams That Make It Work",
+    "description": "Warwick RSE Meeting, Online, May 2025",
+    "links": [
+      {
+        "text": "Research Needs More Than Code: RSEs, Sustainability, and the Art of Building Teams That Make It Work",
+        "url": "https://warwick.ac.uk/research/rtp/rc/rse/warwick-rse-meetings/2024-25/"
+      },
+      {
+        "text": "Warwick RSE Meeting",
+        "url": "https://warwick.ac.uk/research/rtp/rc/rse/warwick-rse-meetings/2024-25/"
+      }
+    ]
+  },
+  {
+    "title": "NAIRR We There Yet? Understanding Data Management Needs for the NAIRR Portal",
+    "description": "GlobusWorld 2025, Chicago, IL, April 2025",
+    "links": [
+      {
+        "text": "NAIRR We There Yet? Understanding \u000bData Management Needs for the NAIRR Portal",
+        "url": "https://www.globusworld.org/conf/program"
+      },
+      {
+        "text": "GlobusWorld 2025",
+        "url": "https://www.globusworld.org/"
+      }
+    ]
+  },
+  {
+    "title": "Panel Building the Future of Research Software",
+    "description": "2nd SciCodes Collaboration Workshop, Washington, DC, April 2025",
+    "links": [
+      {
+        "text": "Building the Future of Research Software",
+        "url": "https://scicodes.github.io/workshop-2025/symposium.html"
+      },
+      {
+        "text": "2nd SciCodes Collaboration Workshop",
+        "url": "https://scicodes.github.io/workshop-2025/"
+      }
+    ]
+  },
+  {
+    "title": "Panel Optimizing the Pursuit of Data Science: Infrastructure",
+    "description": "2025 Data Science Leadership Summit, Columbus, OH, March 2025",
+    "links": [
+      {
+        "text": "Optimizing the Pursuit of Data Science: Infrastructure",
+        "url": "https://academicdatascience.org/events/adsa-meetings/2025-data-science-leadership-summit/"
+      },
+      {
+        "text": "2025 Data Science Leadership Summit",
+        "url": "https://academicdatascience.org/events/adsa-meetings/2025-data-science-leadership-summit/"
+      }
+    ]
+  },
+  {
+    "title": "SGX3 and NAIRR: The Center of Excellence for Science Gateways and the NAIRR Pilot Portal",
+    "description": "ADMI Symposium, Virtual Presentation, March 2025",
+    "links": [
+      {
+        "text": "SGX3 and NAIRR: The Center of Excellence for Science Gateways and the NAIRR Pilot Portal",
+        "url": "https://www.admiusa.org/admi2025/index.php"
+      },
+      {
+        "text": "ADMI Symposium",
+        "url": "https://www.admiusa.org/admi2025/index.php"
+      }
+    ]
+  },
+  {
+    "title": "Panel Regional Collaborations Position Group",
+    "description": "CASC Spring Meeting, Reston, VA, March 2025",
+    "links": [
+      {
+        "text": "Regional Collaborations Position Group",
+        "url": "https://casc.org/event/casc-spring-2025-member-meeting-and-ci-leadership-academy-workshop/"
+      },
+      {
+        "text": "CASC Spring Meeting",
+        "url": "https://casc.org/event/casc-spring-2025-member-meeting-and-ci-leadership-academy-workshop/"
+      }
+    ]
+  },
+  {
+    "title": "Leveraging the Open Science Operating System to build virtual environments for science and education",
+    "description": "Good Conference, Boston, MA, March 2025",
+    "links": [
+      {
+        "text": "Leveraging the Open Science Operating System to build virtual environments for science and education",
+        "url": "https://cfp.openondemand.org/2025/talk/LNMCUB/"
+      },
+      {
+        "text": "Good Conference",
+        "url": "https://www.conference2025.openondemand.org/"
+      }
+    ]
+  },
+  {
+    "title": "From Coding in High School to Building a Movement",
+    "description": "Supercomputing and the Future of AI, Reach The World, March 2025",
+    "links": [
+      {
+        "text": "From Coding in High School to Building a Movement",
+        "url": "https://reachtheworld.org/supercomputing-and-future-ai/journal/coding-high-school-building-movement"
+      },
+      {
+        "text": "Supercomputing and the Future of AI",
+        "url": "https://reachtheworld.org/supercomputing-and-future-ai-0"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Because ‘I Can’t Access That’ Shouldn’t Be a Research Problem",
+    "description": "Institute of Open Science Practices’25, Denver, CO, US, February 2025",
+    "links": [
+      {
+        "text": "Science Gateways: Because ‘I Can’t Access That’ Shouldn’t Be a Research Problem",
+        "url": "https://iosp.io/schedule"
+      },
+      {
+        "text": "Institute of Open Science Practices’25",
+        "url": "https://iosp.io/schedule"
+      }
+    ]
+  },
+  {
+    "title": "Envisioning the NAIRR Portal: AI Dreams, Data Dilemmas, and Community Solutions",
+    "description": "Inaugural NAIRR User Meeting, Washington DC, US, February 2025",
+    "links": [
+      {
+        "text": "Envisioning the NAIRR Portal: AI Dreams, Data Dilemmas, and Community Solutions",
+        "url": "https://events.internet2.edu/website/79982/program/"
+      },
+      {
+        "text": "Inaugural NAIRR User Meeting",
+        "url": "https://events.internet2.edu/website/79982/program/"
+      }
+    ]
+  },
+  {
+    "title": "Closing the Quantum Divide: Empowering Mexico’s Quantum Future via Science Gateways",
+    "description": "LAOP-QubitHub Quantum Computing Workshop, online, February 2025",
+    "links": [
+      {
+        "text": "Closing the Quantum Divide: Empowering\u000bMexico’s Quantum Future via Science Gateways",
+        "url": "https://qubithub.org/index.html"
+      },
+      {
+        "text": "LAOP-QubitHub Quantum Computing Workshop",
+        "url": "https://qubithub.org/index.html"
+      }
+    ]
+  },
+  {
+    "title": "NAIRR Pilot Portal Update and Outcome of SGX3 NAIRR survey and focus groups",
+    "description": "NAIRR Portal Workshop, San Diego Supercomputer Center, February 2025",
+    "links": [
+      {
+        "text": "NAIRR Pilot Portal Update and Outcome of SGX3 NAIRR survey and focus groups\n",
+        "url": "https://sciencegateways.org/nairr-portal-workshop"
+      },
+      {
+        "text": "NAIRR Portal Workshop",
+        "url": "https://sciencegateways.org/nairr-portal-workshop"
+      }
+    ]
+  },
+  {
+    "title": "US-RSE: Building Bridges between Research and Software",
+    "description": "SciCodes Consortium, online, January 2025",
+    "links": [
+      {
+        "text": "US-RSE: Building Bridges between Research and Software",
+        "url": "https://www.youtube.com/watch?v=dCEWW8xHq-c"
+      },
+      {
+        "text": "SciCodes Consortium",
+        "url": "https://scicodes.net/"
+      }
+    ]
+  },
+  {
+    "title": "How to Position Your Gateway for Failure: The Ten Don’ts of Gateway Design",
+    "description": "HICSS-58, Waikoloa Village, HI, US, January 2025",
+    "links": [
+      {
+        "text": "How to Position Your Gateway for Failure:\u000bThe Ten Don’ts of Gateway Design",
+        "url": "https://hicss.hawaii.edu/program-hicss58/"
+      },
+      {
+        "text": "HICSS-58",
+        "url": "https://hicss.hawaii.edu/tracks-58/software-technology/#software-sustainability-research-on-usability-maintainability-and-reproducibility-minitrack"
+      }
+    ]
+  },
+  {
+    "title": "Minitrack on Software Sustainability: Research on Usability, Maintainability and Reproducibility",
+    "description": "HICSS-58, Waikoloa Village, HI, US, January 2025",
+    "links": [
+      {
+        "text": "Minitrack on Software Sustainability: \u000bResearch on Usability, Maintainability and Reproducibility",
+        "url": "https://hicss.hawaii.edu/program-hicss58/"
+      },
+      {
+        "text": "HICSS-58",
+        "url": "https://hicss.hawaii.edu/tracks-58/software-technology/#software-sustainability-research-on-usability-maintainability-and-reproducibility-minitrack"
+      }
+    ]
+  },
+  {
+    "title": "Tutorial on Data and software management and re-use with FAIR in the age of Big Data",
+    "description": "HICSS-58, Waikoloa Village, HI, US, January 2025",
+    "links": [
+      {
+        "text": "Data and software management and re-use with FAIR in the age of Big Data",
+        "url": "https://hicss.hawaii.edu/program-hicss58/"
+      },
+      {
+        "text": "HICSS-58",
+        "url": "https://sites.google.com/view/data-stewardship-and-reuse/home"
+      }
+    ]
+  }
 ]

@@ -1,42 +1,142 @@
 [
-    {
-        "title": "Science Gateways and Reproducibility",
-        "description": "BoF “Reproducibility and Trustworthiness of Computational Research”, SC22, Dallas, TX, US, November 2022"
-    },
-    {
-        "title": "VisDict: A Visual Dictionary in a Science Gateway",
-        "description": "Gateways 2022, San Diego, CA, US, October 2022"
-    },
-    {
-        "title": "Roles of Professional Research Software Engineers in the Science Gateway Landscape",
-        "description": "Research Software Engineers in eScience 2022, Salt Lake City, UT, US, October 2022"
-    },
-    {
-        "title": "A World-Wide Movement to Improve the Recognition of Research Software",
-        "description": "PyData Chicago, August 2022"
-    },
-    {
-        "title": "Roles of Professional Research Engineers in the Science Gateway Landscape",
-        "description": "PEARC22, July 2022"
-    },
-    {
-        "title": "Reproducibility and Trustworthiness of Scientific Research",
-        "description": "PEARC22, July 2022"
-    },
-    {
-        "title": "Introducing the Community of Communities",
-        "description": "PEARC22, July 2022"
-    },
-    {
-        "title": "Software Assessment and Badging",
-        "description": "Digital Badging for Research Data & Software, RDA Plenary 2022, June 2022"
-    },
-    {
-        "title": "Keynote The Reasons Why the Science Gateways Community Needs an Institute",
-        "description": "IWSG 2022, June 2022"
-    },
-    {
-        "title": "Science Gateways and Their Role in Today’s and Future Research Computing Ecosystem",
-        "description": "CaRCC Events, February 2022"
-    }
+  {
+    "title": "Science Gateways and Reproducibility",
+    "description": "BoF “Reproducibility and Trustworthiness of Computational Research”, SC22, Dallas, TX, US, November 2022",
+    "links": [
+      {
+        "text": "Science Gateways and Reproducibility",
+        "url": "https://sc22.supercomputing.org/presentation/?id=bof192&sess=sess311"
+      },
+      {
+        "text": "BoF “Reproducibility and Trustworthiness of Computational Research”",
+        "url": "https://sc22.supercomputing.org/presentation/?id=bof192&sess=sess311"
+      }
+    ]
+  },
+  {
+    "title": "VisDict: A Visual Dictionary in a Science Gateway",
+    "description": "Gateways 2022, San Diego, CA, US, October 2022",
+    "links": [
+      {
+        "text": "VisDict: A Visual Dictionary in a Science Gateway",
+        "url": "https://zenodo.org/record/7098353#.Y177VOzMLPY"
+      },
+      {
+        "text": "Gateways 2022",
+        "url": "https://sciencegateways.org/gateways2022"
+      }
+    ]
+  },
+  {
+    "title": "Roles of Professional Research Software Engineers in the Science Gateway Landscape",
+    "description": "Research Software Engineers in eScience 2022, Salt Lake City, UT, US, October 2022",
+    "links": [
+      {
+        "text": "Roles of Professional Research Software Engineers in the Science Gateway Landscape",
+        "url": "https://us-rse.org/rse-escience-2022/abstracts/#roles-of-professional-research-software-engineers-in-the-science-gateway-landscape"
+      },
+      {
+        "text": "Research Software Engineers in eScience 2022",
+        "url": "https://us-rse.org/rse-escience-2022/agenda/"
+      }
+    ]
+  },
+  {
+    "title": "A World-Wide Movement to Improve the Recognition of Research Software",
+    "description": "PyData Chicago, August 2022",
+    "links": [
+      {
+        "text": "A World-Wide Movement to Improve the Recognition of Research Software",
+        "url": "https://www.meetup.com/pydatachi/events/287893336/"
+      },
+      {
+        "text": "PyData Chicago",
+        "url": "https://www.meetup.com/pydatachi/"
+      }
+    ]
+  },
+  {
+    "title": "Roles of Professional Research Engineers in the Science Gateway Landscape",
+    "description": "PEARC22, July 2022",
+    "links": [
+      {
+        "text": "Roles of Professional Research Engineers in the Science Gateway Landscape",
+        "url": "https://docs.google.com/presentation/d/1EI8lDIRfEIM_6YlkFw0kEwyACZDycFf1bMzdVhGGABQ/edit#slide=id.p"
+      },
+      {
+        "text": "PEARC22",
+        "url": "https://pearc.acm.org/pearc22/"
+      }
+    ]
+  },
+  {
+    "title": "Reproducibility and Trustworthiness of Scientific Research",
+    "description": "PEARC22, July 2022",
+    "links": [
+      {
+        "text": "Reproducibility and Trustworthiness of Scientific Research",
+        "url": "https://docs.google.com/presentation/d/1kbDOd75Y_IEl2oo3ZMfg2hz_NGKQlr9q/edit#slide=id.p1"
+      },
+      {
+        "text": "PEARC22",
+        "url": "https://pearc.acm.org/pearc22/"
+      }
+    ]
+  },
+  {
+    "title": "Introducing the Community of Communities",
+    "description": "PEARC22, July 2022",
+    "links": [
+      {
+        "text": "Introducing the Community of Communities",
+        "url": "https://coco.cyberinfrastructure.org/"
+      },
+      {
+        "text": "PEARC22",
+        "url": "https://pearc.acm.org/pearc22/"
+      }
+    ]
+  },
+  {
+    "title": "Software Assessment and Badging",
+    "description": "Digital Badging for Research Data & Software, RDA Plenary 2022, June 2022",
+    "links": [
+      {
+        "text": "Software Assessment and Badging",
+        "url": "https://drive.google.com/file/d/1g0eTYIHTOWaqEPGt4WNEZyeVpYOwGI6H/view"
+      },
+      {
+        "text": "Digital Badging for Research Data & Software",
+        "url": "https://www.rd-alliance.org/plenaries/rda-19th-plenary-meeting-part-international-data-week-20%E2%80%9323-june-2022-seoul-south-korea-16"
+      }
+    ]
+  },
+  {
+    "title": "Keynote The Reasons Why the Science Gateways Community Needs an Institute",
+    "description": "IWSG 2022, June 2022",
+    "links": [
+      {
+        "text": "The Reasons Why the Science Gateways Community Needs an Institute",
+        "url": "https://www.slideshare.net/SandraGesing/the-reasons-why-the-science-gateways-community-needs-an-institute"
+      },
+      {
+        "text": "IWSG 2022",
+        "url": "https://iwsgateways.github.io/iwsg2022/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways and Their Role in Today’s and Future Research Computing Ecosystem",
+    "description": "CaRCC Events, February 2022",
+    "links": [
+      {
+        "text": "Science Gateways and Their Role in Today’s and Future Research Computing Ecosystem",
+        "url": "https://carcc.org/event/data-facing-track-call-30/"
+      },
+      {
+        "text": "CaRCC Events",
+        "url": "https://carcc.org/events/"
+      }
+    ]
+  }
 ]

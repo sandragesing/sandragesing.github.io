@@ -1,18 +1,54 @@
 [
-    {
-        "title": "Invited talk on UNICORE integration into a science gateway for MoSGrid",
-        "description": "Supercomputing’10, New Orleans, US, November 2010"
-    },
-    {
-        "title": "Workflow Interoperability in a Grid Portal for Molecular Simulations",
-        "description": "IWSG2010, Catania, Italy, September 2010"
-    },
-    {
-        "title": "Invited talk on A gUSE submitter for MoSGrid",
-        "description": "MTA SZTAKI, Computer and Automation Research Institute, Hungarian Academy of Sciences, Budapest, Hungary, August 2010"
-    },
-    {
-        "title": "Requirements on a portal for MoSGrid,",
-        "description": "PUCOWO, ETH Zürich, Switzerland, June 2010"
-    }
+  {
+    "title": "Invited talk on UNICORE integration into a science gateway for MoSGrid",
+    "description": "Supercomputing’10, New Orleans, US, November 2010",
+    "links": [
+      {
+        "text": "UNICORE integration into a science gateway for MoSGrid",
+        "url": "http://www2.fz-juelich.de/jsc/datapool/page/4832/SC10-UNICORE_MichaelRambadt.pdf"
+      },
+      {
+        "text": "Supercomputing’10",
+        "url": "http://sc10.supercomputing.org/"
+      }
+    ]
+  },
+  {
+    "title": "Workflow Interoperability in a Grid Portal for Molecular Simulations",
+    "description": "IWSG2010, Catania, Italy, September 2010",
+    "links": [
+      {
+        "text": "Workflow Interoperability in a Grid Portal for Molecular Simulations",
+        "url": "http://agenda.ct.infn.it/conferenceOtherViews.py?view=standard&confId=347"
+      },
+      {
+        "text": "IWSG2010",
+        "url": "http://agenda.ct.infn.it/conferenceDisplay.py?confId=347"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on A gUSE submitter for MoSGrid",
+    "description": "MTA SZTAKI, Computer and Automation Research Institute, Hungarian Academy of Sciences, Budapest, Hungary, August 2010",
+    "links": [
+      {
+        "text": "MTA SZTAKI, Computer and Automation Research Institute",
+        "url": "http://www.lpds.sztaki.hu/"
+      }
+    ]
+  },
+  {
+    "title": "Requirements on a portal for MoSGrid,",
+    "description": "PUCOWO, ETH Zürich, Switzerland, June 2010",
+    "links": [
+      {
+        "text": "Requirements on a portal for MoSGrid",
+        "url": "http://portal.p-grade.hu/pucowo/download/slides/pucowosandra.ppt"
+      },
+      {
+        "text": "PUCOWO",
+        "url": "http://portal.p-grade.hu/pucowo/?m=home"
+      }
+    ]
+  }
 ]

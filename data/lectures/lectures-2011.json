@@ -1,14 +1,44 @@
 [
-    {
-        "title": "Granular Security for a Science Gateway in Structural Bioinformatics",
-        "description": "IWSG-Life 2011, London, UK, June 2011"
-    },
-    {
-        "title": "Invited talk on The MoSGrid Portal – A workflow-enabled Grid Portal for Molecular Simulations",
-        "description": "7th Black Forest Grid Workshop, Freiburg, Germany, April 2011"
-    },
-    {
-        "title": "A Science Gateway for Molecular Simulations",
-        "description": "EGI User Forum, Vilnius, Lithuania, April 2011"
-    }
+  {
+    "title": "Granular Security for a Science Gateway in Structural Bioinformatics",
+    "description": "IWSG-Life 2011, London, UK, June 2011",
+    "links": [
+      {
+        "text": "Granular Security for a Science Gateway in Structural Bioinformatics",
+        "url": "https://sites.google.com/a/staff.westminster.ac.uk/iwsg-life2011/scientific-programme"
+      },
+      {
+        "text": "IWSG-Life 2011",
+        "url": "https://sites.google.com/a/staff.westminster.ac.uk/iwsg-life2011/overview"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on The MoSGrid Portal – A workflow-enabled Grid Portal for Molecular Simulations",
+    "description": "7th Black Forest Grid Workshop, Freiburg, Germany, April 2011",
+    "links": [
+      {
+        "text": "The MoSGrid Portal – A workflow-enabled Grid Portal for Molecular Simulations",
+        "url": "http://www.bfg.uni-freiburg.de/workshops/7th-bfg-workshop/schedule"
+      },
+      {
+        "text": "7th Black Forest Grid Workshop",
+        "url": "http://www.bfg.uni-freiburg.de/workshops/7th-bfg-workshop/"
+      }
+    ]
+  },
+  {
+    "title": "A Science Gateway for Molecular Simulations",
+    "description": "EGI User Forum, Vilnius, Lithuania, April 2011",
+    "links": [
+      {
+        "text": "A Science Gateway for Molecular Simulations",
+        "url": "https://www.egi.eu/indico/contributionDisplay.py?sessionId=18&contribId=83&confId=207"
+      },
+      {
+        "text": "EGI User Forum",
+        "url": "http://uf2011.egi.eu/"
+      }
+    ]
+  }
 ]

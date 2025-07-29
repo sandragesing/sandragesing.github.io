@@ -1,90 +1,286 @@
 [
-    {
-        "title": "Research Software and Science Gateways: Addressing Sustainability, Usability and Reproducibility Challenges to Enhance Research",
-        "description": "Software Productivity, Sustainability, and Quality (SPSQ) Interagency Working Group (IWG), Webinar, December 2018"
-    },
-    {
-        "title": "Software Sustainability and the Conceptualization of URSSI",
-        "description": "Panel Sustaining Research Software, SC18, Dallas, TX, USA, November 2018"
-    },
-    {
-        "title": "Panel The Next 150 Years of Health, Aerospace, AI and Climate Change Research",
-        "description": "Purdue Booth, SC18, Dallas, TX, USA, November 2018"
-    },
-    {
-        "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
-        "description": "University of Cincinnati, OH, USA, October 2018"
-    },
-    {
-        "title": "Science Gateways Community Institute: Developing Strategies for Sustainability of Projects via Bootcamps",
-        "description": "Second URSSI Workshop, Chicago, IL, USA, October 2018"
-    },
-    {
-        "title": "Invited talk Science Gateways for Electronics, Photonics and Magnetics: Achieving Usability and Sustainability",
-        "description": "NSF Workshop on Electronics, Photonics and Magnetics (EPM) – Network for Computational Nanotechnology (NCN), Alexandria, VA, USA, October 2018"
-    },
-    {
-        "title": "Science Gateways Community Institute: Developing Strategies for Sustainability of Projects via Bootcamps",
-        "description": "Digital Infrastructures for Research 2018, Lisbon, Portugal, October 2018"
-    },
-    {
-        "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
-        "description": "Salman Habib’s Group, Argonne National Laboratory, Chicago, IL, USA, October 2018"
-    },
-    {
-        "title": "PresQT: Supporting Reproducibility in Research via Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
-        "description": "Whole Tale Workshop on Tools and Approaches for Publishing Reproducible Research, Rosemont, IL, USA, September 2018"
-    },
-    {
-        "title": "Sustainability via On-Campus Teams",
-        "description": "SGCI Incubator Bootcamp, Rosemont, IL, USA, August 2018"
-    },
-    {
-        "title": "Sustainability in Research Computing",
-        "description": "ACI-REF VR Intermediate Workshop 2018, Norman, OK, USA, August 2018"
-    },
-    {
-        "title": "Panel “New Software Institute Conceptualization Projects and how you can engage” with",
-        "description": "The Conceptualization of URSSI – How You Can Engage \n PEARC 2018, Pittsburgh, PA, USA, July 2018"
-    },
-    {
-        "title": "Panel “Connecting with the Libraries: Engaging across the Data Ecosystem” with PresQT: Research Data & Software Preservation Quality Tools Across the Data Ecosystem",
-        "description": "Data Science & Tools Workshop, Chicago, Il, USA, July 2018"
-    },
-    {
-        "title": "What can we expect from the next 10 years of Science Gateway Research & Development?",
-        "description": "IWSG 2018, Edinburgh, UK, June 2018"
-    },
-    {
-        "title": "User-centered Design and Usability",
-        "description": "Mini Science Gateways Bootcamp, Edinburgh, UK, June 2018"
-    },
-    {
-        "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
-        "description": "DePaul University, College of Computing and Digital Media, Chicago, IL, USA, June 2018"
-    },
-    {
-        "title": "Sustainability via On-Campus Teams",
-        "description": "SGCI Incubator Bootcamp, Austin, Texas, USA, May 2018"
-    },
-    {
-        "title": "The Science Gateway Catalog",
-        "description": "IG Virtual Research Environments – RDA 11th Plenary meeting, Berlin, Germany, March 2018"
-    },
-    {
-        "title": "Invited talk Preregistration",
-        "description": "WG Exposing Data Management Plans – RDA 11th Plenary meeting, Berlin, Germany, March 2018"
-    },
-    {
-        "title": "Invited talk Research Software Engineers, Science Gateway Developers and Cyberpractitioners – Initiatives in the US",
-        "description": "International RSE Leaders Meeting, London, UK, January 2018"
-    },
-    {
-        "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
-        "description": "Hawai’i Data Science Institute, Honolulu, USA, January 2018"
-    },
-    {
-        "title": "Turning Smart: Challenges and Experiences in Smart Application Development",
-        "description": "HICSS51, Hilton Waikoloa Village, USA, January 2018"
-    }
+  {
+    "title": "Research Software and Science Gateways: Addressing Sustainability, Usability and Reproducibility Challenges to Enhance Research",
+    "description": "Software Productivity, Sustainability, and Quality (SPSQ) Interagency Working Group (IWG), Webinar, December 2018",
+    "links": [
+      {
+        "text": "Research Software and Science Gateways: Addressing Sustainability, Usability and Reproducibility Challenges to Enhance Research",
+        "url": "https://www.slideshare.net/SandraGesing/urssi-sgci-research-software-and-science-gateways-addressing-sustainability-usability-and-reproducibility-challenges-to-enhance-research"
+      },
+      {
+        "text": "Software Productivity, Sustainability, and Quality (SPSQ) Interagency Working Group (IWG)",
+        "url": "https://www.nitrd.gov/nitrdgroups/index.php?title=SPSQ"
+      }
+    ]
+  },
+  {
+    "title": "Software Sustainability and the Conceptualization of URSSI",
+    "description": "Panel Sustaining Research Software, SC18, Dallas, TX, USA, November 2018",
+    "links": [
+      {
+        "text": "Software Sustainability and the Conceptualization of URSSI",
+        "url": "https://sc18.supercomputing.org/presentation/?id=pan110&sess=sess295"
+      },
+      {
+        "text": "Sustaining Research Software",
+        "url": "https://sc18.supercomputing.org/presentation/?id=pan110&sess=sess295"
+      }
+    ]
+  },
+  {
+    "title": "Panel The Next 150 Years of Health, Aerospace, AI and Climate Change Research",
+    "description": "Purdue Booth, SC18, Dallas, TX, USA, November 2018",
+    "links": [
+      {
+        "text": "The Next 150 Years of Health, Aerospace, AI and Climate Change Research",
+        "url": "https://www.itap.purdue.edu/newsroom/181106_PurdueSC18.html"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+    "description": "University of Cincinnati, OH, USA, October 2018",
+    "links": [
+      {
+        "text": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+        "url": "https://drive.google.com/file/d/1kEJYBsIGupVhMEpjgmSlvx6e_uyJ0JXU/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways Community Institute: Developing Strategies for Sustainability of Projects via Bootcamps",
+    "description": "Second URSSI Workshop, Chicago, IL, USA, October 2018",
+    "links": [
+      {
+        "text": "Science Gateways Community Institute: Developing Strategies for Sustainability of Projects via Bootcamps",
+        "url": "http://urssi.us/workshops/chicago/"
+      },
+      {
+        "text": "Second URSSI Workshop",
+        "url": "http://urssi.us/workshops/chicago/"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk Science Gateways for Electronics, Photonics and Magnetics: Achieving Usability and Sustainability",
+    "description": "NSF Workshop on Electronics, Photonics and Magnetics (EPM) – Network for Computational Nanotechnology (NCN), Alexandria, VA, USA, October 2018",
+    "links": [
+      {
+        "text": "Science Gateways for Electronics, Photonics and Magnetics: Achieving Usability and Sustainability",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-urssi-science-gateways-for-electronics-photonics-and-magnetics-achieving-usability-and-sustainability"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways Community Institute: Developing Strategies for Sustainability of Projects via Bootcamps",
+    "description": "Digital Infrastructures for Research 2018, Lisbon, Portugal, October 2018",
+    "links": [
+      {
+        "text": "Science Gateways Community Institute: Developing Strategies for Sustainability of Projects via Bootcamps",
+        "url": "https://indico.egi.eu/indico/event/3973/session/52/contribution/165"
+      },
+      {
+        "text": "Digital Infrastructures for Research 2018",
+        "url": "https://www.digitalinfrastructures.eu/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+    "description": "Salman Habib’s Group, Argonne National Laboratory, Chicago, IL, USA, October 2018",
+    "links": [
+      {
+        "text": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-gateways-technologyenhanced-research-under-consideration-of-usability-and-sustainability"
+      },
+      {
+        "text": "Salman Habib’s Group",
+        "url": "https://www.anl.gov/profile/salman-habib"
+      }
+    ]
+  },
+  {
+    "title": "PresQT: Supporting Reproducibility in Research via Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+    "description": "Whole Tale Workshop on Tools and Approaches for Publishing Reproducible Research, Rosemont, IL, USA, September 2018",
+    "links": [
+      {
+        "text": "PresQT: Supporting Reproducibility in Research via Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+        "url": "https://osf.io/twzp6/"
+      },
+      {
+        "text": "Whole Tale Workshop on Tools and Approaches for Publishing Reproducible Research",
+        "url": "https://docs.google.com/document/d/11iiwKmye0niCYdtGknCLkgD8PMFRUiF9Am8GJBBxjZA/edit"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability via On-Campus Teams",
+    "description": "SGCI Incubator Bootcamp, Rosemont, IL, USA, August 2018",
+    "links": [
+      {
+        "text": "SGCI Incubator Bootcamp",
+        "url": "http://sciencegateways.org/upcoming-events/science-gateways-bootcamp/"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability in Research Computing",
+    "description": "ACI-REF VR Intermediate Workshop 2018, Norman, OK, USA, August 2018",
+    "links": [
+      {
+        "text": "Sustainability in Research Computing",
+        "url": "https://www.slideshare.net/SandraGesing/sgciurssisustainability-in-research-computing"
+      },
+      {
+        "text": "ACI-REF VR Intermediate Workshop 2018",
+        "url": "http://www.oscer.ou.edu/acirefvirtres2018.php#agenda"
+      }
+    ]
+  },
+  {
+    "title": "Panel “New Software Institute Conceptualization Projects and how you can engage” with",
+    "description": "The Conceptualization of URSSI – How You Can Engage \n PEARC 2018, Pittsburgh, PA, USA, July 2018",
+    "links": [
+      {
+        "text": "The Conceptualization of URSSI – How You Can Engage",
+        "url": "https://www.slideshare.net/SandraGesing/the-conceptualization-of-urssi-how-you-can-engage"
+      },
+      {
+        "text": "PEARC 2018",
+        "url": "https://www.pearc18.pearc.org/"
+      }
+    ]
+  },
+  {
+    "title": "Panel “Connecting with the Libraries: Engaging across the Data Ecosystem” with PresQT: Research Data & Software Preservation Quality Tools Across the Data Ecosystem",
+    "description": "Data Science & Tools Workshop, Chicago, Il, USA, July 2018",
+    "links": [
+      {
+        "text": "PresQT: Research Data & Software Preservation Quality Tools Across the Data Ecosystem",
+        "url": "https://osf.io/32z7e/"
+      },
+      {
+        "text": "Data Science & Tools Workshop",
+        "url": "http://www.nationaldataservice.org/get_involved/events/DataScienceTools/"
+      }
+    ]
+  },
+  {
+    "title": "What can we expect from the next 10 years of Science Gateway Research & Development?",
+    "description": "IWSG 2018, Edinburgh, UK, June 2018",
+    "links": [
+      {
+        "text": "What can we expect from the next \u000b10 years of Science Gateway Research & Development?",
+        "url": "https://sites.google.com/a/nd.edu/iwsg2018/program/iwsg-schedule"
+      },
+      {
+        "text": "IWSG 2018",
+        "url": "https://sites.google.com/a/nd.edu/iwsg2018/home"
+      }
+    ]
+  },
+  {
+    "title": "User-centered Design and Usability",
+    "description": "Mini Science Gateways Bootcamp, Edinburgh, UK, June 2018",
+    "links": [
+      {
+        "text": "User-centered Design and Usability",
+        "url": "https://sciencegateways.org/engage/bootcamp/minibootcamp"
+      },
+      {
+        "text": "Mini Science Gateways Bootcamp",
+        "url": "https://sciencegateways.org/engage/bootcamp/minibootcamp"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+    "description": "DePaul University, College of Computing and Digital Media, Chicago, IL, USA, June 2018",
+    "links": [
+      {
+        "text": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-gateways-technologyenhanced-research-under-consideration-of-usability-and-sustainability"
+      },
+      {
+        "text": "DePaul University, College of Computing and Digital Media",
+        "url": "https://www.cdm.depaul.edu/Pages/default.aspx"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability via On-Campus Teams",
+    "description": "SGCI Incubator Bootcamp, Austin, Texas, USA, May 2018",
+    "links": [
+      {
+        "text": "SGCI Incubator Bootcamp",
+        "url": "http://sciencegateways.org/upcoming-events/science-gateways-bootcamp/"
+      }
+    ]
+  },
+  {
+    "title": "The Science Gateway Catalog",
+    "description": "IG Virtual Research Environments – RDA 11th Plenary meeting, Berlin, Germany, March 2018",
+    "links": [
+      {
+        "text": "The Science Gateway Catalog",
+        "url": "https://docs.google.com/presentation/d/17eK7vVD9JB72N6c5_miRwLhzLiKp3JHytQ42-Ap6CDM/edit#slide=id.p3"
+      },
+      {
+        "text": "IG Virtual Research Environments – RDA 11th Plenary meeting",
+        "url": "https://rd-alliance.org/ig-virtual-research-environment-vre-ig-rda-11th-plenary-meeting"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk Preregistration",
+    "description": "WG Exposing Data Management Plans – RDA 11th Plenary meeting, Berlin, Germany, March 2018",
+    "links": [
+      {
+        "text": "Preregistration",
+        "url": "https://rd-alliance.org/plenary-11-session"
+      },
+      {
+        "text": "WG Exposing Data Management Plans – RDA 11th Plenary meeting",
+        "url": "https://rd-alliance.org/wg-exposing-data-management-plans-rda-11th-plenary-meeting"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk Research Software Engineers, Science Gateway Developers and Cyberpractitioners – Initiatives in the US",
+    "description": "International RSE Leaders Meeting, London, UK, January 2018",
+    "links": [
+      {
+        "text": "Research Software Engineers, Science Gateway Developers and Cyberpractitioners – Initiatives in the US",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-urssi-research-software-engineers-science-gateway-developers-and-cyberpractitioners-initiatives-in-the-us"
+      },
+      {
+        "text": "International RSE Leaders Meeting",
+        "url": "http://rse.ac.uk/rse-international-leaders-meeting/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+    "description": "Hawai’i Data Science Institute, Honolulu, USA, January 2018",
+    "links": [
+      {
+        "text": "Science Gateways – Technology-Enhanced Research Under Consideration of Usability and Sustainability",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-gateways-technologyenhanced-research-under-consideration-of-usability-and-sustainability"
+      }
+    ]
+  },
+  {
+    "title": "Turning Smart: Challenges and Experiences in Smart Application Development",
+    "description": "HICSS51, Hilton Waikoloa Village, USA, January 2018",
+    "links": [
+      {
+        "text": "Turning Smart: Challenges and Experiences in Smart Application Development",
+        "url": "http://sandra-gesing.com/wp-content/uploads/2018/01/hicss2018-TurningSmart.pdf"
+      },
+      {
+        "text": "HICSS51",
+        "url": "http://www.urbanccd.org/hicss51/"
+      }
+    ]
+  }
 ]

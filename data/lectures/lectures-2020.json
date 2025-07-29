@@ -1,82 +1,282 @@
 [
-    {
-        "title": "Community of Communities",
-        "description": "ERN Broadening the Reach Virtual Workshop, December 2020"
-    },
-    {
-        "title": "Sharing and Preserving Research Data in Science Gateways/Virtual Environments/Virtual Labs via PresQT",
-        "description": "TrustedCI webinar, December 2020"
-    },
-    {
-        "title": "Improving the Publication and Re-Use of Data via PresQT Tools and Services",
-        "description": "AGU Fall Meeting, December 2020"
-    },
-    {
-        "title": "Theory-Software Translation: Research Challenges and Future Directions",
-        "description": "BoF on Software Engineering and Reuse in Modeling, Simulation and Data Analytics for Science and Engineering at SC20, November 2020"
-    },
-    {
-        "title": "VREs/Virtual Labs/Science Gateways: Good Practices for Communicating and Collaborating Effectively and Efficiently within Distributed Communities and Initiatives",
-        "description": "16th RDA Plenary, November 2020"
-    },
-    {
-        "title": "Hubdrive: Enhancing HUBzero© for Offline Data Sharing",
-        "description": "EGI Conference, November 2020"
-    },
-    {
-        "title": "The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community",
-        "description": "SORSE, October 2020"
-    },
-    {
-        "title": "Learning Lab: SGCI – The Ambassador Programs",
-        "description": "Gateways 2020, October 2020"
-    },
-    {
-        "title": "How to Build and Engage with Your Community",
-        "description": "Gateways 2020, October 2020"
-    },
-    {
-        "title": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
-        "description": "COS (Center for Open Science): Institutions Supporting Collaborations Series, August 2020"
-    },
-    {
-        "title": "How to reach a cultural change in academia for research software sustainability?",
-        "description": "Research Software Engineers Community Workshop at PEARC20, July 2020"
-    },
-    {
-        "title": "Panel on Cultural Approaches to Improved Productivity",
-        "description": "Collegeville Workshop 2020, July 2020"
-    },
-    {
-        "title": "Increasing Developer Productivity by Assigning Well-Defined Roles in Teams",
-        "description": "Collegeville Workshop 2020, July 2020"
-    },
-    {
-        "title": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
-        "description": "COS (Center for Open Science), July 2020"
-    },
-    {
-        "title": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
-        "description": "EaaSI meeting, July 2020"
-    },
-    {
-        "title": "Panel on Marketing, Communication, Demonstrating Impact/Value",
-        "description": "Virtual Residency Intermediate/Advanced Workshop 2020, June 2020"
-    },
-    {
-        "title": "Panel on Building Community",
-        "description": "Virtual Residency Intermediate/Advanced Workshop 2020, June 2020"
-    },
-    {
-        "title": "Software Sustainability",
-        "description": "ResBaz Arizona (virtual), May 2020"
-    },
-    {
-        "title": "Panel on What is Data Science?",
-        "description": "ResBaz Arizona (virtual), May 2020"
-    },
-    {
-        "title": "VRE-IG: Reference Models and Frameworks",
-        "description": "RDA 15th Plenary (virtual), April 2020" 
-    }
+  {
+    "title": "Community of Communities",
+    "description": "ERN Broadening the Reach Virtual Workshop, December 2020",
+    "links": [
+      {
+        "text": "Community of Communities",
+        "url": "https://drive.google.com/file/d/1n43K06meMogF68Ai86m-W5ISQ2uCXlrb/view"
+      },
+      {
+        "text": "ERN Broadening the Reach Virtual Workshop",
+        "url": "https://www.ernrp.org/event/save-the-date-ern-broadening-the-reach-virtual-workshop/"
+      }
+    ]
+  },
+  {
+    "title": "Sharing and Preserving Research Data in Science Gateways/Virtual Environments/Virtual Labs via PresQT",
+    "description": "TrustedCI webinar, December 2020",
+    "links": [
+      {
+        "text": "Sharing and Preserving Research Data in Science Gateways/Virtual Environments/Virtual Labs via PresQT",
+        "url": "https://drive.google.com/drive/u/0/folders/1HrzQhj6ZRHS__z8F4Xg9zv2QuN0EFtHe"
+      },
+      {
+        "text": "TrustedCI webinar",
+        "url": "https://blog.trustedci.org/2020/11/trustworthy-data-panel.html"
+      }
+    ]
+  },
+  {
+    "title": "Improving the Publication and Re-Use of Data via PresQT Tools and Services",
+    "description": "AGU Fall Meeting, December 2020",
+    "links": [
+      {
+        "text": "Improving the Publication and Re-Use of Data via PresQT Tools and Services",
+        "url": "https://www2.slideshare.net/SandraGesing/improving-the-publication-and-reuse-of-data-via-presqt-tools-and-services"
+      },
+      {
+        "text": "AGU Fall Meeting",
+        "url": "https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/775209"
+      }
+    ]
+  },
+  {
+    "title": "Theory-Software Translation: Research Challenges and Future Directions",
+    "description": "BoF on Software Engineering and Reuse in Modeling, Simulation and Data Analytics for Science and Engineering at SC20, November 2020",
+    "links": [
+      {
+        "text": "Theory-Software Translation: Research Challenges and Future Directions",
+        "url": "https://www2.slideshare.net/SandraGesing/theorysoftware-translation-research-challenges-and-future-directions"
+      },
+      {
+        "text": "Software Engineering and Reuse in Modeling, Simulation and Data Analytics for Science and Engineering",
+        "url": "https://sc20.supercomputing.org/presentation/?id=bof166&sess=sess307"
+      }
+    ]
+  },
+  {
+    "title": "VREs/Virtual Labs/Science Gateways: Good Practices for Communicating and Collaborating Effectively and Efficiently within Distributed Communities and Initiatives",
+    "description": "16th RDA Plenary, November 2020",
+    "links": [
+      {
+        "text": "VREs/Virtual Labs/Science Gateways: Good Practices for Communicating and Collaborating Effectively and Efficiently within Distributed Communities and Initiatives",
+        "url": "https://docs.google.com/presentation/d/1oEbxfGjrBGN-Snhj1Nq_pUp2G0zEZ0_D/edit#slide=id.p1"
+      },
+      {
+        "text": "16th RDA Plenary",
+        "url": "https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual/vresvirtual-labsscience-gateways-good"
+      }
+    ]
+  },
+  {
+    "title": "Hubdrive: Enhancing HUBzero© for Offline Data Sharing",
+    "description": "EGI Conference, November 2020",
+    "links": [
+      {
+        "text": "Hubdrive: Enhancing HUBzero© for Offline Data Sharing",
+        "url": "https://indico.egi.eu/event/5000/contributions/14334/"
+      },
+      {
+        "text": "EGI Conference",
+        "url": "https://indico.egi.eu/event/5000/"
+      }
+    ]
+  },
+  {
+    "title": "The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community",
+    "description": "SORSE, October 2020",
+    "links": [
+      {
+        "text": "The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community",
+        "url": "https://youtu.be/yvNBb78BOK4"
+      },
+      {
+        "text": "SORSE",
+        "url": "https://sorse.github.io/programme/talks/event-026/"
+      }
+    ]
+  },
+  {
+    "title": "Learning Lab: SGCI – The Ambassador Programs",
+    "description": "Gateways 2020, October 2020",
+    "links": [
+      {
+        "text": "Learning Lab: SGCI – The Ambassador Programs",
+        "url": "https://sciencegateways.org/web/gateways2020/program/schedule"
+      },
+      {
+        "text": "Gateways 2020",
+        "url": "https://sciencegateways.org/web/gateways2020/program/schedule"
+      }
+    ]
+  },
+  {
+    "title": "How to Build and Engage with Your Community",
+    "description": "Gateways 2020, October 2020",
+    "links": [
+      {
+        "text": "How to Build and Engage with Your Community",
+        "url": "https://youtu.be/IeJdERn9Emw"
+      },
+      {
+        "text": "Gateways 2020",
+        "url": "https://sciencegateways.org/web/gateways2020/program/schedule"
+      }
+    ]
+  },
+  {
+    "title": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+    "description": "COS (Center for Open Science): Institutions Supporting Collaborations Series, August 2020",
+    "links": [
+      {
+        "text": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+        "url": "https://osf.io/cxu5d/"
+      },
+      {
+        "text": "COS (Center for Open Science): Institutions Supporting Collaborations Series",
+        "url": "https://www.cos.io/"
+      }
+    ]
+  },
+  {
+    "title": "How to reach a cultural change in academia for research software sustainability?",
+    "description": "Research Software Engineers Community Workshop at PEARC20, July 2020",
+    "links": [
+      {
+        "text": "How to reach a cultural change in academia for research software sustainability?",
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQKWZcExujEy66pT2jKJqSEtF6ChAJe5igapjjKeiPESfpAcOULVz6PqQ7bsUSWIg/pub?start=false&loop=false&delayms=3000&slide=id.p1"
+      },
+      {
+        "text": "Research Software Engineers Community Workshop",
+        "url": "https://us-rse.org/events/2020/2020-07-pearc20"
+      }
+    ]
+  },
+  {
+    "title": "Panel on Cultural Approaches to Improved Productivity",
+    "description": "Collegeville Workshop 2020, July 2020",
+    "links": [
+      {
+        "text": "Cultural Approaches to Improved Productivity",
+        "url": "https://collegeville.github.io/CW20/Agenda-Day-3.html"
+      },
+      {
+        "text": "Collegeville Workshop 2020",
+        "url": "https://collegeville.github.io/CW20/"
+      }
+    ]
+  },
+  {
+    "title": "Increasing Developer Productivity by Assigning Well-Defined Roles in Teams",
+    "description": "Collegeville Workshop 2020, July 2020",
+    "links": [
+      {
+        "text": "Increasing Developer Productivity by Assigning Well-Defined Roles in Teams",
+        "url": "https://github.com/Collegeville/CW20/blob/master/WorkshopResources/Recordings/gesing-developer-productivity-well-defined-team-roles.pdf"
+      },
+      {
+        "text": "Collegeville Workshop 2020",
+        "url": "https://collegeville.github.io/CW20/"
+      }
+    ]
+  },
+  {
+    "title": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+    "description": "COS (Center for Open Science), July 2020",
+    "links": [
+      {
+        "text": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+        "url": "https://osf.io/r9f53/"
+      },
+      {
+        "text": "COS (Center for Open Science)",
+        "url": "https://www.cos.io/"
+      }
+    ]
+  },
+  {
+    "title": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+    "description": "EaaSI meeting, July 2020",
+    "links": [
+      {
+        "text": "PresQT – Tools and RESTful Services to Improve Preservation and Re-use of Research Data & Software",
+        "url": "https://osf.io/nwj6k/"
+      },
+      {
+        "text": "EaaSI meeting",
+        "url": "https://www.softwarepreservationnetwork.org/projects/emulation-as-a-service-infrastructure/"
+      }
+    ]
+  },
+  {
+    "title": "Panel on Marketing, Communication, Demonstrating Impact/Value",
+    "description": "Virtual Residency Intermediate/Advanced Workshop 2020, June 2020",
+    "links": [
+      {
+        "text": "Marketing, Communication, Demonstrating Impact/Value",
+        "url": "http://www.oscer.ou.edu/virtualresidency2020_panel_phataralaoha_marcomm_gesing_20200605.pdf"
+      },
+      {
+        "text": "Virtual Residency Intermediate/Advanced Workshop 2020",
+        "url": "http://www.oscer.ou.edu/virtualresidency2020.php"
+      }
+    ]
+  },
+  {
+    "title": "Panel on Building Community",
+    "description": "Virtual Residency Intermediate/Advanced Workshop 2020, June 2020",
+    "links": [
+      {
+        "text": "Building Community",
+        "url": "http://www.oscer.ou.edu/virtualresidency2020_panel_brunson_community_gesing_20200603.pdf"
+      },
+      {
+        "text": "Virtual Residency Intermediate/Advanced Workshop 2020",
+        "url": "http://www.oscer.ou.edu/virtualresidency2020.php"
+      }
+    ]
+  },
+  {
+    "title": "Software Sustainability",
+    "description": "ResBaz Arizona (virtual), May 2020",
+    "links": [
+      {
+        "text": "Software Sustainability",
+        "url": "https://hackmd.io/KXcSSM5BTVa3U9jz-Hq18A?both"
+      },
+      {
+        "text": "ResBaz Arizona (virtual)",
+        "url": "https://researchbazaar.arizona.edu/resbaz/resbazTucson2020/"
+      }
+    ]
+  },
+  {
+    "title": "Panel on What is Data Science?",
+    "description": "ResBaz Arizona (virtual), May 2020",
+    "links": [
+      {
+        "text": "What is Data Science?",
+        "url": "https://hackmd.io/XxaH_NpRQu6NC8xvCquIYw"
+      },
+      {
+        "text": "ResBaz Arizona (virtual)",
+        "url": "https://researchbazaar.arizona.edu/resbaz/resbazTucson2020/"
+      }
+    ]
+  },
+  {
+    "title": "VRE-IG: Reference Models and Frameworks",
+    "description": "RDA 15th Plenary (virtual), April 2020",
+    "links": [
+      {
+        "text": "VRE-IG: Reference Models and Frameworks",
+        "url": "https://www.rd-alliance.org/towards-common-reference-architecture-vres"
+      },
+      {
+        "text": "RDA 15th Plenary (virtual)",
+        "url": "https://www.rd-alliance.org/rda-virtual-plenary-programme"
+      }
+    ]
+  }
 ]
