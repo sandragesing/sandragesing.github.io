@@ -1,182 +1,182 @@
 [
-    {
-        "article": {
-            "title": "New site tracks virus in Illinois wastewater",
-            "url" : "https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-wastewater-tracking-20200804-2q7x5g3y4jfr5h6k7b4m6f3q2i-story.html"
-        },
-        "publisher": {
-            "title": "Chicago Tribune",
-            "url": "https://www.chicagotribune.com/"
-        }
+  {
+    "article": {
+      "title": "New site tracks virus in Illinois wastewater",
+      "url": "http://sandra-gesing.com/wp-content/uploads/2023/01/City.pdf"
     },
-    {
-        "article": {
-            "title": "A New NSF Center of Excellence in Cyberinfrastructure Announced",
-            "url" : "https://www.hpcwire.com/2022/01/09/a-new-nsf-center-of-excellence-in-cyberinfrastructure-announced/"
-        },
-        "publisher": {
-            "title": "HPCwire",
-            "url": "https://www.hpcwire.com/"
-        }
-    },
-    {
-        "article": {
-            "title": "A kind-of brief shared early history of US-RSE",
-            "url" : "https://us-rse.org/blog/2022/01/09/a-kind-of-brief-shared-early-history-of-us-rse/"
-        },
-        "publisher": {
-            "title": "US-RSE Blog",
-            "url": "https://us-rse.org/blog/"
-        }
-    },
-    {
-        "article": {
-            "title": "Reflecting on Our Community: The SC21 BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering",
-            "url" : "https://betterscientificsoftware.github.io/software-carpentry/blog/2022/01/09/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering/"
-        },
-        "publisher": {
-            "title": "Better Scientific Software Blog",
-            "url": "https://betterscientificsoftware.github.io/software-carpentry/"
-        }
-    },
-    {
-        "article": {
-            "title": "US-RSE: Supporting the Research Software Engineer",
-            "url" : "https://ieeexplore.ieee.org/document/9806631"
-        },
-        "publisher": {
-            "title": "IEEE Computer Society Tech News",
-            "url": "https://www.computer.org/web/tech-news"
-        }
-    },
-    {
-        "article": {
-            "title": "US-RSE: Supporting the Research Software Engineer",
-            "url" : "https://www.siam.org/news/news.php?id=1071"
-        },
-        "publisher": {
-            "title": "SIAM News",
-            "url": "https://www.siam.org/news/"
-        }
-    },
-    {
-        "article": {
-            "title": "Introduction to Lightning Talks of SeptembRSE Worldwide 2021",
-            "url" : "https://www.youtube.com/watch?v=4-4y7-8-7hA"
-        },
-        "publisher": {
-            "title": "YouTube Channel of Society of Research Software Engineering",
-            "url": "https://www.youtube.com/channel/UC0-4v-2-0q0y-5-8-9-6-1-3-2"
-        }
-    },
-    {
-        "article": {
-            "title": "Building a career path for research software engineers",
-            "url" : "https://iris.edu/news/iris-hep-news/building-career-path-research-software-engineers"
-        },
-        "publisher": {
-            "title": "IRIS HEP News",
-            "url": "https://iris.edu/news/iris-hep-news/"
-        }
-    },
-    {
-        "article": {
-            "title": "Understanding Engineering Curricula to Improve Diversity Within the Field",
-            "url" : "https://www.siam.org/news/news.php?id=1070"
-        },
-        "publisher": {
-            "title": "SIAM News",
-            "url": "https://www.siam.org/news/"
-        }
-    },
-    {
-        "article":{
-            "title": "Top 10 Stories of 2020",
-            "url" : "https://sciencenode.com/top-10-stories-of-2020/"
-        },
-        "publisher": {
-            "title": "Science Node",
-            "url": "https://sciencenode.com/" 
-        }
-    },
-    {
-        "article":{
-            "title": "Paths to HPC",
-            "url" : "https://sciencenode.com/paths-to-hpc/"
-        },
-        "publisher": {
-            "title": "Science Node",
-            "url": "https://sciencenode.com/" 
-        }
-    },
-    {
-        "article":{
-            "title": "Introduction to PEARC20, July 2020",
-            "url" : "https://www.youtube.com/watch?v=4-4y7-8-7hA"
-        },
-        "publisher": {
-            "title": "ACM YouTube channel",
-            "url": "https://www.youtube.com/channel/UC0-4v-2-0q0y-5-8-9-6-1-3-2" 
-        }
-    },
-    {
-        "article":{
-            "title": "Reflections from the Inaugural Science Gateways Bootcamp in April, 2017",
-            "url" : "https://sgci.org/blog/2017/04/11/reflections-from-the-inaugural-science-gateways-bootcamp-in-april-2017/"
-        },
-        "publisher": {
-            "title": "SGCI Blog",
-            "url": "https://sgci.org/blog/" 
-        }
-    },
-    {
-        "article":{
-            "title": "People of SGCI: Sandra Gesing",
-            "url" : "https://sgci.org/blog/2017/04/11/people-of-sgci-sandra-gesing/"
-        },
-        "publisher": {
-            "title": "SGCI Blog",
-            "url": "https://sgci.org/blog/" 
-        }
-    },
-    {
-        "article":{
-            "title": "Effectiveness and efficiency of computational scientific methods are not enough",
-            "url" : "https://www.adjacent.org/science/effectiveness-and-efficiency-of-computational-scientific-methods-are-not-enough"
-        },
-        "publisher": {
-            "title": "Adjacent Government",
-            "url": "https://www.adjacent.org/" 
-        }
-    },
-    {
-        "article":{
-            "title": "NSF Awards $15 Million to Create Science Gateways Community Institute",
-            "url" : "https://www.crcnewswire.com/news/nsf-awards-15-million-to-create-science-gateways-community-institute"
-        },
-        "publisher": {
-            "title": "CRC News Brief",
-            "url": "https://www.crcnewswire.com/" 
-        }
-    },
-    {
-        "article":{
-            "title": "Technology-enhanced research",
-            "url" : "https://www.internationalinnovation.org/technology-enhanced-research"
-        },
-        "publisher": {
-            "title": "International Innovation",
-            "url": "https://www.internationalinnovation.org/" 
-        }
-    },
-    {
-        "article":{
-            "title": "Building global Science Gateways: integrated access to data, analysis tools and modelling",
-            "url" : "https://aarnet.org/news/building-global-science-gateways-integrated-access-data-analysis-tools-and-modelling"
-        },
-        "publisher": {
-            "title": "aarnet News",
-            "url": "https://aarnet.org/news/" 
-        }
+    "publisher": {
+      "title": "Chicago Tribune",
+      "url": "https://www.chicagotribune.com/"
     }
+  },
+  {
+    "article": {
+      "title": "A New NSF Center of Excellence in Cyberinfrastructure Announced",
+      "url": "https://www.hpcwire.com/2022/01/09/a-new-nsf-center-of-excellence-in-cyberinfrastructure-announced/"
+    },
+    "publisher": {
+      "title": "HPCwire",
+      "url": "https://www.hpcwire.com/off-the-wire/new-nsf-center-of-excellence-in-cyberinfrastructure-announced/"
+    }
+  },
+  {
+    "article": {
+      "title": "A kind-of brief shared early history of US-RSE",
+      "url": "https://us-rse.org/2022-02-06-a-brief-history-of-usrse/"
+    },
+    "publisher": {
+      "title": "US-RSE Blog",
+      "url": "https://us-rse.org/blog/"
+    }
+  },
+  {
+    "article": {
+      "title": "Reflecting on Our Community: The SC21 BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering",
+      "url": "https://betterscientificsoftware.github.io/software-carpentry/blog/2022/01/09/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering/"
+    },
+    "publisher": {
+      "title": "Better Scientific Software Blog",
+      "url": "https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering"
+    }
+  },
+  {
+    "article": {
+      "title": "US-RSE: Supporting the Research Software Engineer",
+      "url": "https://www.computer.org/publications/tech-news/research/us-rse-supporting-the-research-software-engineer"
+    },
+    "publisher": {
+      "title": "IEEE Computer Society Tech News",
+      "url": "https://www.computer.org/web/tech-news"
+    }
+  },
+  {
+    "article": {
+      "title": "US-RSE: Supporting the Research Software Engineer",
+      "url": "https://www.siam.org/news/news.php?id=1071"
+    },
+    "publisher": {
+      "title": "SIAM News",
+      "url": "https://sinews.siam.org/Details-Page/us-rse-supporting-the-research-software-engineer"
+    }
+  },
+  {
+    "article": {
+      "title": "Introduction to Lightning Talks of SeptembRSE Worldwide 2021",
+      "url": "https://www.youtube.com/watch?v=rvrlHBBheZ0&ab_channel=SocietyofResearchSoftwareEngineering"
+    },
+    "publisher": {
+      "title": "YouTube Channel of Society of Research Software Engineering",
+      "url": "https://www.youtube.com/channel/UC0-4v-2-0q0y-5-8-9-6-1-3-2"
+    }
+  },
+  {
+    "article": {
+      "title": "Building a career path for research software engineers",
+      "url": "https://iris.edu/news/iris-hep-news/building-career-path-research-software-engineers"
+    },
+    "publisher": {
+      "title": "IRIS HEP News",
+      "url": "https://iris-hep.org/2021/05/12/career-path-rse.html"
+    }
+  },
+  {
+    "article": {
+      "title": "Understanding Engineering Curricula to Improve Diversity Within the Field",
+      "url": "https://sinews.siam.org/Details-Page/understanding-engineering-curricula-to-improve-diversity-within-the-field"
+    },
+    "publisher": {
+      "title": "SIAM News",
+      "url": "https://www.siam.org/news/"
+    }
+  },
+  {
+    "article": {
+      "title": "Top 10 Stories of 2020",
+      "url": "https://sciencenode.com/top-10-stories-of-2020/"
+    },
+    "publisher": {
+      "title": "Science Node",
+      "url": "https://sciencenode.org/feature/Top%2010%20stories%20of%202020%20pt%201.php"
+    }
+  },
+  {
+    "article": {
+      "title": "Paths to HPC",
+      "url": "https://sciencenode.org/feature/Paths%20to%20HPC%20Sandra%20Gesing.php"
+    },
+    "publisher": {
+      "title": "Science Node",
+      "url": "https://sciencenode.com/"
+    }
+  },
+  {
+    "article": {
+      "title": "Introduction to PEARC20, July 2020",
+      "url": "https://www.youtube.com/watch?v=4-4y7-8-7hA"
+    },
+    "publisher": {
+      "title": "ACM YouTube channel",
+      "url": "https://www.youtube.com/watch?v=wM3TEav71w4&feature=youtu.be"
+    }
+  },
+  {
+    "article": {
+      "title": "Reflections from the Inaugural Science Gateways Bootcamp in April, 2017",
+      "url": "https://sciencegateways.org/-/reflections-from-the-inaugural-science-gateways-bootcamp-in-april-2017?inheritRedirect=true&redirect=%2Fcommunity%2Fblog"
+    },
+    "publisher": {
+      "title": "SGCI Blog",
+      "url": "https://sgci.org/blog/"
+    }
+  },
+  {
+    "article": {
+      "title": "People of SGCI: Sandra Gesing",
+      "url": "https://sgci.org/blog/2017/04/11/people-of-sgci-sandra-gesing/"
+    },
+    "publisher": {
+      "title": "SGCI Blog",
+      "url": "https://sciencegateways.org/community/blog/-/asset_publisher/p52xrlMcuiZb/blog/people-of-sgci-sandra-gesing?redirect=%2Fcommunity%2Fblog"
+    }
+  },
+  {
+    "article": {
+      "title": "Effectiveness and efficiency of computational scientific methods are not enough",
+      "url": "http://sandra-gesing.com/wp-content/uploads/2016/08/c4930a9c-fc24-4ae4-986e-ba3a2532ff1c.pdf"
+    },
+    "publisher": {
+      "title": "Adjacent Government",
+      "url": "https://www.adjacent.org/"
+    }
+  },
+  {
+    "article": {
+      "title": "NSF Awards $15 Million to Create Science Gateways Community Institute",
+      "url": "https://www.crcnewswire.com/news/nsf-awards-15-million-to-create-science-gateways-community-institute"
+    },
+    "publisher": {
+      "title": "CRC News Brief",
+      "url": "https://crc.nd.edu/index.php/news-events/news-briefs/244-nsf-awards-15-million-to-create-science-gateways-community-institute"
+    }
+  },
+  {
+    "article": {
+      "title": "Technology-enhanced research",
+      "url": "http://sandra-gesing.com/wp-content/uploads/2016/12/Sandra_Gesing_Intl_Innovation_Technology_1611_Research_Media_04.pdf"
+    },
+    "publisher": {
+      "title": "International Innovation",
+      "url": "https://www.internationalinnovation.org/"
+    }
+  },
+  {
+    "article": {
+      "title": "Building global Science Gateways: integrated access to data, analysis tools and modelling",
+      "url": "https://aarnet.org/news/building-global-science-gateways-integrated-access-data-analysis-tools-and-modelling"
+    },
+    "publisher": {
+      "title": "aarnet News",
+      "url": "http://news.aarnet.edu.au/building-global-science-gateways-integrated-access-to-data-analysis-tools-and-modelling/"
+    }
+  }
 ]
