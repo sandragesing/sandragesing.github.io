@@ -6,6 +6,7 @@
         {{ $data := index .Site.Data.bio $file }}
         {{ range $data }}
         <tr>
+            
             <td class="column-1">
                 {{ if .description }}
                 <br>
@@ -14,11 +15,21 @@
 
             </td>
             <td>
-                {{ if .url }}
-                    <strong style="color: var(--secondary);"><a href="{{ .url }}">{{ .title }}</a></strong> 
-                {{ else }}
-                    {{ .title }}
-                {{ end }}
+                {{- $linkMap := dict -}}
+                {{- range .links }}
+                {{- $linkMap = merge $linkMap (dict .text .url) -}}
+                {{- end }}
+
+                {{/* Inline linkification for title */}}
+                {{- $linkedTitle := .title -}}
+                {{- range $k, $v := $linkMap }}
+                {{- $linked := printf `<a href="%s">%s</a>` $v $k -}}
+                {{- $linkedTitle = replace $linkedTitle $k $linked 1 -}}  {{/* only once */}}
+                {{- end }}
+
+                <div class="">
+                    <p>{{ $linkedTitle | safeHTML }}</p>
+                </div>
             </td>
         </tr>
         {{ end }}
