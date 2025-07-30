@@ -4,7 +4,7 @@ title: "Home"
 
 # Sandra Gesing
 
-!["Sandra"]("/images/sandra.png")
+!["Sandra"](/images/sandra.png)
 
 **Executive Director** in the 
 
