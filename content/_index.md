@@ -4,6 +4,8 @@ title: "Home"
 
 # Sandra Gesing
 
+!["Sandra"]("/images/sandra.png")
+
 **Executive Director** in the 
 
 [US Research Software Engineers Association (US-RSE)](https://us-rse.org/)
@@ -15,6 +17,7 @@ title: "Home"
 **Member of the Leadership team** in the program
 
 [National Model for Long-Term Support of High-Potential Kids in Unstable Housing](https://www.chicagohopesforkids.org/)
+
 
 Chicago Hopes for Kids, 4 Foundations Division
 
