@@ -37,13 +37,27 @@
   font-size: 0.8rem;
 }
 
-.post-content a{
-  color: var(--secondary);
-}
-
 .column-1 {
   width: 8rem;
 }
 .sub_entries {
   padding-left: 1rem;
 }
+
+.profile-img {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.post-content a {
+  text-decoration: none;
+  color: var(--secondary);
+  font-weight: bold;
+}
+
+.lecture-img {
+  position: absolute;
+  right: -12rem;
+}
+

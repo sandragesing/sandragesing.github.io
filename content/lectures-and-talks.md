@@ -2,6 +2,9 @@
 title: "Lectures and Talks"
 ---
 
+<div class="lecture-img">
+    <img alt="Sandra giving lecture" loading="lazy" src="/images/lectures.png"> 
+</div>
 Here are sample videos of presentations I gave.
 
 - [US-RSE and SGX3: Accelerating Science and Empowering Hidden Contributors](https://anl.app.box.com/s/9eubp0ffxv4iwkfbxhv9i91m236kikx7), Argonne CS Seminar, June 2024
@@ -11,7 +14,6 @@ Here are sample videos of presentations I gave.
 - [The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community](https://youtu.be/yvNBb78BOK4), SORSE, October 2020
 - [Introduction to Science Gateways](https://www.youtube.com/watch?v=gpoiUM2Efkc), University of Cincinnati, USA, October 2018
 
-![](/images/lectures.png)
 
 ### 2025
 
