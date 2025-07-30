@@ -1,26 +1,86 @@
 [
-    {
-        "title": "Workflows in a Dashboard: A New Generation of Usability",
-        "description": "WORKS 2014: 9th Workshop On Workflows in Support of Large-Scale Science, New Orleans, LA, US, November 2014"
-    },
-    {
-        "title": "Session ICTBioMed: Using OpenStack, perfSONAR, and a Science Gateway to Connect HPC Resources",
-        "description": "Internet2 Technology Exchange 2014, Indianapolis, IN, US, October 2014"
-    },
-    {
-        "title": "Panel Science Gateways – Novel Technologies Enhance Usability for User Communities",
-        "description": "Internet2 Technology Exchange 2014, Indianapolis, IN, US, October 2014"
-    },
-    {
-        "title": "Lecture on Distributed Job, Workflow and Data Management – Science Gateways as Solution to Rule Them All",
-        "description": "ZIH Kolloquium, Technische Universität Dresden, Germany, October 2014"
-    },
-    {
-        "title": "Invited talk on MoSGrid – Workflows for Molecular Simulations in a Science Gateway",
-        "description": "XSEDE Science Gateway and Workflow Call, Web Conference, June 2014"
-    },
-    {
-        "title": "Invited talk on Workflows for Biological Research at Notre Dame",
-        "description": "ICTBioMed: International Consortium for Technology in Biomedicine , 2014 Internet2 Global Summit, Denver, CO, US, April 2014"  
-    }
+  {
+    "title": "Workflows in a Dashboard: A New Generation of Usability",
+    "description": "WORKS 2014: 9th Workshop On Workflows in Support of Large-Scale Science, New Orleans, LA, US, November 2014",
+    "links": [
+      {
+        "text": "Workflows in a Dashboard: A New Generation of Usability",
+        "url": "http://users.cs.cf.ac.uk/Ian.J.Taylor/works14/program.php"
+      },
+      {
+        "text": "WORKS 2014: 9th Workshop On Workflows in Support of Large-Scale Science",
+        "url": "http://users.cs.cf.ac.uk/Ian.J.Taylor/works14/program.php"
+      }
+    ]
+  },
+  {
+    "title": "Session ICTBioMed: Using OpenStack, perfSONAR, and a Science Gateway to Connect HPC Resources",
+    "description": "Internet2 Technology Exchange 2014, Indianapolis, IN, US, October 2014",
+    "links": [
+      {
+        "text": "ICTBioMed: Using OpenStack, perfSONAR, and a Science Gateway to Connect HPC Resources",
+        "url": "http://meetings.internet2.edu/2014-technology-exchange/detail/10003433/"
+      },
+      {
+        "text": "Internet2 Technology Exchange 2014",
+        "url": "http://meetings.internet2.edu/2014-technology-exchange/"
+      }
+    ]
+  },
+  {
+    "title": "Panel Science Gateways – Novel Technologies Enhance Usability for User Communities",
+    "description": "Internet2 Technology Exchange 2014, Indianapolis, IN, US, October 2014",
+    "links": [
+      {
+        "text": "Science Gateways – Novel Technologies Enhance Usability for User Communities",
+        "url": "http://meetings.internet2.edu/2014-technology-exchange/detail/10003398/"
+      },
+      {
+        "text": "Internet2 Technology Exchange 2014",
+        "url": "http://meetings.internet2.edu/2014-technology-exchange/"
+      }
+    ]
+  },
+  {
+    "title": "Lecture on Distributed Job, Workflow and Data Management – Science Gateways as Solution to Rule Them All",
+    "description": "ZIH Kolloquium, Technische Universität Dresden, Germany, October 2014",
+    "links": [
+      {
+        "text": "Distributed Job, Workflow and Data Management – Science Gateways as Solution to Rule Them All",
+        "url": "http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/veranstaltungen/zih_kolloquium"
+      },
+      {
+        "text": "ZIH Kolloquium",
+        "url": "http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/veranstaltungen/zih_kolloquium"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on MoSGrid – Workflows for Molecular Simulations in a Science Gateway",
+    "description": "XSEDE Science Gateway and Workflow Call, Web Conference, June 2014",
+    "links": [
+      {
+        "text": "MoSGrid – Workflows for Molecular Simulations in a Science Gateway",
+        "url": "https://iu.app.box.com/workflows-mosgrid"
+      },
+      {
+        "text": "XSEDE Science Gateway and Workflow Call",
+        "url": "https://www.xsede.org/news/-/news/item/6796"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on Workflows for Biological Research at Notre Dame",
+    "description": "ICTBioMed: International Consortium for Technology in Biomedicine , 2014 Internet2 Global Summit, Denver, CO, US, April 2014",
+    "links": [
+      {
+        "text": "Workflows for Biological Research at Notre Dame",
+        "url": "https://meetings.internet2.edu/media/medialibrary/2014/03/28/20140410-Gesing-BiologicalWorkflows.pdf"
+      },
+      {
+        "text": "ICTBioMed: International Consortium for Technology in Biomedicine ",
+        "url": "https://meetings.internet2.edu/2014-global-summit/detail/10003122/"
+      }
+    ]
+  }
 ]

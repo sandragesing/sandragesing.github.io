@@ -1,7 +1,16 @@
 [
-    {
-        "title": "Invited talk on Workflow-Engines in a Bioinformatic Portal,",
-        "description": "e-Science Institute Edinburgh, UK, March 2007"
-    }
-    
+  {
+    "title": "Invited talk on Workflow-Engines in a Bioinformatic Portal,",
+    "description": "e-Science Institute Edinburgh, UK, March 2007",
+    "links": [
+      {
+        "text": "Workflow-Engines in a Bioinformatic Portal",
+        "url": "http://www.nesc.ac.uk/esi/events/780/"
+      },
+      {
+        "text": "e-Science Institute Edinburgh",
+        "url": "http://www.nesc.ac.uk/"
+      }
+    ]
+  }
 ]

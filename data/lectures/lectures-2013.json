@@ -1,34 +1,110 @@
 [
-    {
-        "title": "Invited talk on Experiences with Computational Workflows at Notre Dame’s Center for Research Computing",
-        "description": "SC13 Workflow BOF, Denver, CO, US, November 2013"
-    },
-    {
-        "title": "The Demand for Consistent Web-based Workflow Editors",
-        "description": "WORKS 2013: 8th Workshop On Workflows in Support of Large-Scale Science, Denver, CO, US, November 2013"
-    },
-    {
-        "title": "User-friendly metaworkflows in quantum chemistry",
-        "description": "SGIW 2013 (Science Gateway Institute Workshop), Indianapolis, US, September 2013"
-    },
-    {
-        "title": "Lecture on Science Gateways for Life Sciences – Balancing Usability and Re-Usability",
-        "description": "CSE Seminar, University of Notre Dame, US, September 2013"
-    },
-    {
-        "title": "Lecture on GeWWE – A Generic Web-based Workflow Editor",
-        "description": "Research Seminar Series, University of Edinburgh, UK, July 2013"
-    },
-    {
-        "title": "Invited talk on Multi-Workflow Systems and Editors",
-        "description": "OSDC PIRE Workshop, Edinburgh, UK, June 2013"
-    },
-    {
-        "title": "Invited talk on MoSGrid – Molecular Simulations in a Distributed Environment",
-        "description": "OSDC PIRE Workshop, Edinburgh, UK, June 2013"
-    },
-    {
-        "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
-        "description": "Melbourne eResearch Group, University of Melbourne, Australia, March 2013"
-    }
+  {
+    "title": "Invited talk on Experiences with Computational Workflows at Notre Dame’s Center for Research Computing",
+    "description": "SC13 Workflow BOF, Denver, CO, US, November 2013",
+    "links": [
+      {
+        "text": "Experiences with Computational Workflows at Notre Dame’s Center for Research Computing",
+        "url": "https://sites.google.com/site/sc13workflowbof/"
+      },
+      {
+        "text": "SC13 Workflow BOF",
+        "url": "https://sites.google.com/site/sc13workflowbof/"
+      }
+    ]
+  },
+  {
+    "title": "The Demand for Consistent Web-based Workflow Editors",
+    "description": "WORKS 2013: 8th Workshop On Workflows in Support of Large-Scale Science, Denver, CO, US, November 2013",
+    "links": [
+      {
+        "text": "The Demand for Consistent Web-based Workflow Editors",
+        "url": "http://users.cs.cf.ac.uk/Ian.J.Taylor/works13/program.php"
+      },
+      {
+        "text": "WORKS 2013: 8th Workshop On Workflows in Support of Large-Scale Science",
+        "url": "http://users.cs.cf.ac.uk/Ian.J.Taylor/works13/program.php"
+      }
+    ]
+  },
+  {
+    "title": "User-friendly metaworkflows in quantum chemistry",
+    "description": "SGIW 2013 (Science Gateway Institute Workshop), Indianapolis, US, September 2013",
+    "links": [
+      {
+        "text": "User-friendly metaworkflows in quantum chemistry",
+        "url": "http://sciencegateways.org/upcoming-events/ieee-workshop-september-2013/"
+      },
+      {
+        "text": "SGIW 2013 (Science Gateway Institute Workshop)",
+        "url": "http://sciencegateways.org/upcoming-events/ieee-workshop-september-2013/"
+      }
+    ]
+  },
+  {
+    "title": "Lecture on Science Gateways for Life Sciences – Balancing Usability and Re-Usability",
+    "description": "CSE Seminar, University of Notre Dame, US, September 2013",
+    "links": [
+      {
+        "text": "Science Gateways for Life Sciences – Balancing Usability and Re-Usability",
+        "url": "http://cse.nd.edu/seminars/cse-seminar-series-science-gateways-for-life-sciences-balancing-usability-and-re-usability"
+      },
+      {
+        "text": "CSE Seminar",
+        "url": "http://cse.nd.edu/seminars/"
+      }
+    ]
+  },
+  {
+    "title": "Lecture on GeWWE – A Generic Web-based Workflow Editor",
+    "description": "Research Seminar Series, University of Edinburgh, UK, July 2013",
+    "links": [
+      {
+        "text": "GeWWE – A Generic Web-based Workflow Editor",
+        "url": "http://research.nesc.ac.uk/node/968"
+      },
+      {
+        "text": "Research Seminar Series",
+        "url": "http://research.nesc.ac.uk/seminars"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on Multi-Workflow Systems and Editors",
+    "description": "OSDC PIRE Workshop, Edinburgh, UK, June 2013",
+    "links": [
+      {
+        "text": "Multi-Workflow Systems and Editors",
+        "url": "http://ciara.fiu.edu/osdc2013WorkflowsSandraGesing.pdf"
+      },
+      {
+        "text": "OSDC PIRE Workshop",
+        "url": "http://pire.opensciencedatacloud.org/osdc-pire-edinburgh-workshop-2013/"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on MoSGrid – Molecular Simulations in a Distributed Environment",
+    "description": "OSDC PIRE Workshop, Edinburgh, UK, June 2013",
+    "links": [
+      {
+        "text": "MoSGrid – Molecular Simulations in a Distributed Environment",
+        "url": "http://ciara.fiu.edu/osdc2013MoSGridSandraGesing.pdf"
+      },
+      {
+        "text": "OSDC PIRE Workshop",
+        "url": "http://pire.opensciencedatacloud.org/osdc-pire-edinburgh-workshop-2013/"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
+    "description": "Melbourne eResearch Group, University of Melbourne, Australia, March 2013",
+    "links": [
+      {
+        "text": "Melbourne eResearch Group",
+        "url": "http://www.eresearch.unimelb.edu.au/about_us"
+      }
+    ]
+  }
 ]

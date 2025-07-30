@@ -1,86 +1,288 @@
 [
-    {
-        "title": "SGCI Incubator: Sustainability Support for Science Gateways",
-        "description": "SC17, Purdue Booth, Denver, CO, USA, November 2017"
-    },
-    {
-        "title": "The Science Gateways Community Institute: International Collaboration on World-Wide Scale",
-        "description": "Kris Bubendorfer’s Group, Victoria University of Wellington, New Zealand, November 2017"
-    },
-    {
-        "title": "Science Gateways: Sustainability via On-Campus Teams",
-        "description": "Gateways 2017, Ann Arbor, MI, USA, October 2017"
-    },
-    {
-        "title": "Science Gateways Incubator: Software Sustainability Meets Community Needs",
-        "description": "WSSSPE 5.2, Auckland, New Zealand, October 2017"
-    },
-    {
-        "title": "Science Gateways: An Overview",
-        "description": "IWSG-A 2017 and PRAGMA 33, Brisbane, Australia, October 2017"
-    },
-    {
-        "title": "Science Gateways Community Institute: Software Registry",
-        "description": "IWSG-A 2017, Brisbane, Australia, October 2017"
-    },
-    {
-        "title": "Science Gateways Bootcamp: Strategies for Developing, Operating and Sustaining Science Gateways",
-        "description": "IWSG-A 2017, Brisbane, Australia, October 2017"
-    },
-    {
-        "title": "Sustainability via On-Campus Teams",
-        "description": "SGCI Incubator Bootcamp, Indianapolis, USA, October 2017"
-    },
-    {
-        "title": "International Coalition on Science Gateways",
-        "description": "ICSG Meeting, RDA 10th Plenary Meeting, Montreal, Canada, September 2017"
-    },
-    {
-        "title": "PresQT – Implementation Ideas",
-        "description": "PresQT Workshop 2, RDA 10th Plenary Meeting, Montreal, Canada, September 2017"
-    },
-    {
-        "title": "Science Gateways Community Institute: Subsidized Services and Consultancy to Facilitate Research on Your Campus",
-        "description": "ACI-REF Virtual Residency 2017, University of Oklahoma, Norman, USA, August 2017"
-    },
-    {
-        "title": "The Science Gateways Community Institute: Going Beyond Borders",
-        "description": "IWSG 2017, Poznan, Poland, June 2017"
-    },
-    {
-        "title": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
-        "description": "IWSG 2017, Poznan, Poland, June 2017"
-    },
-    {
-        "title": "Science Gateways: Ushering in a New Era of Sustainability",
-        "description": "Jesus Carretero’s Group, Universidad Carlos III de Madrid, Spain, May 2017"
-    },
-    {
-        "title": "PresQT – Preservation Quality Tool",
-        "description": "PresQT Workshop 1, University of Notre Dame, USA, May 2017"
-    },
-    {
-        "title": "Sustainability via On-Campus Teams",
-        "description": "SGCI Incubator Bootcamp, Indianapolis, USA, April 2017"
-    },
-    {
-        "title": "Science Gateways: Sustainability via On-Campus Teams",
-        "description": "XSEDE Campus Champions Call, April 2017"
-    },
-    {
-        "title": "Science Gateways: Addressing Data Management Challenges",
-        "description": "7th National Data Service Consortium Workshop, Chicago, USA, April 2017"
-    },
-    {
-        "title": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
-        "description": "2nd Personalized Medicine Conference, Cancun, Mexico, March 2017"
-    },
-    {
-        "title": "Science Gateways: Sustainability via On-Campus Teams",
-        "description": "SGCI webinar, January 2017"
-    },
-    {
-        "title": "Science Gateways: The Long Road to the Birth of an Institute",
-        "description": "HICSS50, Hilton Waikoloa Village, USA, January 2017"
-    }
+  {
+    "title": "SGCI Incubator: Sustainability Support for Science Gateways",
+    "description": "SC17, Purdue Booth, Denver, CO, USA, November 2017",
+    "links": [
+      {
+        "text": "SGCI Incubator: Sustainability Support for Science Gateways",
+        "url": "http://sandra-gesing.com/wp-content/uploads/2017/11/SC17-SandraGesingSGCIIncubator.pdf"
+      },
+      {
+        "text": "SC17",
+        "url": "http://sc17.supercomputing.org/"
+      }
+    ]
+  },
+  {
+    "title": "The Science Gateways Community Institute: International Collaboration on World-Wide Scale",
+    "description": "Kris Bubendorfer’s Group, Victoria University of Wellington, New Zealand, November 2017",
+    "links": [
+      {
+        "text": "The Science Gateways Community Institute: International Collaboration on World-Wide Scale",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-the-science-gateways-community-institute-international-collaboration-on-worldwide-scale"
+      },
+      {
+        "text": "Kris Bubendorfer’s Group",
+        "url": "https://ecs.victoria.ac.nz/Main/KrisBubendorfer"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Sustainability via On-Campus Teams",
+    "description": "Gateways 2017, Ann Arbor, MI, USA, October 2017",
+    "links": [
+      {
+        "text": "Science Gateways: Sustainability via On-Campus Teams",
+        "url": "https://sciencegateways.org/web/gateways2017/program/schedule"
+      },
+      {
+        "text": "Gateways 2017",
+        "url": "https://sciencegateways.org/web/gateways2017/program/schedule"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways Incubator: Software Sustainability Meets Community Needs",
+    "description": "WSSSPE 5.2, Auckland, New Zealand, October 2017",
+    "links": [
+      {
+        "text": "Science Gateways Incubator: Software Sustainability Meets Community Needs",
+        "url": "https://drive.google.com/file/d/0B0ma_RuisgkZMHloeDJzSnhjaXhkWDRkU1dlT0dWVGtOMjZN/view"
+      },
+      {
+        "text": "WSSSPE 5.2",
+        "url": "http://wssspe.researchcomputing.org.uk/wssspe5/workshop-on-sustainable-software-for-science-practice-and-experiences-wssspe5-2-agenda/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: An Overview",
+    "description": "IWSG-A 2017 and PRAGMA 33, Brisbane, Australia, October 2017",
+    "links": [
+      {
+        "text": "Science Gateways: An Overview",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-an-overview"
+      },
+      {
+        "text": "IWSG-A 2017",
+        "url": "http://iwsg-life.org/site/iwsglife/about-iwsg-a"
+      },
+      {
+        "text": "PRAGMA 33",
+        "url": "http://www.pragma-grid.net/pragma33/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways Community Institute: Software Registry",
+    "description": "IWSG-A 2017, Brisbane, Australia, October 2017",
+    "links": [
+      {
+        "text": "Science Gateways Community Institute: Software Registry",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-community-institute-software-registry"
+      },
+      {
+        "text": "IWSG-A 2017",
+        "url": "http://iwsg-life.org/site/iwsglife/about-iwsg-a"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways Bootcamp: Strategies for Developing, Operating and Sustaining Science Gateways",
+    "description": "IWSG-A 2017, Brisbane, Australia, October 2017",
+    "links": [
+      {
+        "text": "Science Gateways Bootcamp: Strategies for Developing, Operating and Sustaining Science Gateways",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-bootcamp-strategies-for-developing-operating-and-sustaining-science-gateways"
+      },
+      {
+        "text": "IWSG-A 2017",
+        "url": "http://iwsg-life.org/site/iwsglife/about-iwsg-a"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability via On-Campus Teams",
+    "description": "SGCI Incubator Bootcamp, Indianapolis, USA, October 2017",
+    "links": [
+      {
+        "text": "SGCI Incubator Bootcamp",
+        "url": "http://sciencegateways.org/upcoming-events/science-gateways-bootcamp/"
+      }
+    ]
+  },
+  {
+    "title": "International Coalition on Science Gateways",
+    "description": "ICSG Meeting, RDA 10th Plenary Meeting, Montreal, Canada, September 2017",
+    "links": [
+      {
+        "text": "International Coalition on Science Gateways",
+        "url": "https://docs.google.com/presentation/d/1OKriHy810_PxpJ-yD8dND5A2fgB8qkckcP2JSa_zeB4/edit#slide=id.g26286a500a_1_0"
+      },
+      {
+        "text": "ICSG Meeting",
+        "url": "http://www.icsciencegateways.org/rda-plenary-in-montreal-canada-on-18-september-2017/"
+      }
+    ]
+  },
+  {
+    "title": "PresQT – Implementation Ideas",
+    "description": "PresQT Workshop 2, RDA 10th Plenary Meeting, Montreal, Canada, September 2017",
+    "links": [
+      {
+        "text": "PresQT – Implementation Ideas",
+        "url": "https://osf.io/xpqr7/"
+      },
+      {
+        "text": "PresQT Workshop 2",
+        "url": "https://presqt.crc.nd.edu/index.php/workshops/workshop-two"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways Community Institute: Subsidized Services and Consultancy to Facilitate Research on Your Campus",
+    "description": "ACI-REF Virtual Residency 2017, University of Oklahoma, Norman, USA, August 2017",
+    "links": [
+      {
+        "text": "Science Gateways Community Institute: Subsidized Services and Consultancy to Facilitate Research on Your Campus",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-community-institute-subsidized-services-and-consultancy-to-facilitate-research-on-your-campus?qid=7333f3d2-df46-4646-84b0-4d1c84ed81f2&v=&b=&from_search=1"
+      },
+      {
+        "text": "ACI-REF Virtual Residency 2017",
+        "url": "http://www.oscer.ou.edu/acirefvirtres2017.php#agenda"
+      }
+    ]
+  },
+  {
+    "title": "The Science Gateways Community Institute: Going Beyond Borders",
+    "description": "IWSG 2017, Poznan, Poland, June 2017",
+    "links": [
+      {
+        "text": "The Science Gateways Community Institute: Going Beyond Borders",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-the-science-gateways-community-institute-going-beyond-borders"
+      },
+      {
+        "text": "IWSG 2017",
+        "url": "http://iwsg2017.psnc.pl/"
+      }
+    ]
+  },
+  {
+    "title": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
+    "description": "IWSG 2017, Poznan, Poland, June 2017",
+    "links": [
+      {
+        "text": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
+        "url": "http://iwsg2017.psnc.pl/programme/#mon"
+      },
+      {
+        "text": "IWSG 2017",
+        "url": "http://iwsg2017.psnc.pl/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Ushering in a New Era of Sustainability",
+    "description": "Jesus Carretero’s Group, Universidad Carlos III de Madrid, Spain, May 2017",
+    "links": [
+      {
+        "text": "Science Gateways: Ushering in a New Era of Sustainability",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-ushering-in-a-new-era-of-sustainability"
+      },
+      {
+        "text": "Jesus Carretero’s Group",
+        "url": "http://portal.uc3m.es/portal/page/portal/ifibid/people/carretero"
+      }
+    ]
+  },
+  {
+    "title": "PresQT – Preservation Quality Tool",
+    "description": "PresQT Workshop 1, University of Notre Dame, USA, May 2017",
+    "links": [
+      {
+        "text": "PresQT – Preservation Quality Tool",
+        "url": "https://osf.io/jdq8n/"
+      },
+      {
+        "text": "PresQT Workshop 1",
+        "url": "https://presqt.crc.nd.edu/index.php/workshops"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability via On-Campus Teams",
+    "description": "SGCI Incubator Bootcamp, Indianapolis, USA, April 2017",
+    "links": [
+      {
+        "text": "SGCI Incubator Bootcamp",
+        "url": "http://sciencegateways.org/upcoming-events/science-gateways-bootcamp/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Sustainability via On-Campus Teams",
+    "description": "XSEDE Campus Champions Call, April 2017",
+    "links": [
+      {
+        "text": "Science Gateways: Sustainability via On-Campus Teams",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-software-sustainability-via-oncampus-teams-webinar-xsede-campus-champions"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Addressing Data Management Challenges",
+    "description": "7th National Data Service Consortium Workshop, Chicago, USA, April 2017",
+    "links": [
+      {
+        "text": "Science Gateways: Addressing Data Management Challenges",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-addressing-data-management-challenges"
+      },
+      {
+        "text": "7th National Data Service Consortium Workshop",
+        "url": "http://www.nationaldataservice.org/get_involved/events/NDS7/"
+      }
+    ]
+  },
+  {
+    "title": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
+    "description": "2nd Personalized Medicine Conference, Cancun, Mexico, March 2017",
+    "links": [
+      {
+        "text": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-science-gateways-harnessing-big-data-and-open-data-03192017"
+      },
+      {
+        "text": "2nd Personalized Medicine Conference",
+        "url": "https://www.fusion-conferences.com/conference56.php"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Sustainability via On-Campus Teams",
+    "description": "SGCI webinar, January 2017",
+    "links": [
+      {
+        "text": "Science Gateways: Sustainability via On-Campus Teams",
+        "url": "http://www.slideshare.net/SandraGesing/science-gateways-sustainability-via-oncampus-teams"
+      },
+      {
+        "text": "SGCI webinar",
+        "url": "http://sciencegateways.org/"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: The Long Road to the Birth of an Institute",
+    "description": "HICSS50, Hilton Waikoloa Village, USA, January 2017",
+    "links": [
+      {
+        "text": "Science Gateways: The Long Road to the Birth of an Institute",
+        "url": "http://www.slideshare.net/maytaldahan/sgci-hicss50-presentation?qid=e1ca8d3c-b551-41f2-bcf6-0ffc27384c3c&v=&b=&from_search=5"
+      },
+      {
+        "text": "HICSS50",
+        "url": "http://sciencegateways.org/events/hicss-50/"
+      }
+    ]
+  }
 ]

@@ -1,14 +1,44 @@
 [
-    {
-        "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
-        "description": "Rutgers Discovery Informatics Institute, Rutgers University, New Brunswick, US, September 2012"
-    },
-    {
-        "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
-        "description": "Center for Research Computing, University of Notre Dame, US, September 2012"
-    },
-    {
-        "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
-        "description": "Center for Biomedical Research Informatics, NorthShore University HealthSystem, Evanston, US, September 2012"
-    }
+  {
+    "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
+    "description": "Rutgers Discovery Informatics Institute, Rutgers University, New Brunswick, US, September 2012",
+    "links": [
+      {
+        "text": "Web-based Science Gateways for Structural Bioinformatics",
+        "url": "http://rdi2.rutgers.edu/event/rdi2-seminar-web-based-science-gateways-structural-bioinformatics"
+      },
+      {
+        "text": "Rutgers Discovery Informatics Institute",
+        "url": "http://rdi2.rutgers.edu/"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
+    "description": "Center for Research Computing, University of Notre Dame, US, September 2012",
+    "links": [
+      {
+        "text": "Web-based Science Gateways for Structural Bioinformatics",
+        "url": "http://researchcomputing.nd.edu/images/newsletter/september/crc_newsletter_september_2012_final.pdf"
+      },
+      {
+        "text": "Center for Research Computing",
+        "url": "http://researchcomputing.nd.edu/index.php/aboutcrc"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on Web-based Science Gateways for Structural Bioinformatics",
+    "description": "Center for Biomedical Research Informatics, NorthShore University HealthSystem, Evanston, US, September 2012",
+    "links": [
+      {
+        "text": "Web-based Science Gateways for Structural Bioinformatics",
+        "url": "http://www.chicagobiomedicalconsortium.org/events/event_detail.php?id=5417"
+      },
+      {
+        "text": "Center for Biomedical Research Informatics",
+        "url": "http://www.northshore.org/research/centers/Center-for-Biomedical-Research-Informatics/"
+      }
+    ]
+  }
 ]

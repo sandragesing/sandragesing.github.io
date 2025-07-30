@@ -1,6 +1,12 @@
 [
-    {
-        "title": "Invited talk on EuSGE – European Science Gateways for e-Science",
-        "description": "University of Westminster, London, UK, December 2009"
-    }
+  {
+    "title": "Invited talk on EuSGE – European Science Gateways for e-Science",
+    "description": "University of Westminster, London, UK, December 2009",
+    "links": [
+      {
+        "text": "University of Westminster",
+        "url": "http://www.wmin.ac.uk/"
+      }
+    ]
+  }
 ]

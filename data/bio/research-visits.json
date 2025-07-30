@@ -1,34 +1,114 @@
 [
-    {
-        "title": "Three research visits in Malcolm Atkinson's group at the University of Edinburgh, UK",
-        "description": "Jun 2014 - Jun 2016"
-    },
-    {
-        "title": "Research visit in Ewa Deelman's group, Information Sciences Institute, University of Southern California, Los Angeles, US",
-        "description": "Mar 2016"
-    },
-    {
-        "title": "Research visit in Ian Atkinson's group, eResearch Centre, James Cook University, Townsville, Australia",
-        "description": "Oct 2015"
-    },
-    {
-        "title": "Research visit in David Abramson's group at The University of Queensland, Brisbane, Australia",
-        "description": "Oct 2015"
-    },
-    {
-        "title": "Research visit in Jarek Nabrzyski's group, Center for Research Computing, University of Notre Dame, US",
-        "description": "Sep 2012"
-    },
-    {
-        "title": "Seven research visits in Malcolm Atkinson's group (formerly Jano van Hemert's group) at the e-Science Institute Edinburgh, UK",
-        "description": "Feb 2007 - Aug 2011"
-    },
-    {
-        "title": "Research visit in Peter Kacsuk's group at the MTA SZTAKI, Computer and Automation Research Institute, Hungarian Academy of Sciences, Budapest, Hungary",
-        "description": "Jul - Aug 2010"
-    },
-    {
-        "title": "Research visit in Shantenu Jha's group at the CCT, LSU, Baton Rouge, US",
-        "description": "Sep - Oct 2008"
-    }
+  {
+    "title": "Three research visits in Malcolm Atkinson's group at the University of Edinburgh, UK",
+    "description": "Jun 2014 - Jun 2016",
+    "links": [
+      {
+        "url": "http://research.nesc.ac.uk/",
+        "text": "Malcolm Atkinson's group"
+      },
+      {
+        "url": "http://www.ed.ac.uk/schools-departments/informatics/",
+        "text": "University of Edinburgh"
+      }
+    ]
+  },
+  {
+    "title": "Research visit in Ewa Deelman's group, Information Sciences Institute, University of Southern California, Los Angeles, US",
+    "description": "Mar 2016",
+    "links": [
+      {
+        "url": "https://deelman.isi.edu/",
+        "text": "Ewa Deelman's group"
+      },
+      {
+        "url": "http://ee.usc.edu/research/research_centers_and_institutes/isi.htm",
+        "text": "Information Sciences Institute"
+      }
+    ]
+  },
+  {
+    "title": "Research visit in Ian Atkinson's group, eResearch Centre, James Cook University, Townsville, Australia",
+    "description": "Oct 2015",
+    "links": [
+      {
+        "url": "https://eresearch.jcu.edu.au/contact/eresearch-members/professor-ian-atkinson",
+        "text": "Ian Atkinson's group"
+      },
+      {
+        "url": "https://eresearch.jcu.edu.au/",
+        "text": "eResearch Centre"
+      }
+    ]
+  },
+  {
+    "title": "Research visit in David Abramson's group at The University of Queensland, Brisbane, Australia",
+    "description": "Oct 2015",
+    "links": [
+      {
+        "url": "http://researchers.uq.edu.au/researcher/2986",
+        "text": "David Abramson's group"
+      },
+      {
+        "url": "http://www.uq.edu.au/",
+        "text": "The University of Queensland"
+      }
+    ]
+  },
+  {
+    "title": "Research visit in Jarek Nabrzyski's group, Center for Research Computing, University of Notre Dame, US",
+    "description": "Sep 2012",
+    "links": [
+      {
+        "url": "http://researchcomputing.nd.edu/index.php/aboutcrc",
+        "text": "Jarek Nabrzyski's group"
+      },
+      {
+        "url": "http://nd.edu/",
+        "text": "University of Notre Dame"
+      }
+    ]
+  },
+  {
+    "title": "Seven research visits in Malcolm Atkinson's group (formerly Jano van Hemert's group) at the e-Science Institute Edinburgh, UK",
+    "description": "Feb 2007 - Aug 2011",
+    "links": [
+      {
+        "url": "http://research.nesc.ac.uk/",
+        "text": "Malcolm Atkinson's group"
+      },
+      {
+        "url": "http://www.esi.ac.uk/",
+        "text": "e-Science Institute Edinburgh"
+      }
+    ]
+  },
+  {
+    "title": "Research visit in Peter Kacsuk's group at the MTA SZTAKI, Computer and Automation Research Institute, Hungarian Academy of Sciences, Budapest, Hungary",
+    "description": "Jul - Aug 2010",
+    "links": [
+      {
+        "url": "http://www.lpds.sztaki.hu/index.php?name=ABOUT%20US&menu=about&&load=staff/member.php",
+        "text": "Peter Kacsuk's group"
+      },
+      {
+        "url": "http://www.lpds.sztaki.hu/",
+        "text": "MTA SZTAKI, Computer and Automation Research Institute"
+      }
+    ]
+  },
+  {
+    "title": "Research visit in Shantenu Jha's group at the CCT, LSU, Baton Rouge, US",
+    "description": "Sep - Oct 2008",
+    "links": [
+      {
+        "url": "http://www.saga-project.org/about/team/developers-and-researchers",
+        "text": "Shantenu Jha's group"
+      },
+      {
+        "url": "http://www.cct.lsu.edu/home",
+        "text": "CCT"
+      }
+    ]
+  }
 ]

@@ -1,10 +1,26 @@
 [
-    {
-        "title": "Invited talk on A Workflow-enabled Grid-Portal for Bioinformatics",
-        "description": "NorduGrid 2008, Budapest, Hungary, October 2008"
-    },
-    {
-        "title": "Invited talk on A Workflow-enabled Grid-Portal for Bioinformatics",
-        "description": "CCT, LSU, Baton Rouge, US, September 2008"
-    }
+  {
+    "title": "Invited talk on A Workflow-enabled Grid-Portal for Bioinformatics",
+    "description": "NorduGrid 2008, Budapest, Hungary, October 2008",
+    "links": [
+      {
+        "text": " A Workflow-enabled Grid-Portal for Bioinformatics",
+        "url": "http://indico.hep.lu.se//sessionDisplay.py?sessionId=0&slotId=0&confId=616#2008-10-27"
+      },
+      {
+        "text": "NorduGrid 2008",
+        "url": "http://indico.hep.lu.se//conferenceDisplay.py?confId=616"
+      }
+    ]
+  },
+  {
+    "title": "Invited talk on A Workflow-enabled Grid-Portal for Bioinformatics",
+    "description": "CCT, LSU, Baton Rouge, US, September 2008",
+    "links": [
+      {
+        "text": "CCT",
+        "url": "http://www.cct.lsu.edu/home"
+      }
+    ]
+  }
 ]

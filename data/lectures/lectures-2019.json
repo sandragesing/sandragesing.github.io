@@ -1,94 +1,296 @@
 [
-    {
-        "title": "How to Support Gateways via Community Building: Join the Gateway Ambassadors",
-        "description": "SGCI Webinar, December 2019"
-    },
-    {
-        "title": "Panel Sustainability of HPC Research Computing: Fostering career paths for facilitators, research software engineers, and gateway creators",
-        "description": "SC19, Denver, CO, USA, November 2019"
-    },
-    {
-        "title": "SGCI and URSSI: Xpert Network – Exchanging Best Practices in Supporting Computational and Data-Intensive Research",
-        "description": "SC19, Denver, CO, USA, November 2019"
-    },
-    {
-        "title": "VRE-IG: Virtual Research Environments, Science Gateways and Virtual Labs",
-        "description": "RDA 14th Plenary, Helsinki, Finland, October 2019"
-    },
-    {
-        "title": "Research Software Sustainability",
-        "description": "UC Santa Barbara, CA, USA, October 2019"
-    },
-    {
-        "title": "Research and Sustainability",
-        "description": "LAOP 2019, Cancun, Mexico, September 2019"
-    },
-    {
-        "title": "Science Gateways: Accelerating Science under Consideration of Usability, Sustainability and Reproducibility",
-        "description": "LAOP 2019, Cancun, Mexico, September 2019"
-    },
-    {
-        "title": "Panel Effective Checklists for Developers and Researchers to Gather Requirements for Science Gateways",
-        "description": "Gateways 2019, San Diego, CA, USA, September 2019"
-    },
-    {
-        "title": "Gateway Ambassadors",
-        "description": "SGCI Focus Week, Chicago, IL, USA, September 2019"
-    },
-    {
-        "title": "HUBzero: Novel Concepts Applied to Established Computing Infrastructures to Address Communities’ Needs",
-        "description": "PEARC19, Chicago, IL, USA, July 2019"
-    },
-    {
-        "title": "Building a Community of Research Software Engineers",
-        "description": "PEARC19, Chicago, IL, USA, July 2019"
-    },
-    {
-        "title": "OneSciencePlace: Sustainability Measures for a Science Gateway Framework",
-        "description": "2019 Collegeville Workshop on Sustainable Scientific Software, Collegeville, MN, USA, July 2019"
-    },
-    {
-        "title": "The CI Milieu: Organizations SGCI, URSSI, WSSSPE, UK RSE, US RSE",
-        "description": "Virtual Residency Introductory/Intermediate Workshop, Norman, OK, USA, June 2019"
-    },
-    {
-        "title": "Panel on Effective Communication",
-        "description": "Virtual Residency Introductory/Intermediate Workshop, Norman, OK, USA, June 2019"
-    },
-    {
-        "title": "Sustainability via Science Gateway Teams – Become a Gateway Ambassador",
-        "description": "SGCI Incubator Bootcamp, Indianapolis, IN, USA, May 2019"
-    },
-    {
-        "title": "SGCI and Globus: Partners for Acceleration of Science",
-        "description": "GlobusWorld 2019, Chicago, IL, USA, May 2019"
-    },
-    {
-        "title": "Sustainability issues of the more flexible VREs – are they improving or not?",
-        "description": "RDA 13th Plenary, Philadelphia, USA, April 2019"
-    },
-    {
-        "title": "SGCI and the conceptualization of URSSI: Addressing challenges in software sustainability",
-        "description": "ACS Spring 2019 National Meeting & Exposition, Orlando, FL, USA, April 2019"
-    },
-    {
-        "title": "Sustainability for Research Software",
-        "description": "Spring 2019 Software Preservation Community Forum, March 2019"
-    },
-    {
-        "title": "Sustainability via On-Campus Groups",
-        "description": "Campus Champion Technical Webinar, February 2019"
-    },
-    {
-        "title": "How to Assure Quality of Software Preservation Early in a Project Life Cycle and Ongoing Efforts",
-        "description": "SIAM CSE19, Spokane, WA, USA, February 2019"
-    },
-    {
-        "title": "CI Landscape, Four Facings and Theory-Software Translation",
-        "description": "Theory-Software Translation, New Orleans, LA, USA, February 2019"
-    },
-    {
-        "title": "Smart (City) Application Development: Challenges and Experiences",
-        "description": "HICSS-52, Maui, HI, USA, January 2019"
-    }
+  {
+    "title": "How to Support Gateways via Community Building: Join the Gateway Ambassadors",
+    "description": "SGCI Webinar, December 2019",
+    "links": [
+      {
+        "text": "How to Support Gateways via Community Building: Join the Gateway Ambassadors",
+        "url": "https://sciencegateways.org/-/how-to-support-gateways-via-community-building-join-the-gateway-ambassadors"
+      },
+      {
+        "text": "SGCI Webinar",
+        "url": "https://sciencegateways.org/engage/webinars"
+      }
+    ]
+  },
+  {
+    "title": "Panel Sustainability of HPC Research Computing: Fostering career paths for facilitators, research software engineers, and gateway creators",
+    "description": "SC19, Denver, CO, USA, November 2019",
+    "links": [
+      {
+        "text": "Sustainability of HPC Research Computing: Fostering career paths for facilitators, research software engineers, and gateway creators",
+        "url": "https://www.slideshare.net/SandraGesing/sustainability-of-hpc-research-computing-fostering-career-paths-for-facilitators-research-software-engineers-and-gateway-creators"
+      },
+      {
+        "text": "SC19",
+        "url": "https://sc19.supercomputing.org/presentation/?id=pan109&sess=sess227"
+      }
+    ]
+  },
+  {
+    "title": "SGCI and URSSI: Xpert Network – Exchanging Best Practices in Supporting Computational and Data-Intensive Research",
+    "description": "SC19, Denver, CO, USA, November 2019",
+    "links": [
+      {
+        "text": "SGCI and URSSI: Xpert Network – Exchanging Best Practices in Supporting Computational and Data-Intensive Research",
+        "url": "https://www.slideshare.net/SandraGesing/sgci-and-urssi-xpert-network-exchanging-best-practices-in-supporting-computational-and-dataintensive-research"
+      },
+      {
+        "text": "SC19",
+        "url": "https://sc19.supercomputing.org/presentation/?id=bof110&sess=sess266"
+      }
+    ]
+  },
+  {
+    "title": "VRE-IG: Virtual Research Environments, Science Gateways and Virtual Labs",
+    "description": "RDA 14th Plenary, Helsinki, Finland, October 2019",
+    "links": [
+      {
+        "text": "VRE-IG: Virtual Research Environments, Science Gateways and Virtual Labs",
+        "url": "https://www.rd-alliance.org/virtual-research-environments-working-towards-building-common-reference-model-and-catalogue-design"
+      },
+      {
+        "text": "RDA 14th Plenary",
+        "url": "https://www.rd-alliance.org/rda-14th-plenary-programme"
+      }
+    ]
+  },
+  {
+    "title": "Research Software Sustainability",
+    "description": "UC Santa Barbara, CA, USA, October 2019",
+    "links": [
+      {
+        "text": "Research Software Sustainability",
+        "url": "https://www.hfa.ucsb.edu/events-entries/2019/10/10/talk-research-software-sustainability"
+      }
+    ]
+  },
+  {
+    "title": "Research and Sustainability",
+    "description": "LAOP 2019, Cancun, Mexico, September 2019",
+    "links": [
+      {
+        "text": "Research and Sustainability",
+        "url": "https://opticsphotonicswor.wixsite.com/workshop2019"
+      },
+      {
+        "text": "LAOP 2019",
+        "url": "https://opticsphotonicswor.wixsite.com/workshop2019"
+      }
+    ]
+  },
+  {
+    "title": "Science Gateways: Accelerating Science under Consideration of Usability, Sustainability and Reproducibility",
+    "description": "LAOP 2019, Cancun, Mexico, September 2019",
+    "links": [
+      {
+        "text": "Science Gateways: Accelerating Science under Consideration of Usability, Sustainability and\nReproducibility",
+        "url": "https://opticsphotonicswor.wixsite.com/workshop2019"
+      },
+      {
+        "text": "LAOP 2019",
+        "url": "https://opticsphotonicswor.wixsite.com/workshop2019"
+      }
+    ]
+  },
+  {
+    "title": "Panel Effective Checklists for Developers and Researchers to Gather Requirements for Science Gateways",
+    "description": "Gateways 2019, San Diego, CA, USA, September 2019",
+    "links": [
+      {
+        "text": "Effective Checklists for Developers and Researchers to Gather Requirements for Science Gateways",
+        "url": "https://sciencegateways.org/web/gateways2019/program/schedule"
+      },
+      {
+        "text": "Gateways 2019",
+        "url": "https://sciencegateways.org/web/gateways2019"
+      }
+    ]
+  },
+  {
+    "title": "Gateway Ambassadors",
+    "description": "SGCI Focus Week, Chicago, IL, USA, September 2019",
+    "links": [
+      {
+        "text": "SGCI Focus Week",
+        "url": "https://sciencegateways.org/engage/focus-week"
+      }
+    ]
+  },
+  {
+    "title": "HUBzero: Novel Concepts Applied to Established Computing Infrastructures to Address Communities’ Needs",
+    "description": "PEARC19, Chicago, IL, USA, July 2019",
+    "links": [
+      {
+        "text": "HUBzero: Novel Concepts Applied to Established Computing Infrastructures to Address Communities’ Needs",
+        "url": "https://pearc19.conference-program.com/presentation/?id=pap180&sess=sess168"
+      },
+      {
+        "text": "PEARC19",
+        "url": "https://www.pearc19.pearc.org/"
+      }
+    ]
+  },
+  {
+    "title": "Building a Community of Research Software Engineers",
+    "description": "PEARC19, Chicago, IL, USA, July 2019",
+    "links": [
+      {
+        "text": "Building a Community of Research Software Engineers",
+        "url": "https://docs.google.com/presentation/d/1-lfu_8kO1tQLl1Ln9xxU3h2-KrmP41lbDiHS1t0-Amg/"
+      },
+      {
+        "text": "PEARC19",
+        "url": "https://www.pearc19.pearc.org/"
+      }
+    ]
+  },
+  {
+    "title": "OneSciencePlace: Sustainability Measures for a Science Gateway Framework",
+    "description": "2019 Collegeville Workshop on Sustainable Scientific Software, Collegeville, MN, USA, July 2019",
+    "links": [
+      {
+        "text": "OneSciencePlace: Sustainability Measures for a Science Gateway Framework",
+        "url": "https://collegeville.github.io/CW3S19/WorkshopResources/Presentations/4-4-OneSciencePlaceSandraGesing.pdf"
+      },
+      {
+        "text": "2019 Collegeville Workshop on Sustainable Scientific Software",
+        "url": "https://collegeville.github.io/CW3S19/"
+      }
+    ]
+  },
+  {
+    "title": "The CI Milieu: Organizations SGCI, URSSI, WSSSPE, UK RSE, US RSE",
+    "description": "Virtual Residency Introductory/Intermediate Workshop, Norman, OK, USA, June 2019",
+    "links": [
+      {
+        "text": "Virtual Residency Introductory/Intermediate Workshop",
+        "url": "http://www.oscer.ou.edu/virtualresidency2019.php"
+      }
+    ]
+  },
+  {
+    "title": "Panel on Effective Communication",
+    "description": "Virtual Residency Introductory/Intermediate Workshop, Norman, OK, USA, June 2019",
+    "links": [
+      {
+        "text": "Virtual Residency Introductory/Intermediate Workshop",
+        "url": "http://www.oscer.ou.edu/virtualresidency2019.php"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability via Science Gateway Teams – Become a Gateway Ambassador",
+    "description": "SGCI Incubator Bootcamp, Indianapolis, IN, USA, May 2019",
+    "links": [
+      {
+        "text": "SGCI Incubator Bootcamp",
+        "url": "https://sciencegateways.org/engage/focus-week"
+      }
+    ]
+  },
+  {
+    "title": "SGCI and Globus: Partners for Acceleration of Science",
+    "description": "GlobusWorld 2019, Chicago, IL, USA, May 2019",
+    "links": [
+      {
+        "text": "SGCI and Globus: Partners for Acceleration of Science",
+        "url": "https://www.globusworld.org/conf/program"
+      },
+      {
+        "text": "GlobusWorld 2019",
+        "url": "https://www.globusworld.org/conf/"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability issues of the more flexible VREs – are they improving or not?",
+    "description": "RDA 13th Plenary, Philadelphia, USA, April 2019",
+    "links": [
+      {
+        "text": "Sustainability issues of the more flexible VREs – are they improving or not?",
+        "url": "https://rd-alliance.org/ig-virtual-research-environment-vre-ig-rda-13th-plenary-meeting"
+      },
+      {
+        "text": "RDA 13th Plenary",
+        "url": "https://www.rd-alliance.org/rda-13th-plenary-programme"
+      }
+    ]
+  },
+  {
+    "title": "SGCI and the conceptualization of URSSI: Addressing challenges in software sustainability",
+    "description": "ACS Spring 2019 National Meeting & Exposition, Orlando, FL, USA, April 2019",
+    "links": [
+      {
+        "text": "SGCI and the conceptualization of URSSI: Addressing challenges in software sustainability",
+        "url": "https://plan.core-apps.com/acsorlando2019/event/58640c715f173f381d395f4eb755b51e"
+      },
+      {
+        "text": "ACS Spring 2019 National Meeting & Exposition",
+        "url": "https://plan.core-apps.com/acsorlando2019/customScreen/aboutShowPhoenix"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability for Research Software",
+    "description": "Spring 2019 Software Preservation Community Forum, March 2019",
+    "links": [
+      {
+        "text": "Sustainability for Research Software",
+        "url": "https://osf.io/jekaf/"
+      }
+    ]
+  },
+  {
+    "title": "Sustainability via On-Campus Groups",
+    "description": "Campus Champion Technical Webinar, February 2019",
+    "links": [
+      {
+        "text": "Sustainability via On-Campus Groups",
+        "url": "https://www.youtube.com/watch?v=RfQXrUkV3s8&feature=youtu.be"
+      }
+    ]
+  },
+  {
+    "title": "How to Assure Quality of Software Preservation Early in a Project Life Cycle and Ongoing Efforts",
+    "description": "SIAM CSE19, Spokane, WA, USA, February 2019",
+    "links": [
+      {
+        "text": "How to Assure Quality of Software Preservation Early in a Project Life Cycle and Ongoing Efforts",
+        "url": "https://osf.io/r5dbp/"
+      },
+      {
+        "text": "SIAM CSE19",
+        "url": "http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65900"
+      }
+    ]
+  },
+  {
+    "title": "CI Landscape, Four Facings and Theory-Software Translation",
+    "description": "Theory-Software Translation, New Orleans, LA, USA, February 2019",
+    "links": [
+      {
+        "text": "CI Landscape, Four Facings and Theory-Software Translation",
+        "url": "https://se4science.org/workshops/tst-us/talks/Gesing.pdf"
+      },
+      {
+        "text": "Theory-Software Translation",
+        "url": "https://se4science.org/workshops/tst-us/"
+      }
+    ]
+  },
+  {
+    "title": "Smart (City) Application Development: Challenges and Experiences",
+    "description": "HICSS-52, Maui, HI, USA, January 2019",
+    "links": [
+      {
+        "text": "Smart (City) Application Development: Challenges and Experiences",
+        "url": "http://hicss.hawaii.edu/tracks-52/software-technology/#smart-city-application-development-challenges-and-experiences-minitrack"
+      },
+      {
+        "text": "HICSS-52",
+        "url": "http://hicss.hawaii.edu/"
+      }
+    ]
+  }
 ]
