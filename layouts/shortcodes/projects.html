@@ -25,6 +25,7 @@
 
                         <p>{{ $linkedTitle | safeHTML }}</p>
                     {{ end }}
+                    {{ $project.location }}
                 </td>
             </tr>
             {{ range .rows }}
@@ -32,13 +33,13 @@
                     <td></td>
                     <td>
                         {{ if .url }}
-                            <strong style="color: var(--secondary);"><a href="{{ .url }}">{{ .text }}</a></strong> 
+                             <a href="{{ .url }}">{{ .text }}</a>
                         {{ else }}
                             {{ .text }}
                         {{ end }}
                         {{ if .description }}
                             <br>
-                            {{ .description }}
+                            <span class="description">{{ .description }}</span>
                         {{ end }}
                     </td>
                 </tr>

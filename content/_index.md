@@ -4,7 +4,9 @@ title: "Home"
 
 # Sandra Gesing
 
-!["Sandra"](/images/sandra.png)
+<div class="profile-img">
+    <img alt="Sandra" loading="lazy" src="/images/sandra.png">
+</div>
 
 **Executive Director** in the 
 

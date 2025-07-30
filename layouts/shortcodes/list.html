@@ -8,7 +8,7 @@
         <tr>
             <td>
                 {{ if .url }}
-                    <strong style="color: var(--secondary);"><a href="{{ .url }}">{{ .title }}</a></strong> 
+                    <a href="{{ .url }}">{{ .title }}</a>
                 {{ else }}
                     {{ .title }}
                 {{ end }}
