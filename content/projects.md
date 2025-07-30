@@ -7,4 +7,4 @@ title: "Projects"
 {{< list file="current_projects" >}}
 
 ### Previous projects
-{{< table file="previous_projects" >}}
+{{< projects >}}

@@ -11,3 +11,5 @@ San Diego Supercomputer Center
 La Jolla, CA 92093-0505
 
 Email: [sandra@us-rse.org](mailto:sandra@us-rse.org)
+
+!["Sandra on Tv"](/images/sandraOnTV2-copy.png)

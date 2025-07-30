@@ -11,6 +11,8 @@ Here are sample videos of presentations I gave.
 - [The Continual Road to an Inclusive Definition and Use of Terms for the US Research Software Engineer Community](https://youtu.be/yvNBb78BOK4), SORSE, October 2020
 - [Introduction to Science Gateways](https://www.youtube.com/watch?v=gpoiUM2Efkc), University of Cincinnati, USA, October 2018
 
+![](/images/lectures.png)
+
 ### 2025
 
 {{< lectures file="lectures-2025" >}}

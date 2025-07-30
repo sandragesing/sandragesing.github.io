@@ -1,0 +1,48 @@
+<table>
+    <thead>
+    </thead>
+    <tbody>
+        {{ $data := index .Site.Data.previous_projects }}
+        {{ range $data }}
+            <tr>
+                <td>{{ .year }} </td> 
+                <td>
+                    
+                    {{- $project := . -}}
+                    
+                    {{- $linkMap := dict -}}
+                    {{- range $project.links }}
+                    {{- $linkMap = merge $linkMap (dict .text .url) -}}
+                    {{- end }}
+
+                    {{ range $title := $project.titles }}
+
+                        {{- $linkedTitle := $title -}}
+                        {{- range $k, $v := $linkMap }}
+                        {{- $linked := printf `<a href="%s">%s</a>` $v $k -}}
+                        {{- $linkedTitle = replace $linkedTitle $k $linked 1 -}}  
+                        {{- end }}
+
+                        <p>{{ $linkedTitle | safeHTML }}</p>
+                    {{ end }}
+                </td>
+            </tr>
+            {{ range .rows }}
+                <tr>
+                    <td></td>
+                    <td>
+                        {{ if .url }}
+                            <strong style="color: var(--secondary);"><a href="{{ .url }}">{{ .text }}</a></strong> 
+                        {{ else }}
+                            {{ .text }}
+                        {{ end }}
+                        {{ if .description }}
+                            <br>
+                            {{ .description }}
+                        {{ end }}
+                    </td>
+                </tr>
+            {{ end }}
+        {{ end }}
+    </tbody>
+  </table>
