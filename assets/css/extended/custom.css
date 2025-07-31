@@ -9,6 +9,7 @@
   --hljs-bg: ;            /* code block background */
   --code-bg: rgb(254, 247, 235);            /* inline code bgcolor */
   --border: ;             /* borders */
+  --content-gap: 0.5rem;
 }
 
 .list{
@@ -46,8 +47,8 @@
 
 .profile-img {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 3rem;
+  right: 2rem;
 }
 
 .post-content a {
