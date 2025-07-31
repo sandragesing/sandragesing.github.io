@@ -23,9 +23,8 @@
 }
 
 #menu {
-  overflow-x: hidden;
   max-width: fit-content;
-
+  overflow: visible;
 } 
 
 .banner-image {
@@ -62,3 +61,35 @@
   right: -12rem;
 }
 
+.menu-item {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: #333333;
+  color: lightgrey;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--border);
+  z-index: 100;
+  border-radius: 0.5rem;
+}
+
+.dropdown:hover > .dropdown-content {
+  display: block;
+  
+}
+#menu .dropdown-content li {
+  margin: 0;
+}
+
+.dropdown-content li a {
+  display: block;
+  max-width: min-content;
+  max-height: min-content;
+  margin: auto;
+  padding: 0 1rem;
+}
