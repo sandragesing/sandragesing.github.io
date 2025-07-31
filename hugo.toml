@@ -1,4 +1,4 @@
-baseURL = 'https://localhost:1313/'
+baseURL =  'https://localhost:1313/'
 languageCode = 'en-us'
 title = 'Sandra Gesing'
 theme = "papermod"
@@ -10,6 +10,8 @@ theme = "papermod"
 
 [markup.goldmark.renderer]
     unsafe = true
+
+tags = ["journal", "conference", "white-paper", "book", "edited",  "special", "misc"]
 
 [menu]
 
@@ -30,9 +32,11 @@ theme = "papermod"
 
   [[menu.main]]
     name = "Publications"
+    identifier = "publications"
     pageRef = "/publications/"
     weight = 4
 
+  
   [[menu.main]]
     name = "Lectures and Talks"
     pageRef = "/lectures-and-talks/"
@@ -57,3 +61,45 @@ theme = "papermod"
     name = "Contact"
     pageRef = "/contact/"
     weight = 9
+
+  [[menu.main]]
+    name = "Journal"
+    pageRef = "/publications/journals"
+    parent = "publications"
+    weight = 10
+
+  [[menu.main]]
+    name = "Conference"
+    pageRef = "/publications/peer-reviewed-conferences"
+    parent = "publications"
+    weight = 20
+
+  [[menu.main]]
+    name = "White Paper"
+    pageRef = "/publications/white-papers"
+    parent = "publications"
+    weight = 30
+
+  [[menu.main]]
+    name = "Book"
+    pageRef = "/publications/book-chapters"
+    parent = "publications"
+    weight = 40
+
+  [[menu.main]]
+    name = "Edited"
+    pageRef = "/publications/edited-proceedings"
+    parent = "publications"
+    weight = 50
+
+  [[menu.main]]
+    name = "Special"
+    pageRef = "/publications/special-issues"
+    parent = "publications"
+    weight = 60
+
+  [[menu.main]]
+    name = "Misc"
+    pageRef = "/publications/misc"
+    parent = "publications"
+    weight = 70
