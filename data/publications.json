@@ -27,7 +27,7 @@
                 "link": "Science Gateways, QuakeWorx, and MyGeoHub: Collaborative Platforms for Seismic and Geospatial Discovery",
                 "title": "AGU24, Washington, DC, US, December 2024",
                 "url": "https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1656668", 
-				"tags": []
+				"tags": ["misc"]
             },
             {
                 "authors": "G.S. Fahara-Ojeda, B.M. Villegas-Martinez, J.J. Sanchez-Mondragon, S. Gesing, T. Battelle, A.F. Neto, I.A. Bocanegra-Garay, J. Licea-Rodriguez, R.A. Beltran-Vargas and J.J. Escobedo-Alatorre (2024)",
@@ -248,7 +248,7 @@
                 "link": "A Science Gateway for Wastewater-based Epidemiology - a Case Study of the World's Largest Wastewater Treatment Plant in Chicago",
                 "title": "Poster at Gateways 2022, October 2022",
                 "url": "https://zenodo.org/record/7191685#.Y18GxuzMLPY", 
-				"tags": []
+				"tags": ["misc"]
             },
             {
                 "authors": "Gesing, S. (2022)",
@@ -393,14 +393,14 @@
                 "link": "Minisymposterium: Establishing Online Science Communities - Three Science Gateway Examples",
                 "title": "SIAM CSE21, March 2021",
                 "url": "https://meetings.siam.org/sess/dsp_talk.cfm?p=110143", 
-				"tags": []
+				"tags": ["misc"]
             },
             {
                 "authors": "Parsons, L., Cosden, I., Carver, J., Ferenbaugh, C., Gesing, S., Hill, C., Katz, D.S., Maimone, C., Perr-Sauer, J. (2021)",
                 "link": "Minisymposterium: Sustainable Software through Stronger Community",
                 "title": "SIAM CSE21, March 2021",
                 "url": "https://meetings.siam.org/sess/dsp_talk.cfm?p=109994", 
-				"tags": []
+				"tags": ["misc"]
             },
             {
                 "authors": "Tettegah, S., Gesing, S., Ferreira da Silva, R., Jiang, Y., Craig, A.B. (2021)",
@@ -503,7 +503,7 @@
                 "link": "SGCI Incubator and Its Role in Workforce Development: Lessons Learned from Training, Consultancy, and Building a Community of Community-Builders for Science Gateways",
                 "title": "In Proceedings of the Practice and Experience in Advanced Research Computing 2020 (PEARC'20), Portland, Oregon USA, July 2020, pp. 491-494, doi: https://doi.org/10.1145/3311790.3400850",
                 "url": "https://dl.acm.org/doi/abs/10.1145/3311790.3400850", 
-				"tags": ["conference"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Gesing, S.",
@@ -517,7 +517,7 @@
                 "link": "HUBzero© Goes OneSciencePlace: The Next Community-Driven Steps for Providing Software-as-a-Service",
                 "title": "2019 15th International Conference on eScience (eScience), San Diego, CA, USA, 2019, pp. 642-643, doi: 10.1109/eScience.2019.00097.",
                 "url": "https://ieeexplore.ieee.org/document/9041778", 
-				"tags": ["conference"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Brower, D., Gesing, S., Johnson, R., Meyers, N., Meyerson, J. and Narlock, M. (2020)",
@@ -826,7 +826,7 @@
                 "link": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
                 "title": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
                 "url": "http://iwsg2017.psnc.pl/wp-content/uploads/2017/06/IWSG2017_paper_17.pdf", 
-				"tags": []
+				"tags": ["misc"]
             },
             {
                 "authors": "Löffler F., Katz D.S., Wilson L.A., Gesing S., McDougall D., Carver J., Brandt S.R. (2017)",
@@ -889,7 +889,7 @@
                 "link": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
                 "title": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2017/03/Abstract-Book-2nd-Personalized-Medicine-17-20-Mar-2017-pages55-57.pdf", 
-				"tags": ["conference"]
+				"tags": ["conference", "white-paper"]
             },
             {
                 "authors": "Gesing S. and Sakellariou R. (2017)",
@@ -1179,7 +1179,7 @@
                 "link": "Quantum Chemical Workflows in the MoSGrid Science Gateway",
                 "title": "10th European Conference on Computational Chemistry, Fulda, Germany",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2015/09/MoSGrid-PosterWorkflow.pdf", 
-				"tags": []
+				"tags": ["white-paper"]
             }
         ]
     },
@@ -1282,14 +1282,14 @@
                 "link": "Expanding Tasks of Logical Workflows into Independent Workflows for Improved Scalability",
                 "title": "Cluster, Cloud and Grid Computing (CCGrid), 2014 14th IEEE/ACM International Symposium on, pp. 548-549, doi: 10.1109/CCGrid.2014.84",
                 "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6846496", 
-				"tags": ["conference"]
+				"tags": ["conference", "white-paper"]
             },
             {
                 "authors": "Grunzke, R., Jäkel, R., Nagel, W.E. and Gesing, S.(2014)",
                 "link": "Towards Generic Metadata Management in Distributed Science Gateway Infrastructures",
                 "title": "Cluster, Cloud and Grid Computing (CCGrid), 2014 14th IEEE/ACM International Symposium on, pp. 566-570, doi: 10.1109/CCGrid.2014.98",
                 "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6846502", 
-				"tags": ["conference"]
+				"tags": ["conference", "white-paper"]
             },
             {
                 "authors": "Grunzke, R., Gesing, S., de la Garza, L., Hoffmann, A., Herres-Pawlis, S., and Krüger, J. (2014)",
@@ -1378,7 +1378,7 @@
                 "link": "Web-based Science Gateways for Structural Bioinformatics",
                 "title": "PhD thesis, University of Tübingen",
                 "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=6782", 
-				"tags": []
+				"tags": ["misc"]
             }
         ]
     },
@@ -1579,7 +1579,7 @@
                 "link": "Generic Portlets for Bioinformatics in a Grid Infrastructure.",
                 "title": "ISMB 2007, Vienna, Austria",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2011/03/portletsA4.pdf", 
-				"tags": []
+				"tags": ["misc"]
             }
         ]
     },
@@ -1591,7 +1591,7 @@
                 "link": "A Workflow enabled Portal for Bioinformatics in a Grid infrastructure.",
                 "title": "GCB 2006, Tübingen, Germany",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2011/03/GRID_20060915.pdf", 
-				"tags": []
+				"tags": ["misc"]
             }
         ]
     },
@@ -1603,7 +1603,7 @@
                 "link": "Approximation von Punktmengen durch Kreise",
                 "title": "Diploma thesis, FernUniversität Hagen",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2011/02/diplomarbeit.pdf", 
-				"tags": []
+				"tags": ["misc"]
             }
         ]
     }
