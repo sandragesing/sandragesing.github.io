@@ -5,10 +5,13 @@
     </thead>
     <tbody>
             <tr>
-                <td>
-                    {{ $header := printf "### %v" .year }}
-                    {{ $header| markdownify }} 
-                </td> 
+                {{ $tag := index $.Page.Params.tags 0 }}
+                {{ if or (eq $tag "all") (eq $tag "journal") (eq $tag "conference") }}
+                    <td>
+                        {{ $header := printf "### %v" .year }}
+                        {{ $header| markdownify }} 
+                    </td> 
+                {{end}}
             </tr>
             {{ range .publications }}
                 {{ $tag := index $.Page.Params.tags 0 }}
