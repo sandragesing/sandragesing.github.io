@@ -11,16 +11,19 @@
                 </td> 
             </tr>
             {{ range .publications }}
-                <tr>
-                    <td></td>
-                    <td>
-                        {{ .authors }}
-                        <br>
-                        <a href = "{{ .url}}"> {{ .link }} </a>
-                        <br>
-                        {{ .title}}
-                    </td>
-                </tr>
+                {{ $tag := index $.Page.Params.tags 0 }}
+                {{ if or (eq $tag "all") (in .tags $tag) }}
+                    <tr>
+                        <td></td>
+                        <td>
+                            {{ .authors }}
+                            <br>
+                            <a href = "{{ .url}}"> {{ .link }} </a>
+                            <br>
+                            {{ .title}}
+                        </td>
+                    </tr>
+                {{ end}}
             {{ end }}
         {{ end }}
     </tbody>
