@@ -12,6 +12,23 @@
   --content-gap: 0.5rem;
 }
 
+ul {
+	font-family: "Georgia", "serif";
+	font-size: 0.9rem 
+}
+
+table {
+	font-family: "Georgia", "serif";
+	font-size: 0.9rem 
+}
+
+p {
+	font-family: "Georgia", "serif";
+	font-size: 0.9rem
+}
+.main{
+}
+
 .list{
   background: var(--theme)
 }
@@ -23,6 +40,7 @@
 }
 
 #menu {
+	font-family: "sans-serif";
   max-width: fit-content;
   overflow: visible;
 } 
