@@ -4,11 +4,11 @@
         "year": "2023 - present",
         "links": [
             {
-                "text": "Executive Director in the US Research Software Engineers Association (US-RSE)",
+                "text": "US Research Software Engineers Association (US-RSE)",
                 "url": "https://us-rse.org/"
             },
             {
-                "text": "Senior Researcher at the San Diego Supercomputer Center",
+                "text": "San Diego Supercomputer Center",
                 "url": "https://www.sdsc.edu/"
             }
         ] 
@@ -19,7 +19,7 @@
         "year": "2021 - 2023",
         "links": [
             {
-                "text": "Scientific Outreach and DEI Lead at the Discovery Partners Institute (DPI)",
+                "text": "Discovery Partners Institute (DPI)",
                 "url": "https://dpi.uillinois.edu/"
             }
         ],
@@ -77,11 +77,11 @@
         "year": "2019 - 2021",
         "links": [
             {
-                "text": "Associate Research Professor in the Department of Computer Science and Engineering",
+                "text": "Department of Computer Science and Engineering",
                 "url": "https://cse.nd.edu/"
             },
             {
-                "text": "Computational Scientist at the Center for Research Computing",
+                "text": "Center for Research Computing",
                 "url": "https://crc.nd.edu/"
             }
         ],
@@ -114,11 +114,11 @@
         "year": "2014 - 2019",
         "links": [
             {
-                "text": "Research Assistant Professor in the Department of Computer Science and Engineering",
+                "text": "Department of Computer Science and Engineering",
                 "url": "https://cse.nd.edu/"
             },
             {
-                "text": "Computational Scientist at the Center for Research Computing",
+                "text": "Center for Research Computing",
                 "url": "https://crc.nd.edu/"
             }
         ],
@@ -126,7 +126,7 @@
             {
                 "text": "http://chipset-cost.eu/",
                 "description": "April 2015-April 2019",
-                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1954006"
+                "url": "http://chipset-cost.eu/"
             },
             {
                 "text": "Planning a Research Data & Software Preservation Quality Tool",
@@ -154,7 +154,7 @@
         "year": "2013 - 2014",
         "links": [
             {
-                "text": "Research Programmer at the Center for Research Computing",
+                "text": "Center for Research Computing",
                 "url": "https://crc.nd.edu/"
             }
         ],
@@ -175,7 +175,7 @@
         "year": "2013",
         "links": [
             {
-                "text": "Research Associate in the Edinburgh Data-Intensive Group",
+                "text": "Edinburgh Data-Intensive Group",
                 "url": "http://research.nesc.ac.uk/"
             }
         ],
@@ -211,7 +211,7 @@
         "year": "2006 - 2011",
         "links": [
             {
-                "text": "Research Associate in the Applied Bioinformatics Group",
+                "text": "Applied Bioinformatics Group",
                 "url": "http://www-abi.informatik.uni-tuebingen.de/"
             },
             {
@@ -236,7 +236,7 @@
         "year": "2004 - 2006",
         "links": [
             {
-                "text": "Head of the group \"Application systems\" at LVM Versicherungen",
+                "text": "LVM Versicherungen",
                 "url": "http://www.lvm.de/"
             }
         ],
@@ -256,7 +256,7 @@
     {
         "titles":["System programmer at LVM Versicherungen"],
         "location": "Münster, Germany",
-        "year": "2001 - 2004",
+        "year": "2000 - 2004",
         "links": [
             {
                 "text": "System programmer at LVM Versicherungen",
@@ -278,7 +278,7 @@
         "year": "2001",
         "links": [
             {
-                "text": "Administrator and programmer at Intergest North America",
+                "text": "Intergest North America",
                 "url": "http://www.intergest.com/en/home/"
             }
         ],
@@ -294,10 +294,10 @@
     {
         "titles":["Application programmer at LVM Versicherungen"],
         "location": "Münster, Germany",
-        "year": "2000 - 2001",
+        "year": "1996-2000",
         "links": [
             {
-                "text": "Application programmer at LVM Versicherungen",
+                "text": "LVM Versicherungen",
                 "url": "http://www.lvm.de/"
             }
         ],
@@ -316,7 +316,7 @@
         "year": "1994 - 1996",
         "urls": [
             {
-                "text": "Administrator and programmer at PARADOR",
+                "text": "PARADOR",
                 "url": "http://en.parador.eu/"
             }
         ],

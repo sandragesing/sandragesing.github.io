@@ -76,12 +76,12 @@
                 "link": "SGX3: Advancing Collaborative Research via Science Gateways and the NSF Center of Excellence for Science Gateways",
                 "title": "Science in Team Science 2024 (SciTS), virtual conference, July 2024",
                 "url": "https://julnet.swoogo.com/scits24/poster-abstracts", 
-				"tags": ["conference"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Jeanette Sperhac, Sandra Gesing, Michael Zentner, Claire Stirm, Rob Quick and Joe Stubbs (2024)",
                 "link": "AI and Science Gateways: A Promising Combination for Accelerating Science and Research Computing",
-                "title": "Practice and Experience in Advanced Research Computing 2024 (PEARC'24), Providence, RI, USA, July 2024",
+                "title": "Practice and Experience in Advanced Research Computing 2024 (PEARC'24), Providence, RI, USA, July 2024\nDOI: https://doi.org/10.1145/3626203.3670562",
                 "url": "https://dl.acm.org/doi/fullHtml/10.1145/3626203.3670562", 
 				"tags": ["conference"]
             },
@@ -93,9 +93,9 @@
 				"tags": ["conference"]
             },
             {
-                "authors": "Kherroubi Garcia, I., Erdmann, C., Gesing, S., Cadwallader, L., Hengeveld, G., Kirpatrick, C., Knight, K., Lemmen, C., Ringuette, R., Zhan, Q., Harrison, M., Mac Gabhann, F., Meyers, N., Osborne, C., Till, C., Brenner, P., Buys, M., Chen, M., Lee, A., Papin, J., Rao, Y. (2024). Ten Simple Rules to Promote Good Model-Sharing Practices. Open Modeling Foundation. https://doi.org/10.5281/zenodo.12665701 [preprint]",
-                "link": "Ten Simple Rules to Promote Good Model-Sharing Practices",
-                "title": "PLOS Computational Biology 21(1): e1012702. https://doi.org/10.1371/journal.pcbi.1012702",
+                "authors": "Kherroubi Garcia, I., Erdmann, C., Gesing, S., Cadwallader, L., Hengeveld, G., Kirpatrick, C., Knight, K., Lemmen, C., Ringuette, R., Zhan, Q., Harrison, M., Mac Gabhann, F., Meyers, N., Osborne, C., Till, C., Brenner, P., Buys, M., Chen, M., Lee, A., Papin, J., Rao, Y. (2024).",
+                "link": "Ten Simple Rules to Promote Good Model-Sharing Practices. Open Modeling Foundation.",
+                "title": "https://doi.org/10.5281/zenodo.12665701 [preprint]",
                 "url": "https://zenodo.org/records/12665701", 
 				"tags": ["white-paper"]
             }
@@ -107,7 +107,7 @@
             {
                 "authors": "Sandra Gesing, Claire Stirm, Michael Zentner, Maytal Dahan and Linda Hayden (2023)",
                 "link": "Science Gateways and AI/ML: How Can Gateway Concepts and Solutions Meet the Needs in Data Science?",
-                "title": "Critical Infrastructure - Modern Approach and New Developments, InTechOpen, DOI: 10.5772/intechopen.110144",
+                "title": "Gateways 2023, Pittsburgh, PA, US, October 2023",
                 "url": "https://zenodo.org/records/10034892", 
 				"tags": ["conference"]
             },
@@ -161,7 +161,7 @@
                 "tags": ["journal"]
             },
             {
-                "authors": "Van Tuyl, S., Beck, D., Cosden, I., Joyce, B., Liu, J., Maimone, C., McHenry, K., Parker, M., Agate, N., Alonzi, P., Burgess, A., Cleveland, S., Culich, A., Daniels, M., Davis, A., Davis, S., Gesing, S., Greer, L., Holdgraf, C., Katz, D. S., Levy, R., Markelz, R. J. C., Merchant, N., Michael, S., Mills, B., Oliver, T., Orso, A., Pomann, G.-M., Rasool, R., Ratamero, E., Riemer, K., Spreadbury, T., Stone, S., Sweeney, J., Tomko, K., Tomlinson, W. J., Uminsky, D., Vareth, M., Vásquez, V. N., Vu, E. W. L. Y. , Wilson , B. E. , Young , J. (2023)",
+                "authors": "Van Tuyl, Steve; Beck, David; Cosden, Ian; Joyce, Blake; Liu, Jing; Maimone, Christina; McHenry, Kenton; Parker, Micaela; Agate, Nicky; Alonzi, Peter; Burgess, Arlyn; Cleveland, Sean; Culich, Aaron; Daniels, Mike; Davis, Alex; Davis, Sarah; Gesing, Sandra; Greer, Launa; Holdgraf, Chris; Katz, Daniel S.; Levy, Rachel; Markelz, R.J. Cody; Merchant, Nirav; Michael, Scott; Mills, Bill; Oliver, Tiffany; Orso, Alessandro; Pomann, Gina-Maria; Rasool, Rahim; Ratamero, Erick; Riemer, Kristina; Spreadbury, Trevor; Stone, Sarah; Sweeney, Jess; Tomko, Karen; Tomlinson, William J.; Uminsky, David; Vareth, Maryam; Vásquez, Váleri N.; Vu, Elizabeth; Wilson, Bruce E.; Young, Jeffrey (2023)",
                 "link": "Hiring, Managing and Retaining Data Scientists and Research Software Engineers in Academia: A Career Guidebook from ADSA and the US-RSE",
                 "title": "Zenodo",
                 "url": "", 
@@ -202,9 +202,9 @@
         "year": 2022,
         "publications": [
             {
-                "authors": "Tiwari, A., Leisman, K., Shrestha, A., Poretsky, R., Owens, S., Dorevitch, S., Grippo, M., Packman, A.I., Gesing, S., Catlett, C. (2022)",
-                "link": "A Science Gateway for Wastewater-based Epidemiology - a Case Study of the World's Largest Wastewater Treatment Plant in Chicago",
-                "title": "Poster at Gateways 2022, October 2022",
+                "authors": "Tiwari, A., Prathiba A.P, Gesing, S., and Catlett, C. (2022)",
+                "link": "Investigating Persistence Surface Urban Heat Island (PSUHI) with respect to the Local Climate Zones (LCZs) in Chicago, USA",
+                "title": "AGU Fall Meeting 2022, December 2022",
                 "url": "https://agu.confex.com/agu/fm22/webprogrampreliminary/Paper1125568.html", 
 				"tags": ["conference"]
             },
@@ -258,9 +258,9 @@
 				"tags": ["conference"]
             },
             {
-                "authors": "Hong, Neil P. Chue., Katz, D.S., Barker, M., Lamprecht, A.-L., Martinez, C., Psomopoulos, F.E., Harrow, J., Castro, L.J., Gruenpeter, M., Martinez, P.A., Honeyman, T., Struck, A., Lee, A., Loewe, A., Werkhoven, B.van, Garijo, D., Plomp, E., Genova, F., Shanahan, H., Hellström, M., Sandström, M., Sinha, M., Kuzak, M., Herterich, P., Islam, S., Sansone, S.-A., Pollard, T., Atmojo, U.D., Williams, A., Czerniak, A., Niehues, A., Fouilloux, A.C., Desinghu, B., Goble, C., Richard, C., Gray, C.H. Erdmann C. and Gesing S. (2022)",
-                "link": "FAIR Principles for Research Software (FAIR4RS Principles). Manchester output report.",
-                "title": "https://doi.org/10.5281/zenodo.7268850",
+                "authors": "Hong, Neil P. Chue ; Katz, Daniel S. ; Barker, Michelle ; Lamprecht, Anna-Lena ; Martinez, Carlos ; Psomopoulos, Fotis E. ; Harrow, Jen ; Castro, Leyla Jael ; Gruenpeter, Morane ; Martinez, Paula Andrea ; Honeyman, Tom ; Struck, Alexander ; Lee, Allen ; Loewe, Axel ; Werkhoven, Ben van ; Garijo, Daniel ; Plomp, Esther ; Genova, Francoise ; Shanahan, Hugh ; Hellström, Maggie ; Sandström, Malin ; Sinha, Manodeep ; Kuzak, Mateusz ; Herterich, Patricia ; Islam, Sharif ; Sansone, Susanna-Assunta ; Pollard, Tom ; Atmojo, Udayanto Dwi ; Williams, Alan ; Czerniak, Andreas ; Niehues, Anna ; Fouilloux, Anne Claire ; Desinghu, Bala ; Goble, Carole ; Richard, Céline ; Gray, Charles ; Erdmann, Chris ; Nüst, Daniel ; Tartarini, Daniele ; Ranguelova, Elena ; Anzt, Hartwig ; Todorov, Ilian ; McNally, James ; Burnett, Jessica ; Garrido-Sánchez, Julián ; Belhajjame, Khalid ; Sesink, Laurents ; Hwang, Lorraine ; Tovani-Palone, Marcos Roberto ; Wilkinson, Mark D. ; Servillat, Mathieu ; Liffers, Matthias ; Fox, Merc ; Miljković, Nadica ; Lynch, Nick ; Lavanchy, Paula Martinez ; Gesing, Sandra; Stevens, Sarah ; Cuesta, Sergio Martinez ; Peroni, Silvio ; Soiland-Reyes, Stian ; Bakker, Tom ; Rabemanantsoa, Tovo ; Sochat, Vanessa ; Yehudi, Yo ; WG, FAIR4RS. (2022)",
+                "link": "FAIR Principles for Research Software (FAIR4RS Principles). ",
+                "title": "Manchester output report.",
                 "url": "https://www.research.manchester.ac.uk/portal/en/publications/fair-principles-for-research-software-fair4rs-principles(751dfce3-56e5-441f-8e3f-8c1401e0a1e0).html", 
 				"tags": ["white-paper"]
             },
@@ -293,7 +293,7 @@
             {
                 "authors": "Casanova, H., Deelman, E., Gesing, S., Hildreth, M., Hudson, S., Koch, W., Larson, J., McDowell, M. A., Meyers, N., Navarro, J.-L., Papadimitriou, G., Tanaka, R., Taylor, I., Thain, D., Wild, S. M., Filgueira, R., & Ferreira da Silva, R. (2021).",
                 "link": "Emerging Frameworks for Advancing Scientific Workflows Research, Development, and Education",
-                "title": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS), 74–80.",
+                "title": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS), 74–80.\nhttps://doi.org/10.1109/WORKS54523.2021.00015",
                 "url": "https://doi.org/10.1109/WORKS54523.2021.00015", 
 				"tags": ["conference"]
             },
@@ -314,7 +314,7 @@
             {
                 "authors": "Stirm, C., Gesing, S., Zentner, M., Klimeck, G., Zentner, L. and Dearborn, C. (2021)",
                 "link": "HUBzero’s Variations of Sustainability: From Simulation/Modeling Tools to Communities",
-                "title": "IWSG 2019 (11th International Workshop on Science Gateways), 12-14 June 2019, Ljubljana, Slovenia",
+                "title": "IWSG 2019 (11th International Workshop on Science Gateways), 12-14 June 2019, Ljubljana, Slovenia\nCEUR Workshop Proceedings, online http://ceur-ws.org/Vol-2975/paper6.pdf",
                 "url": "http://ceur-ws.org/Vol-2975/paper6.pdf", 
 				"tags": ["conference"]
             },
@@ -333,7 +333,7 @@
 				"tags": ["white-paper"]
             },
             {
-                "authors": "Ferreira da Silva, R. , Casanova, H., Chard, K., Coleman, T., Laney, D., Ahn, D. H., Jha, S., Howell, D., Soiland-Reyes, S., Altintas, I., Thain, D., Filgueira, R., Babuji,Y. N., Badia, R. M., Balis, B., Caíno-Lores, S., Callaghan, S., Coppens, F., Crusoe,M. R., De, K., Natale, F. D., Do, T. M. A., Enders, B., Fahringer, T., Fouilloux, A.,Fursin, G., Gaignard, A., Ganose, A., Garijo, D., Gesing, S., Goble, C. A., Hasan,A., Huber, S., Katz, D. S., Leser, U., Lowe, D., Ludäscher, B., Maheshwari, K.",
+                "authors": "Ferreira da Silva, R. , Casanova, H., Chard, K., Coleman, T., Laney, D., Ahn, D. H., Jha, S., Howell, D., Soiland-Reyes, S., Altintas, I., Thain, D., Filgueira, R., Babuji,Y. N., Badia, R. M., Balis, B., Caíno-Lores, S., Callaghan, S., Coppens, F., Crusoe,M. R., De, K., Natale, F. D., Do, T. M. A., Enders, B., Fahringer, T., Fouilloux, A.,Fursin, G., Gaignard, A., Ganose, A., Garijo, D., Gesing, S., Goble, C. A., Hasan,A., Huber, S., Katz, D. S., Leser, U., Lowe, D., Ludäscher, B., Maheshwari, K.,Malawski, M., Mayani, R., Mehta, K., Merzky, A., Munson, T. S., Ozik, J., Pottier,L., Ristov, S., Roozmeh, M., Souza, R., Suter, F., Tovar, B., Turilli, M., Vahi, K.,Vidal-Torreira, A., Whitcup, W. R., Wilde, M., Williams, A., Wolf, M. and Wozniak,J. M. (2021)",
                 "link": "Workflows community summit: Advancing the state-of-the-art ofscientific workflows management systems research and development",
                 "title": "CoRRabs/2106.05177. URL:https://arxiv.org/abs/2106.05177",
                 "url": "https://arxiv.org/abs/2106.05177", 
@@ -356,21 +356,21 @@
             {
                 "authors": "Gesing, S., Meyers, N., Johnson, R. and Wang, J. (2021)",
                 "link": "PresQT Services - A Path Forward for Connecting Platforms While Increasing Quality and FAIRness of Data and Software",
-                "title": "Services to Improve Re-use and FAIRness of Research Data and Software. Collaborations Workshop 21, March 30 - April 1, 2021",
+                "title": "US-RSE Virtual Workshop 2021",
                 "url": "https://us-rse.org/virtual-workshop-2021/abstracts/#presqt-services---a-path-forward-for-connecting-platforms-while-increasing-quality-and-fairness-of-data-and-software", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Gesing, S., Stirm, C., Zentner, M. (2021)",
-                "link": "The US-RSE Association: Accelerating Changes in the Scientific-Computing Community to Improve Practices for Software Development and Use",
-                "title": "Workshop on the Science of Scientific-Software Development and Use, December 2021",
+                "link": "HUBzero - Achieving Software Sustainability for a Science Gateway Framework",
+                "title": "Collaborations Workshop 21, March 30 - April 1, 2021",
                 "url": "https://software.ac.uk/cw21/agenda", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Gesing, S., Meyers, N., Johnson, R. and Wang, J. (2021)",
                 "link": "PresQT – Services to Improve Re-use and FAIRness of Research Data and Software",
-                "title": "Services to Improve Re-use and FAIRness of Research Data and Software. Collaborations Workshop 21, March 30 - April 1, 2021",
+                "title": "Collaborations Workshop 21, March 30 - April 1, 2021",
                 "url": "https://software.ac.uk/cw21/mini-workshops-and-demo-sessions", 
 				"tags": ["conference"]
             },
@@ -384,7 +384,7 @@
             {
                 "authors":"Katz, D., Carver, J., Chue Hong, N., Gesing, S., Hettrick, S., Honeyman, T., Ram, K., Weber, N. (2021)",
                 "link": "Addressing Research Software Sustainability via Institutes",
-                "title": "http://chipset-cost.eu/",
+                "title": "ICSE 2021 BokSS Workshop, June 2021, arXiv:2103.03690 [cs.SE]",
                 "url": "https://arxiv.org/abs/2103.03690", 
 				"tags": ["conference"]
             },
@@ -422,7 +422,15 @@
                 "title": "Future Generation Computer Systems, volume 118, 2021, Pages 73-74",
                 "url": "https://doi.org/10.1016/j.future.2021.01.005", 
 				"tags": ["special"]
+            },
+	{
+                "authors": "Ferreira da Silva, R. Gesing, S., Sakellariou, R., Taylor, I.  (2021)",
+                "link": "Special issue on workflows in support of large-scale science",
+                "title": "Future Generation Computer Systems, Volume 118, 2021, Pages 73-74, ISSN 0167-739X, https://doi.org/10.1016/j.future.2021.01.005",
+                "url": "https://doi.org/10.1016/j.future.2021.01.005", 
+				"tags": ["special"]
             }
+
         ]    
     },
     {
@@ -764,7 +772,7 @@
                 "authors": "Gesing, S. (2018)",
                 "link": "Science Gateways in HPC: Usability Meets Efficiency and Effectiveness",
                 "title": "In: Modeling and Simulation in HPC and Cloud Systems, Book Series \"Studies in Big Data\"",
-                "url": "https://www.springerprofessional.de/en/science-gateways-in-hpc-usability-meets-efficiency-and-effective/15428152", 
+                "url": "https://www.springerprofessional.de/en/science-gateways-in-hpc-usability-meets-efficiency-and-effective/15428152\nPrint ISBN: 978-3-319-73766-9, Electronic ISBN: 978-3-319-73767-6, Springer International Publishing", 
 				"tags": ["book"]
             }
         ]
@@ -775,121 +783,121 @@
             {
                 "authors": "Gesing S., Dooley R., Pierce M., Krüger J., Grunzke R., Herres-Pawlis S. and Hoffmann A. (2017)",
                 "link": "Gathering Requirements for Advancing Simulations in HPC Infrastructures via Science Gateways",
-                "title": "Gathering Requirements for Advancing Simulations in HPC Infrastructures via Science Gateways",
+                "title": "Future Generation Computer Systems, https://doi.org/10.1016/j.future.2017.02.042",
                 "url": "https://www.sciencedirect.com/science/article/pii/S0167739X17303011", 
 				"tags": ["journal"]
             },
             {
                 "authors": "Gesing S., Zentner M., Casavan J., Hillery B., Vorvoreanu M., Heiland R., Marru S., Pierce M., Mullinix N., Maron N. (2017)",
                 "link": "Science Gateways Incubator: Software Sustainability Meets Community Needs",
-                "title": "Science Gateways Incubator: Software Sustainability Meets Community Needs",
+                "title": "2017 IEEE 13th International Conference on e-Science (e-Science), Auckland, 2017, pp. 477-485.",
                 "url": "http://ieeexplore.ieee.org/document/8109182/", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Olabarriaga S., Gesing S., Stirm C., Shawn R., and Zentner M. (2017)",
                 "link": "HUBzero Platform as Brick for Open Science Construction",
-                "title": "HUBzero Platform as Brick for Open Science Construction",
+                "title": "Digital Infrastructures for Research 2017, 30 November - 1 December 2017, Brussels, Belgium",
                 "url": "https://indico.egi.eu/indico/event/3455/session/7/contribution/137", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Montagnat J., Taylor I., Gesing S. and Sakellariou R. (2017)",
                 "link": "Proceedings of the 12th Workshop on Workflows in Support of Large-Scale Science",
-                "title": "Proceedings of the 12th Workshop on Workflows in Support of Large-Scale Science",
+                "title": "ACM, SC17, Denver, Colorado, 2017, ISBN 978-1-4503-5129-4",
                 "url": "https://dl.acm.org/citation.cfm?id=3150994", 
 				"tags": ["edited"]
             },
             {
                 "authors": "Gesing S., Lawrence K., Wilkins-Diehr N., Dahan M., Zentner M., Pierce M. (2017)",
                 "link": "Science Gateways: Sustainability via On-Campus Teams",
-                "title": "Science Gateways: Sustainability via On-Campus Teams",
+                "title": "Gateways 2017, 23-25 October, Ann Arbor, USA, https://doi.org/10.6084/m9.figshare.5483566.v1",
                 "url": "https://figshare.com/articles/Science_Gateways_Sustainability_via_On-Campus_Teams/5483566", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Gesing S., Zentner M., Casavan J., Heiland R., Hillery B., Marru S., Pierce M., Maron N., Mullinix N., Vorvoreanu M. (2017)",
                 "link": "Science Gateways Bootcamp: Strategies for Developing, Operating and Sustaining Science Gateways",
-                "title": "Science Gateways Bootcamp: Strategies for Developing, Operating and Sustaining Science Gateways",
+                "title": "IWSG-A 2017 (International Workshop on Science Gateways - Australia), 16-17 October 2017, Brisbane, Australia",
                 "url": "https://az659834.vo.msecnd.net/eventsairseasiaprod/production-cdesign-public/a741eef5d8054aeeb4f6f52fe2e7051a", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Saxena A., Joshi R., Darbari H., Zentner M., Wojkivich K., Bhat A., Srivastava A., Buetow K., Mazurek C., and Gesing S. (2017)",
                 "link": "ICTBioMed NCIP Science Gateway: A Hub for Collaborative Cancer Research",
-                "title": "ICTBioMed NCIP Science Gateway: A Hub for Collaborative Cancer Research",
+                "title": "Poster at Gateways 2017, 23-25 October, Ann Arbor, USA, https://doi.org/10.6084/m9.figshare.5483389.v2",
                 "url": "https://figshare.com/articles/IctBioMedposter-v3_pdf/5483389", 
-				"tags": ["conference"]
+				"tags": ["misc"]
             },
             {
                 "authors": "Saxena A., Joshi R., Darbari H., Mazurek C., Bhat A., Srivastava A., Wojkovich K., Buetow K. and Gesing S. (2017)",
                 "link": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
-                "title": "The ICTBioMed NCIP Hub: Cancer Research in a Science Gateway on World-Wide Scale",
+                "title": "IWSG 2017 (9th International Workshop on Science Gateways), 19-21 June 2017, Poznan, Poland",
                 "url": "http://iwsg2017.psnc.pl/wp-content/uploads/2017/06/IWSG2017_paper_17.pdf", 
-				"tags": ["misc"]
+				"tags": ["conference"]
             },
             {
                 "authors": "Löffler F., Katz D.S., Wilson L.A., Gesing S., McDougall D., Carver J., Brandt S.R. (2017)",
                 "link": "Research Software Training Initiative: Identifying and addressing challenges in scientific software development",
-                "title": "Research Software Training Initiative: Identifying and addressing challenges in scientific software development",
+                "title": "Future Needs for Advanced Cyberinfrastructure to Support Science and Engineering Research (NSF CI 2030)",
                 "url": "https://www.nsf.gov/cise/oac/ci2030/pdf/RFI-Loeffler-250.pdf", 
 				"tags": ["white-paper"]
             },
             {
                 "authors": "Katz D.S., Haines R., Huff K., Löffler F., Pierce M., Heroux M., Niemeyer K., Gesing S., Carver J., Wilson G. (2017)",
                 "link": "Sustaining Software as a Key Element of Cyberinfrastructure",
-                "title": "Sustaining Software as a Key Element of Cyberinfrastructure",
+                "title": "Future Needs for Advanced Cyberinfrastructure to Support Science and Engineering Research (NSF CI 2030)",
                 "url": "https://www.nsf.gov/cise/oac/ci2030/pdf/RFI-Katz-209.pdf", 
 				"tags": ["white-paper"]
             },
             {
                 "authors": "Pierantoni G., Frost D., Gesing S., Olabarriaga S., Tertyanzsky G., Jaghoori M., and Arshad J. (2017)",
                 "link": "A Model for Information and Action Flows Connecting Science Gateways to Distributed Computing Infrastructures",
-                "title": "A Model for Information and Action Flows Connecting Science Gateways to Distributed Computing Infrastructures",
+                "title": "Proc. of IWSG 2016 (8th International Workshop on Science Gateways), 8-10 June 2016, Rome, Italy, http://ceur-ws.org/Vol-1871/paper1.pdf",
                 "url": "http://ceur-ws.org/Vol-1871/paper1.pdf", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Gesing S. and Krüger J.  (2017)",
                 "link": "IWSG 2016 - International Workshop on Science Gateways 2016",
-                "title": "IWSG 2016 - International Workshop on Science Gateways 2016",
+                "title": "CEUR Workshop Proceedings, online http://ceur-ws.org/Vol-1871/",
                 "url": "http://ceur-ws.org/Vol-1871/", 
 				"tags": ["edited"]
             },
             {
                 "authors": "Atkinson M.,Gesing S., Montagnat J. and Taylor I. (2017)",
                 "link": "Scientific Workflows: Past, Present and Future",
-                "title": "Scientific Workflows: Past, Present and Future",
+                "title": "Future Generation Computer Systems, volume 75, pages 216-227, 2017",
                 "url": "http://www.sciencedirect.com/science/article/pii/S0167739X17311202", 
 				"tags": ["journal"]
             },
             {
                 "authors": "Atkinson M.,Gesing S., Montagnat J. and Taylor I.  (2017)",
                 "link": "Special Issue on Workflows in Support of Large-Scale Science",
-                "title": "Special Issue on Workflows in Support of Large-Scale Science",
+                "title": "Future Generation Computer Systems, volume 75, pages 216-437, 2017",
                 "url": "http://www.sciencedirect.com/science/journal/0167739X/75/", 
 				"tags": ["special"]
             },
             {
                 "authors": "Wilkins-Diehr N., Barker M. and Gesing S. (2017)",
                 "link": "Science Gateways, Virtual Labs and Virtual Research Environments",
-                "title": "Science Gateways, Virtual Labs and Virtual Research Environments",
+                "title": "eResearch Conference Australasia 2016, 10-14 October 2016, Melbourne, Australia",
                 "url": "https://eresearchau.files.wordpress.com/2016/03/eresau2016_paper_7.pdf", 
 				"tags": ["conference"]
             },
             {
                 "authors": "Katz D. S., Niemeyer K. E., Gesing S., Hwang L., Bangerth W., Hettrick S., Idaszak R., Salac J., Chue Hong N., Corrales S. N., Allen A., Geiger R. S., Miller J., Chen E., Dubey A., Lago P. (2017)",
                 "link": "Report on the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)",
-                "title": "Report on the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)",
+                "title": "arXiv:1602.02296 [cs.SE]",
                 "url": "http://arxiv.org/abs/1705.02607", 
 				"tags": ["white-paper"]
             },
             {
                 "authors": "Gesing S., Zentner M., Dahan M. and Lawrence K. (2017)",
                 "link": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
-                "title": "Gateways to Science: Harnessing Big Data and Open Data for Precision Medicine",
+                "title": "Book of Abstracts - 2nd Personalized Medicine Conference, pages 55-57, 17 - 20 Mar 2017, Cancun, Mexico",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2017/03/Abstract-Book-2nd-Personalized-Medicine-17-20-Mar-2017-pages55-57.pdf", 
-				"tags": ["conference", "white-paper"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Gesing S. and Sakellariou R. (2017)",
@@ -901,21 +909,21 @@
             {
                 "authors": "Gesing S., Carretero J., Garcia Blas J. and Montagnat J. (2017)",
                 "link": "Boosting Analyses in the Life Sciences via Clusters, Grids and Clouds",
-                "title": "Boosting Analyses in the Life Sciences via Clusters, Grids and Clouds",
+                "title": "Future Generation Computer Systems, volume 67, pages 325-328, 2017",
                 "url": "http://www.sciencedirect.com/science/article/pii/S0167739X16305064", 
 				"tags": ["journal"]
             },
             {
                 "authors": "Gesing S., Carretero J., Garcia Blas J. and Montagnat J.  (2017)",
                 "link": "Special issue of Boosting Analyses in the Life Sciences via Clusters, Grids and Clouds",
-                "title": "Special issue of Boosting Analyses in the Life Sciences via Clusters, Grids and Clouds",
+                "title": "Future Generation Computer Systems, volume 67, pages 325-489, 2017",
                 "url": "http://www.sciencedirect.com/science/journal/0167739X/67/supp/C", 
 				"tags": ["special"]
             },
             {
                 "authors": "Gesing S., Wilkins-Diehr N., Dahan M., Lawrence K., Zentner M., Pierce M., Hayden L.B., and Marru S. (2017)",
                 "link": "Science Gateways: The Long Road to the Birth of an Institute",
-                "title": "Science Gateways: The Long Road to the Birth of an Institute",
+                "title": "Proc. of HICSS-50 (50th Hawaii International Conference on System Sciences), 4-7 January 2017, Hilton Waikoloa, HI, USA, http://hdl.handle.net/10125/4191",
                 "url": "http://scholarspace.manoa.hawaii.edu/handle/10125/41919", 
 				"tags": ["conference"]
             }
@@ -1137,7 +1145,7 @@
                 "link": "Editorial: Science Gateways - Theoretical Approaches, Cutting-Edge Developments and Versatile Use Cases",
                 "title": "Science Gateways (IWSG), 2015 7th International Workshop on, pp. vii-viii, IEEE Xplore",
                 "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7217919", 
-				"tags": ["conference", "edited"]
+				"tags": ["conference"]
             },
             {
                 "authors": "Samual, T.K., Wan, S., Conveney, P.V., Riedel, M., Memon, S., Gesing, S., and Wilkins-Diehr, N. (2015)",
@@ -1172,14 +1180,14 @@
                 "link": "7th International Workshop on Science Gateways (IWSG), 2015",
                 "title": "IEEE Xplore",
                 "url": "http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7217893", 
-				"tags": ["conference"]
+				"tags": ["edited"]
             },            
             {
                 "authors": "Hoffmann, A., Krüger, J., Grunzke, R., Packschies, L., Gesing, S. and Herres-Pawlis, S. (2015)",
                 "link": "Quantum Chemical Workflows in the MoSGrid Science Gateway",
                 "title": "10th European Conference on Computational Chemistry, Fulda, Germany",
                 "url": "http://sandra-gesing.com/wp-content/uploads/2015/09/MoSGrid-PosterWorkflow.pdf", 
-				"tags": ["white-paper"]
+				"tags": ["misc"]
             }
         ]
     },
@@ -1196,7 +1204,7 @@
             {
                 "authors": "Merelli, I., Pérez-Sánchez, H., Gesing, S. and D'Agostino, D. (2014)",
                 "link": "Managing, Analysing and Integrating Big Data in Medical Bioinformatics: Open Problems and Future Perspectives",
-                "title": "BioMed Research International, Volume 2014 (2014), Article ID 134023, 13 pages,",
+                "title": "BioMed Research International, Volume 2014 (2014), Article ID 134023, 13 pages, doi:10.1155/2014/134023",
                 "url": "http://www.hindawi.com/journals/bmri/2014/134023/", 
 				"tags": ["journal"]
             },
@@ -1212,7 +1220,7 @@
                 "link": "Latest advances in distributed, parallel, and graphic processing unit accelerated approaches to computational biology",
                 "title": "Concurrency and Computation: Practice and Experience, 26(10): 1699–1704.",
                 "url": "http://onlinelibrary.wiley.com/doi/10.1002/cpe.3111/abstract", 
-				"tags": []
+				"tags": ["journal"]
             },
             {
                 "authors": "Grunzke, R., Breuers, S., Gesing, S., Herres-Pawlis, S., Kruse, M., Blunk, D., de la Garza, L., Packschies, L., Schäfer, P., Schärfe, C., Schlemmer, T., Steinke, T., Schuller, B., Müller-Pfefferkorn, R., Nagel, W., Atkinson, M., and Krüger, J. (2014)",
@@ -1259,7 +1267,7 @@
             {
                 "authors": "Nabrzyski, J., Liu, C., Vardeman, C., Gesing, S., and Budhatoki, M. (2014)",
                 "link": "Agriculture Data for All: Integrated Tools for Agriculture Data Integration, Analytics and Sharing",
-                "title": "Big Data (BigData Congress), 2014 IEEE International Congress on, pp.774-775,",
+                "title": "Big Data (BigData Congress), 2014 IEEE International Congress on, pp.774-775, doi: 10.1109/BigData.Congress.2014.117",
                 "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6906861", 
 				"tags": ["conference"]
             },
@@ -1282,14 +1290,14 @@
                 "link": "Expanding Tasks of Logical Workflows into Independent Workflows for Improved Scalability",
                 "title": "Cluster, Cloud and Grid Computing (CCGrid), 2014 14th IEEE/ACM International Symposium on, pp. 548-549, doi: 10.1109/CCGrid.2014.84",
                 "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6846496", 
-				"tags": ["conference", "white-paper"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Grunzke, R., Jäkel, R., Nagel, W.E. and Gesing, S.(2014)",
                 "link": "Towards Generic Metadata Management in Distributed Science Gateway Infrastructures",
                 "title": "Cluster, Cloud and Grid Computing (CCGrid), 2014 14th IEEE/ACM International Symposium on, pp. 566-570, doi: 10.1109/CCGrid.2014.98",
                 "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6846502", 
-				"tags": ["conference", "white-paper"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Grunzke, R., Gesing, S., de la Garza, L., Hoffmann, A., Herres-Pawlis, S., and Krüger, J. (2014)",
@@ -1397,7 +1405,7 @@
                 "link": "MoSGrid: Efficient Data Management and a Standardized Data Exchange Format for Molecular Simulations in a Grid Environment",
                 "title": "Journal of Cheminformatics 2012, 4(Suppl 1):P21, doi:10.1186/1758-2946-4-S1-P21",
                 "url": "http://www.jcheminf.com/content/4/S1/P21", 
-				"tags": ["journal"]
+				"tags": ["journal", "misc"]
             },
             {
                 "authors": "Gesing S., Herres-Pawlis S., Birkenheuer G., Brinkmann A., Grunzke R., Kacsuk P., Kohlbacher O., Kozlovszky M., Krüger J., Müller-Pfefferkorn R., Schäfer P., and Steinke T. (2012)",
@@ -1479,7 +1487,7 @@
                 "link": "A Molecular Simulation Grid as new tool for Computational Chemistry, Biology and Material Science.",
                 "title": "Journal of Cheminformatics 2011, 3(Suppl 1):P14, doi:10.1186/1758-2946-3-S1-P14",
                 "url": "http://www.jcheminf.com/content/3/S1/P14", 
-				"tags": ["journal"]
+				"tags": ["journal", "misc"]
             },
             {
                 "authors": "Gesing S.*, Grunzke R.*, Balasko A., Birkenheuer G., Blunk D., Breuers S., Brinkmann A., Fels G., Herres-Pawlis S., Kacsuk P., Kozlovszky M., Krüger J., Packschies L., Schäfer P., Schuller B., Schuster J., Steinke T., Szikszay Fabri A., Wewior M., Müller-Pfefferkorn R., and Kohlbacher O. (2011).",
@@ -1513,7 +1521,7 @@
                 "link": "TOPP goes Rapid—The OpenMS Proteomics Pipeline in a Grid-enabled Web Portal",
                 "title": "CCGrid, pp.598-599, 2010 10th IEEE/ACM International Conference on Cluster, Cloud and Grid Computing, 2010. DOI: http://doi.ieeecomputersociety.org/10.1109/CCGRID.2010.39",
                 "url": "http://www.computer.org/portal/web/csdl/doi/10.1109/CCGRID.2010.39", 
-				"tags": ["conference"]
+				"tags": ["conference", "misc"]
             },
             {
                 "authors": "Gesing S., Marton I., Birkenheuer G., Schuller B., Grunzke R., Krüger J., Breuers S., Blunk D., Fels G., Packschies L., Brinkmann A., Kohlbacher O., and Kozlovszky M. (2010)",
@@ -1531,15 +1539,15 @@
             },
             {
                 "authors": "Krüger J., Birkenheuer G., Breuers S., Gesing S., Wewior M., Brinkmann A., Blunk D., Kohlbacher O., Packschies L., and Fels G. (2010)",
-                "link": "A Molecular Simulation Grid as new tool for Computational Chemistry, Biology and Material Science",
-                "title": "Journal of Cheminformatics 2010, 2(Suppl 1):P14, doi:10.1186/1758-2946-2-S1-P14",
+                "link": "Workflows and Analysis Approaches for Molecular Dynamics Simulations",
+                "title": "In: Proceedings of the International Workshop on Science Gateways (IWSG2010), pp. 61, Consorzio COMETA, ISBN: 978-88-95892-03-0.",
                 "url": "http://documents.ct.infn.it/record/479/files/iwsg10-proceedings.pdf", 
 				"tags": ["conference"]
             },            
             {
                 "authors": "Birkenheuer G., Breuers S., Brinkmann A., Fels G., Gesing S., Grunzke R., Herres-Pawlis S., Kohlbacher O., Krüger J., Lang U., Packschies L., Müller-Pfefferkorn R., Schäfer P., Schmalz H., Steinke T., Warzecha K., and Wewior M. (2010)",
-                "link": "A Molecular Simulation Grid as new tool for Computational Chemistry, Biology and Material Science",
-                "title": "Journal of Cheminformatics 2010, 2(Suppl 1):O17, doi:10.1186/1758-2946-2-S1-O17",
+                "link": "Grid-Workflows in Molecular Science",
+                "title": "Software Engineering 2010, Grid Workflow Workshop, pp. 177-184, GI-Edition - Lecture Notes in Informatics (LNI), P-160, ISSN 1617-5468, 2010.",
                 "url": "http://subs.emis.de/LNI/Proceedings/Proceedings160/P-160.pdf", 
 				"tags": ["conference"]
             }
