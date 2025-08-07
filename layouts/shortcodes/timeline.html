@@ -1,11 +1,11 @@
-<table>
+<table class="timeline-full-width">
     <thead>
     </thead>
     <tbody>
         {{ $file := .Get "file" }}
         {{ $data := index .Site.Data.bio $file }}
         {{ range $data }}
-        <tr>
+        <tr class="alternate-bg">
             
             <td class="column-1">
                 {{ if .description }}
@@ -14,7 +14,7 @@
                 {{ end }}
 
             </td>
-            <td>
+            <td class="column-2">
                 {{- $linkMap := dict -}}
                 {{- range .links }}
                 {{- $linkMap = merge $linkMap (dict .text .url) -}}
