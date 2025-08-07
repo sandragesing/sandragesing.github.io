@@ -1,18 +1,18 @@
 {{ $data := index .Site.Data.professional_services }}
 {{ range $data }}
-    <table>
+    <table class="full-width">
         <thead>
         </thead>
         <tbody>
                 <tr>
-                    <td>
+                    <td class="table-header">
                         {{ $header := printf "### %s" .category }}
                         {{ $header| markdownify }} 
                     </td>
                 </tr>
                 {{ range .rows }}
-                    <tr>
-                        <td>
+                    <tr class="alternate-bg">
+                        <td >
                             {{ if .url }}
                                 <a href="{{ .url }}">{{ .title }}</a> 
                             {{ else }}
@@ -32,7 +32,6 @@
                                         {{ .title }}
                                     {{ end }}
                                     {{ if .description }}
-                                    <br>
                                         <span class="description">{{ .description }}</span>
                                     {{ end }}
                                     <br>
