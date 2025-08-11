@@ -30,6 +30,14 @@
                 <div class="">
                     <p>{{ $linkedTitle | safeHTML }}</p>
                 </div>
+                
+                {{ if .roles }}
+                <div class="roles">
+                    {{ range .roles }}
+                    <strong><p>{{ . }}</p><strong>
+                    {{ end }}
+                </div>
+                {{ end }}
             </td>
         </tr>
         {{ end }}

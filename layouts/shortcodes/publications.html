@@ -4,9 +4,19 @@
     <thead>
     </thead>
     <tbody>
-            <tr>
-                {{ $tag := index $.Page.Params.tags 0 }}
-                {{ if or (eq $tag "all") (eq $tag "journal") (eq $tag "conference") }}
+        <tr>
+            {{ $tag := index $.Page.Params.tags 0 }}
+
+            {{ $.Scratch.Set "empty" true }}
+
+            {{ range .publications }}
+              {{ if or (eq $tag "all") (in .tags $tag) }}
+                {{ $.Scratch.Set "empty" false }}
+              {{ end }}
+            {{ end }}
+
+            {{$empty := $.Scratch.Get "empty" }}
+                {{ if and (or (eq $tag "all") (eq $tag "journal") (eq $tag "conference")) (not $empty) }}
                     <td>
                         {{ $header := printf "### %v" .year }}
                         {{ $header| markdownify }} 
