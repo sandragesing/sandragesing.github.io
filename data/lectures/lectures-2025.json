@@ -1,4 +1,18 @@
 [
+{
+    "title": "BoF RSEs vs. Gen AI",
+    "description": "RSECon, Warwick, UK, September 2025",
+    "links": [
+      {
+        "text": "RSEs vs. Gen AI",
+        "url": "hhttps://virtual.oxfordabstracts.com/event/75166/program?session=167675&program&date=%222025-9-10%22"
+      },
+      {
+        "text": "RSECon",
+        "url": "https://rsecon25.society-rse.org/"
+      }
+    ]
+  },
  {
     "title": "US-RSE:Beyond the Code – Building Careers and Community",
     "description": "RSECon, Warwick, UK, September 2025",
@@ -12,7 +26,8 @@
         "url": "https://rsecon25.society-rse.org/"
       }
     ]
-  },    {
+  },    
+ {
     "title": "Panel Human Resources and Motivation",
     "description": "OECD Workshop Access to research software: Opportunities and challenges, Paris, France, September 2025",
     "links": [
