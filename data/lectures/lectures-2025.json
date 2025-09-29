@@ -1,4 +1,60 @@
 [
+{
+    "title": "BoF RSEs vs. Gen AI",
+    "description": "RSECon, Warwick, UK, September 2025",
+    "links": [
+      {
+        "text": "RSEs vs. Gen AI",
+        "url": "hhttps://virtual.oxfordabstracts.com/event/75166/program?session=167675&program&date=%222025-9-10%22"
+      },
+      {
+        "text": "RSECon",
+        "url": "https://rsecon25.society-rse.org/"
+      }
+    ]
+},
+{
+    "title": "US-RSE: Beyond the Code - Building Careers and Community",
+    "description": "RSECon, Warwick, UK, September 2025",
+    "links": [
+      {
+        "text": "US-RSE: Beyond the Code - Building Careers and Community",
+        "url": "https://rsecon25.society-rse.org/global-rse-communities/"
+      },
+      {
+        "text": "RSECon",
+        "url": "https://rsecon25.society-rse.org/"
+      }
+    ]
+  },    
+{
+    "title": "Panel Human Resources and Motivation",
+    "description": "OECD Workshop Access to research software: Opportunities and challenges, Paris, France, September 2025",
+    "links": [
+      {
+        "text": "Human Resources and Motivation",
+        "url": "https://www.oecd.org/en/events/2025/09/access-to-research-software-opportunities-and-challenges.html"
+      },
+      {
+        "text": "OECD Workshop Access to research software: Opportunities and challenges",
+        "url": "https://www.oecd.org/en/events/2025/09/access-to-research-software-opportunities-and-challenges.html"
+      }
+    ]
+  },
+    {
+    "title": "US-RSE - Beyond Bug Fixes: Professional Development and Communities in RSE Teams",
+    "description": "Discovery Workshop: Scientific software best practices, tools, and culture, NCAR, Boulder, August 2025",
+    "links": [
+      {
+        "text": "US-RSE - Beyond Bug Fixes: Professional Development and Communities in RSE Teams",
+        "url": "https://docs.google.com/document/d/1LJg0Wc5_tO95ytIGZXEIGJISqGlYuyuzBBxitp56vhk/edit?tab=t.8ek0vrvm6xsc"
+      },
+      {
+        "text": "Discovery Workshop: Scientific software best practices, tools, and culture",
+        "url": "https://docs.google.com/document/d/1LJg0Wc5_tO95ytIGZXEIGJISqGlYuyuzBBxitp56vhk/edit?tab=t.8ek0vrvm6xsc"
+      }
+    ]
+  },
   {
     "title": "Building a National AI Research Infrastructure: Architecture, Access, and Equity",
     "description": "University of Potsdam Potsdam, Germany, July 2025",
