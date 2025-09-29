@@ -1,4 +1,14 @@
 {{ $data := index .Site.Data.publications }}
+{{ $counter := 0 }}
+{{ range $data }}
+    {{ $tag := index $.Page.Params.tags 0 }}
+    {{ range .publications }}
+    {{ if or (eq $tag "all") (in .tags $tag) }}
+        {{ $counter = add $counter 1 }}
+    {{ end }}
+    {{ end }}
+{{ end }}
+
 {{ range $data }}
 <table>
     <thead>
@@ -27,7 +37,8 @@
                 {{ $tag := index $.Page.Params.tags 0 }}
                 {{ if or (eq $tag "all") (in .tags $tag) }}
                     <tr>
-                        <td></td>
+                        <td>{{ $counter}}</td>
+            {{$counter = add $counter -1 }}
                         <td>
                             {{ .authors }}
                             <br>
