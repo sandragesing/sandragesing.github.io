@@ -1,5 +1,61 @@
 [
 {
+    "title": "BoF: Real-world Impacts of Generative AI in the Research Software Engineering and Data Science Workplace",
+    "description": "USRSE'25, Philadelphia, PA, US, October 2025",
+    "links": [
+      {
+        "text": "BoF: Real-world Impacts of Generative AI in the Research Software Engineering and Data Science Workplace",
+        "url": "https://us-rse.org/usrse25/program/bofs/"
+      },
+      {
+        "text": "USRSE'25",
+        "url": "https://us-rse.org/usrse25/"
+      }
+    ]
+},
+{
+    "title": "US-RSE:Sustainability and Community Growth",
+    "description": "USRSE'25, Philadelphia, PA, US, October 2025",
+    "links": [
+      {
+        "text": "US-RSE:Sustainability and Community Growth",
+        "url": "https://us-rse.org/usrse25/program/"
+      },
+      {
+        "text": "USRSE'25",
+        "url": "https://us-rse.org/usrse25/"
+      }
+    ]
+},
+{
+    "title": "Sponsor talk: Leveraging the Open Science Operating System to build virtual environments for science and education",
+    "description": "eScience, Chicago, IL, US, September 2025",
+    "links": [
+      {
+        "text": "Sponsor talk: Leveraging the Open Science Operating System to build virtual environments for science and education",
+        "url": "https://www.escience-conference.org/2025/timetable"
+      },
+      {
+        "text": "eScience",
+        "url": "https://www.escience-conference.org/2025/"
+      }
+    ]
+},
+{
+    "title": "RSEs 2035: Surviving or Thriving in the Age of AI",
+    "description": "eScience, Chicago, IL, US, September 2025",
+    "links": [
+      {
+        "text": "RSEs 2035: Surviving or Thriving in the Age of AI",
+        "url": "https://www.escience-conference.org/2025/timetable"
+      },
+      {
+        "text": "eScience",
+        "url": "https://www.escience-conference.org/2025/"
+      }
+    ]
+},
+{
     "title": "BoF RSEs vs. Gen AI",
     "description": "RSECon, Warwick, UK, September 2025",
     "links": [
