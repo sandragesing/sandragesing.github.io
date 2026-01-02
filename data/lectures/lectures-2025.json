@@ -1,60 +1,5 @@
 [
 {
-    "title": "Code, Collaboration, and Careers: Why Research Needs Research Software Engineers",
-    "description": "Loyola University Chicago, Computer Science Department, November 2025",
-    "links": [
-      {
-        "text": "Code, Collaboration, and Careers: Why Research Needs Research Software Engineers",
-        "url": "https://www.luc.edu/cs/"
-      },
-      {
-        "text": "Loyola University Chicago, Computer Science Department, November 2025",
-        "url": "https://www.luc.edu/cs/"
-      }
-    ]
-},
-{
-    "title": "Early Career Program Session: Voices from the Field: Navigating Careers in Academia, Government, and Industry",
-    "description": "SC25, St. Louis, MO, November 2025",
-    "links": [
-      {
-        "text": "Early Career Program Session: Voices from the Field: Navigating Careers in Academia, Government, and Industry",
-        "url": "https://sc25.conference-program.com/"
-      },
-      {
-        "text": "SC25, St. Louis, MO, November 2025",
-        "url": "https://sc25.supercomputing.org/"
-      }
-    ]
-},
-    "title": "Panel AI for the Nation: Growing Community Adoption through the NAIRR Pilot Portal",
-    "description": "SC25, St. Louis, MO, November 2025",
-    "links": [
-      {
-        "text": "Panel AI for the Nation: Growing Community Adoption through the NAIRR Pilot Portal",
-        "url": "https://sc25.supercomputing.org/"
-      },
-      {
-        "text": "SC25, St. Louis, MO, November 2025",
-        "url": "https://sc25.supercomputing.org/"
-      }
-    ]
-},
-{
-    "title": "Thriving with AI: Why Research Needs RSEs More Than Ever",
-    "description": "Research Software Engineers in HPC (RSE-HPC-2025) at SC25, 5t. Louis, MO, November 2025",
-    "links": [
-      {
-        "text": "Thriving with AI: Why Research Needs RSEs More Than Ever",
-        "url": "https://us-rse.org/rse-hpc-2025/agenda/"
-      },
-      {
-        "text": "Research Software Engineers in HPC (RSE-HPC-2025) at SC25, 5t. Louis, MO, November 2025",
-        "url": "https://us-rse.org/rse-hpc-2025/"
-      }
-    ]
-},
-{
     "title": "Panel Science Gateway’s Current and Future Role in Quantum",
     "description": "Gateways 2025, Greenbay, WI, US, October 2025",
     "links": [
