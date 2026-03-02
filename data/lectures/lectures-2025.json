@@ -1,11 +1,153 @@
 [
 {
+    "title": "Code, Collaboration, and Careers: Why Research Needs Research Software Engineers",
+    "description": "Loyola University Chicago, Computer Science Department, November 2025",
+    "links": [
+      {
+        "text": "Code, Collaboration, and Careers: Why Research Needs Research Software Engineers",
+        "url": "https://www.luc.edu/cs/"
+      },
+      {
+        "text": "Loyola University Chicago",
+        "url": "https://www.luc.edu/cs/"
+      }
+    ]
+},
+{
+    "title": "Early Career Program Session: Voices from the Field: Navigating Careers in Academia, Government, and Industry",
+    "description": "SC25, St. Louis, MO, November 2025",
+    "links": [
+      {
+        "text": "Early Career Program Session: Voices from the Field: Navigating Careers in Academia, Government, and Industry",
+        "url": "https://sc25.conference-program.com/"
+      },
+      {
+        "text": "SC25",
+        "url": "https://sc25.supercomputing.org/"
+      }
+    ]
+},
+{
+    "title": "Panel AI for the Nation: Growing Community Adoption through the NAIRR Pilot Portal",
+    "description": "SC25, St. Louis, MO, November 2025",
+    "links": [
+      {
+        "text": "Panel AI for the Nation: Growing Community Adoption through the NAIRR Pilot Portal",
+        "url": "https://sc25.supercomputing.org/"
+      },
+      {
+        "text": "SC25",
+        "url": "https://sc25.supercomputing.org/"
+      }
+    ]
+},
+
+{
+    "title": "Thriving with AI: Why Research Needs RSEs More Than Ever",
+    "description": "Research Software Engineers in HPC (RSE-HPC-2025) at SC25, 5t. Louis, MO, November 2025",
+    "links": [
+      {
+        "text": "Thriving with AI: Why Research Needs RSEs More Than Ever",
+        "url": "https://us-rse.org/rse-hpc-2025/agenda/"
+      },
+      {
+        "text": "Research Software Engineers in HPC (RSE-HPC-2025)",
+        "url": "https://us-rse.org/rse-hpc-2025/"
+      }
+    ]
+},
+
+{
+    "title": "Panel Science Gateway’s Current and Future Role in Quantum",
+    "description": "Gateways 2025, Greenbay, WI, US, October 2025",
+    "links": [
+      {
+        "text": "Panel Science Gateway’s Current and Future Role in Quantum",
+        "url": "https://sciencegateways.org/gateways2025-program"
+      },
+      {
+        "text": "Gateways 2025",
+        "url": "https://sciencegateways.org/gateways2025"
+      }
+    ]
+},
+{
+    "title": "Designing the Future of AI-Enabled Research: Community-Driven Insights for the NAIRR Portal",
+    "description": "Gateways 2025, Greenbay, WI, US, October 2025",
+    "links": [
+      {
+        "text": "Designing the Future of AI-Enabled Research: Community-Driven Insights for the NAIRR Portal",
+        "url": "https://sciencegateways.org/gateways2025-program"
+      },
+      {
+        "text": "Gateways 2025",
+        "url": "https://sciencegateways.org/gateways2025"
+      }
+    ]
+},
+{
+    "title": "BoF: Real-world Impacts of Generative AI in the Research Software Engineering and Data Science Workplace",
+    "description": "USRSE'25, Philadelphia, PA, US, October 2025",
+    "links": [
+      {
+        "text": "BoF: Real-world Impacts of Generative AI in the Research Software Engineering and Data Science Workplace",
+        "url": "https://us-rse.org/usrse25/program/bofs/"
+      },
+      {
+        "text": "USRSE'25",
+        "url": "https://us-rse.org/usrse25/"
+      }
+    ]
+},
+{
+    "title": "US-RSE: Sustainability and Community Growth",
+    "description": "USRSE'25, Philadelphia, PA, US, October 2025",
+    "links": [
+      {
+        "text": "US-RSE: Sustainability and Community Growth",
+        "url": "https://us-rse.org/usrse25/program/"
+      },
+      {
+        "text": "USRSE'25",
+        "url": "https://us-rse.org/usrse25/"
+      }
+    ]
+},
+{
+    "title": "Sponsor talk: Leveraging the Open Science Operating System to build virtual environments for science and education",
+    "description": "eScience, Chicago, IL, US, September 2025",
+    "links": [
+      {
+        "text": "Sponsor talk: Leveraging the Open Science Operating System to build virtual environments for science and education",
+        "url": "https://www.escience-conference.org/2025/timetable"
+      },
+      {
+        "text": "eScience",
+        "url": "https://www.escience-conference.org/2025/"
+      }
+    ]
+},
+{
+    "title": "RSEs 2035: Surviving or Thriving in the Age of AI",
+    "description": "eScience, Chicago, IL, US, September 2025",
+    "links": [
+      {
+        "text": "RSEs 2035: Surviving or Thriving in the Age of AI",
+        "url": "https://www.escience-conference.org/2025/timetable"
+      },
+      {
+        "text": "eScience",
+        "url": "https://www.escience-conference.org/2025/"
+      }
+    ]
+},
+{
     "title": "BoF RSEs vs. Gen AI",
     "description": "RSECon, Warwick, UK, September 2025",
     "links": [
       {
         "text": "RSEs vs. Gen AI",
-        "url": "hhttps://virtual.oxfordabstracts.com/event/75166/program?session=167675&program&date=%222025-9-10%22"
+        "url": "https://virtual.oxfordabstracts.com/event/75166/program?session=167675&program&date=%222025-9-10%22"
       },
       {
         "text": "RSECon",
