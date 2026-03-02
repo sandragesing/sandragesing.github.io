@@ -228,7 +228,6 @@ img {
     position: static;
     display: block;
     margin: 1rem auto;
-    max-width: 120px;
   }
 
   .lecture-img {
@@ -334,7 +333,6 @@ img {
   }
 
   .profile-img {
-    max-width: 90px;
     margin: 0.75rem auto;
   }
 }
