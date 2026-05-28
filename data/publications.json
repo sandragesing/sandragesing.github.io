@@ -1,5 +1,64 @@
 [
     {
+        "year": 2026,
+        "publications": [
+            {
+                "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Sean Cleveland, Janae Baker",
+                "link": "SGX3 - A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for CI Through Science Gateways",
+                "title": "Gateways 2025 - Greenbay, Wi, https://zenodo.org/records/17458941",
+                "url": "https://zenodo.org/records/17458941",
+                "tags": [
+                    "poster"
+                ]
+            },
+            {
+                "authors": "Sean Cleveland, Sandra Gesing",
+                "link": "Science Gateway's Current and Future Role in Quantum - Panel",
+                "title": "Gateways 2025 - Greenbay, Wi, https://zenodo.org/records/17450406",
+                "url": "https://zenodo.org/records/17450406",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Janae Baker",
+                "link": "Designing the Future of AI-Enabled Research: Community-Driven Insights for the NAIRR Portal",
+                "title": "Gateways 2025 - Greenbay, Wi, Zenodo conference record. https://zenodo.org/records/17450340",
+                "url": "https://zenodo.org/records/17450340",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Sandra Gesing, Claire Stirm",
+                "link": "Bridging FAIR and Function: The Science Gateway Advantage",
+                "title": "17th International Workshop on Science Gateways https://zenodo.org/records/17448647",
+                "url": "https://zenodo.org/records/17448647",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Karen Green, Clark Gaylord, Tabitha Samuel, Dhruv Chakravorty, Richard Gerber, Alisa Kang, Ralph Zottola, Sandra Gesing, Dan Majchrzak, Bill Barnett, Semir Sarajlic, Stratos Efstathiadis, Erik Deumens, Carolyn Casler, Kathryn Kelley",
+                "link": "Teaming Up for Impact: Regional Collaborations for Research Computing and Data",
+                "title": "Coalition for Academic Scientific Computation (CASC) White Paper. https://casc.org/policy-publications/position-paper/teaming-up-for-impact-regional-collaborations-for-research-computing-and-data/",
+                "url": "https://casc.org/policy-publications/position-paper/teaming-up-for-impact-regional-collaborations-for-research-computing-and-data/",
+                "tags": [
+                    "white paper"
+                ]
+            },
+            {
+                "authors": "Sandra Gesing, Steven Brandt, Sean Cleveland, Braulio Misael Villegas-Martínez, Kerk Kee, Shannon Bradley",
+                "link": "Designing for Success, Avoiding Failure: Ten Lessons for Science Gateways",
+                "title": "18th International Workshop on Science Gateways (IWSG2026), 16-19 June 2026",
+                "url": "",
+                "tags": [
+                    "conference"
+                ]
+            }
+        ]
+    },
+    {
         "year": 2025,
         "publications": [
             {
