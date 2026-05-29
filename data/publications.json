@@ -1,7 +1,29 @@
 [
     {
         "year": 2026,
+        "publications": []
+    },
+    {
+        "year": 2025,
         "publications": [
+            {
+                "authors": "Ismael Kherroubi Garcia ,Christopher Erdmann,Sandra Gesing,Michael Barton,Lauren Cadwallader, Geerten Hengeveld,Christine R. Kirkpatrick,Kathryn Knight,Carsten Lemmen,Rebecca Ringuette,Qing Zhan,Melissa Harrison,Feilim Mac Gabhann,Natalie Meyers,Cailean Osborne,Charlotte Till,Paul Brenner,Matt Buys,Min Chen,Allen Lee,Jason Papin,Yuhan Rao (2025",
+                "link": "Ten simple rules for good model-sharing practices",
+                "title": "PLOS Computational Biology 21(1): e1012702. https://doi.org/10.1371/journal.pcbi.1012702",
+                "url": "https://doi.org/10.1371/journal.pcbi.1012702",
+                "tags": [
+                    "journal"
+                ]
+            },
+            {
+                "authors": "S. Gesing, K. Kee, S. Brandt, S. Cleveland, S. Bradley, J. Smith, B. Villegas Martinez (2025)",
+                "link": "How to Position Your Gateway for Failure: The Ten Don’ts of Gateway Design",
+                "title": "HICSS-58 (58th Hawaii International Conference on System Sciences), Big Island, HI, January 2025",
+                "url": "https://scholarspace.manoa.hawaii.edu/items/636b980c-01b5-4737-9139-02189047851c",
+                "tags": [
+                    "conference"
+                ]
+            },
             {
                 "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Sean Cleveland, Janae Baker",
                 "link": "SGX3 - A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for CI Through Science Gateways",
@@ -61,29 +83,6 @@
                 "link": "Non-Hermitian Zigzag Glauber Lattice",
                 "title": "Latin America Optics and Photonics Conference, 2024/11/10",
                 "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLwdc4wAAAAJ&sortby=pubdate&citation_for_view=sLwdc4wAAAAJ:dhFuZR0502QC",
-                "tags": [
-                    "conference"
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2025,
-        "publications": [
-            {
-                "authors": "Ismael Kherroubi Garcia ,Christopher Erdmann,Sandra Gesing,Michael Barton,Lauren Cadwallader, Geerten Hengeveld,Christine R. Kirkpatrick,Kathryn Knight,Carsten Lemmen,Rebecca Ringuette,Qing Zhan,Melissa Harrison,Feilim Mac Gabhann,Natalie Meyers,Cailean Osborne,Charlotte Till,Paul Brenner,Matt Buys,Min Chen,Allen Lee,Jason Papin,Yuhan Rao (2025",
-                "link": "Ten simple rules for good model-sharing practices",
-                "title": "PLOS Computational Biology 21(1): e1012702. https://doi.org/10.1371/journal.pcbi.1012702",
-                "url": "https://doi.org/10.1371/journal.pcbi.1012702",
-                "tags": [
-                    "journal"
-                ]
-            },
-            {
-                "authors": "S. Gesing, K. Kee, S. Brandt, S. Cleveland, S. Bradley, J. Smith, B. Villegas Martinez (2025)",
-                "link": "How to Position Your Gateway for Failure: The Ten Don’ts of Gateway Design",
-                "title": "HICSS-58 (58th Hawaii International Conference on System Sciences), Big Island, HI, January 2025",
-                "url": "https://scholarspace.manoa.hawaii.edu/items/636b980c-01b5-4737-9139-02189047851c",
                 "tags": [
                     "conference"
                 ]

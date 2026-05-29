@@ -1,21 +1,7 @@
 [
     {
-        "title": "Research Software Engineering and You: Community, Careers, and US-RSE",
-        "description": "DCOMP Early Career Office Hours, Online, January 2026",
-        "links": [
-            {
-                "text": "Research Software Engineering and You: Community, Careers, and US-RSE",
-                "url": "https://www.youtube.com/watch?app=desktop&v=dOGZu6c8qQY"
-            },
-            {
-                "text": "DCOMP Early Career Office Hours",
-                "url": "https://engage.aps.org/dcomp/blogs/madison-mincevich/2025/07/02/dcomp-early-career-office-hours"
-            }
-        ]
-    },
-    {
         "title": "Impact of AI on Software Engineering",
-        "description": "HICSS 2026, Maui, HI, January 2026",
+        "description": "HICSS 2026, Maui, HI, US January 2026",
         "links": [
             {
                 "text": "Impact of AI on Software Engineering",
@@ -29,7 +15,17 @@
     },
     {
         "title": "AI Without the Headache: NAIRR for Teaching and Discovery",
-        "description": "OEE RCN webinar series, May 2026"
+        "description": "OEE RCN webinar series, May 2026",
+        "links": [
+            {
+                "text": "OEE RCN webinar series",
+                "url": "https://qubeshub.org/community/groups/oee/osub"
+            },
+            {
+                "text": "AI Without the Headache: NAIRR for Teaching and Discovery",
+                "url": "https://www.youtube.com/watch?v=5VPF8z7H-Ew"
+            }
+        ]
     },
     {
         "title": "Building Sustainable Advanced Technologies: Industry/Academic and National Lab Collaborations",
@@ -38,12 +34,16 @@
             {
                 "text": "ERN Summit 2026",
                 "url": "https://ern.ci/ern-summit-2026/"
+            },
+            {
+                "text": "Building Sustainable Advanced Technologies: Industry/Academic and National Lab Collaborations",
+                "url": "https://drive.google.com/drive/folders/1GLY8uEGwUndB7d79iLJReLlCyInzIOJs"
             }
         ]
     },
     {
         "title": "RSEs in the Age of AI: Professional Roles, Responsibilities, and Change",
-        "description": "ISS2026, remote, Boulder, Colorado, April 2026",
+        "description": "ISS2026, remote, Boulder, Colorado, US, April 2026",
         "links": [
             {
                 "text": "ISS2026",
@@ -63,7 +63,7 @@
     },
     {
         "title": "Careers in Research Software Engineering",
-        "description": "APS Global Physical Summit, Denver, Colorado, March 2026",
+        "description": "APS Global Physical Summit, Denver, Colorado, US March 2026",
         "links": [
             {
                 "text": "Careers in Research Software Engineering",
@@ -73,7 +73,7 @@
     },
     {
         "title": "The US Research Software Engineer Association",
-        "description": "ADSA Leadership Summit, Tucson, Arizona, March 2026",
+        "description": "ADSA Leadership Summit, Tucson, Arizona, US, March 2026",
         "links": [
             {
                 "text": "ADSA Leadership Summit",
@@ -83,7 +83,7 @@
     },
     {
         "title": "Advancing the NAIRR Pilot Portal: Sandboxes and Use Cases for Accessible AI Research",
-        "description": "2026 NAIRR Annual Meeting, Arlington, Virginia, March 2026",
+        "description": "2026 NAIRR Annual Meeting, Arlington, Virginia, US, March 2026",
         "links": [
             {
                 "text": "Advancing the NAIRR Pilot Portal: Sandboxes and Use Cases for Accessible AI Research",
@@ -106,11 +106,31 @@
         ]
     },
     {
-        "title": "ADSA Membership Meeting",
-        "description": "The US Research Software Engineer Association, January 2026"
+        "title": "The US Research Software Engineer Association",
+        "description": "ADSA Membership Meeting, January 2026",
+        "links": [
+            {
+                "text": "The US Research Software Engineer Association",
+                "url": "https://alliance4datascience.ai/get-involved/adsa-membership/"
+            }
+        ]
     },
     {
         "title": "Research Software Engineering and You: Community, Careers, and US-RSE",
         "description": "DComp Career Coffee Hour, January 2026"
+    },
+    {
+        "title": "Research Software Engineering and You: Community, Careers, and US-RSE",
+        "description": "DCOMP Early Career Office Hours, Online, January 2026",
+        "links": [
+            {
+                "text": "Research Software Engineering and You: Community, Careers, and US-RSE",
+                "url": "https://www.youtube.com/watch?app=desktop&v=dOGZu6c8qQY"
+            },
+            {
+                "text": "DCOMP Early Career Office Hours",
+                "url": "https://engage.aps.org/dcomp/blogs/madison-mincevich/2025/07/02/dcomp-early-career-office-hours"
+            }
+        ]
     }
 ]
