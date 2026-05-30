@@ -1,19 +1,5 @@
 [
     {
-        "title": "Impact of AI on Software Engineering",
-        "description": "HICSS 2026, Maui, HI, US January 2026",
-        "links": [
-            {
-                "text": "Impact of AI on Software Engineering",
-                "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/4bcc1514-1995-41ae-953a-25652f542d31/content"
-            },
-            {
-                "text": "HICSS 2026",
-                "url": "https://hicss.hawaii.edu/"
-            }
-        ]
-    },
-    {
         "title": "AI Without the Headache: NAIRR for Teaching and Discovery",
         "description": "OEE RCN webinar series, May 2026",
         "links": [
@@ -88,12 +74,26 @@
             {
                 "text": "Advancing the NAIRR Pilot Portal: Sandboxes and Use Cases for Accessible AI Research",
                 "url": "https://zenodo.org/records/19193311"
+            },
+            {
+                "text": "2026 NAIRR Annual Meeting",
+                "url": "https://events.internet2.edu/website/89730/"
             }
         ]
     },
     {
         "title": "Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years",
-        "description": "deRSE, Stuttgart, Germany, March 2026"
+        "description": "deRSE, Stuttgart, Germany, March 2026",
+        "links": [
+            {
+                "text": "Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years",
+                "url": "https://events.hifis.net/event/2945/contributions/"
+            },
+            {
+                "text": "deRSE",
+                "url": "https://events.hifis.net/event/2945/"
+            }
+        ]
     },
     {
         "title": "Exploring the NAIRR Pilot Portal Sandboxes",
@@ -130,6 +130,20 @@
             {
                 "text": "DCOMP Early Career Office Hours",
                 "url": "https://engage.aps.org/dcomp/blogs/madison-mincevich/2025/07/02/dcomp-early-career-office-hours"
+            }
+        ]
+    },
+    {
+        "title": "Impact of AI on Software Engineering",
+        "description": "HICSS 2026, Maui, HI, US January 2026",
+        "links": [
+            {
+                "text": "Impact of AI on Software Engineering",
+                "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/4bcc1514-1995-41ae-953a-25652f542d31/content"
+            },
+            {
+                "text": "HICSS 2026",
+                "url": "https://hicss.hawaii.edu/"
             }
         ]
     }
