@@ -3,19 +3,28 @@
         "year": "Accepted",
         "publications": [
             {
-                "authors": "Sandra Gesing, Claire Stirm (2025)",
-                "link": "Bridging FAIR and Function: The Science Gateway Advantage",
-                "title": "17th International Workshop on Science Gateways https://zenodo.org/records/17448647",
-                "url": "https://zenodo.org/records/17448647",
+                "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Sean Cleveland, Janae Baker (2025)",
+                "link": "SGX3 - A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for CI Through Science Gateways",
+                "title": "Gateways 2025 - Greenbay, Wi, https://zenodo.org/records/17458941",
+                "url": "https://zenodo.org/records/17458941",
+                "tags": [
+                    "poster"
+                ]
+            },
+            {
+                "authors": "Sean Cleveland, Sandra Gesing (2025)",
+                "link": "Science Gateway's Current and Future Role in Quantum - Panel",
+                "title": "Gateways 2025 - Greenbay, Wi, https://zenodo.org/records/17450406",
+                "url": "https://zenodo.org/records/17450406",
                 "tags": [
                     "conference"
                 ]
             },
             {
-                "authors": "Sandra Gesing, Steven Brandt, Sean Cleveland, Braulio Misael Villegas-Martínez, Kerk Kee, Shannon Bradley ",
-                "link": "Designing for Success, Avoiding Failure: Ten Lessons for Science Gateways",
-                "title": "18th International Workshop on Science Gateways (IWSG2026), 16-19 June 2026",
-                "url": "",
+                "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Janae Baker (2025)",
+                "link": "Designing the Future of AI-Enabled Research: Community-Driven Insights for the NAIRR Portal",
+                "title": "Gateways 2025 - Greenbay, Wi, Zenodo conference record. https://zenodo.org/records/17450340",
+                "url": "https://zenodo.org/records/17450340",
                 "tags": [
                     "conference"
                 ]
@@ -48,28 +57,19 @@
                 ]
             },
             {
-                "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Sean Cleveland, Janae Baker (2025)",
-                "link": "SGX3 - A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for CI Through Science Gateways",
-                "title": "Gateways 2025 - Greenbay, Wi, https://zenodo.org/records/17458941",
-                "url": "https://zenodo.org/records/17458941",
-                "tags": [
-                    "poster"
-                ]
-            },
-            {
-                "authors": "Sean Cleveland, Sandra Gesing (2025)",
-                "link": "Science Gateway's Current and Future Role in Quantum - Panel",
-                "title": "Gateways 2025 - Greenbay, Wi, https://zenodo.org/records/17450406",
-                "url": "https://zenodo.org/records/17450406",
+                "authors": "Sandra Gesing, Claire Stirm (2025)",
+                "link": "Bridging FAIR and Function: The Science Gateway Advantage",
+                "title": "17th International Workshop on Science Gateways https://zenodo.org/records/17448647",
+                "url": "https://zenodo.org/records/17448647",
                 "tags": [
                     "conference"
                 ]
             },
             {
-                "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Janae Baker (2025)",
-                "link": "Designing the Future of AI-Enabled Research: Community-Driven Insights for the NAIRR Portal",
-                "title": "Gateways 2025 - Greenbay, Wi, Zenodo conference record. https://zenodo.org/records/17450340",
-                "url": "https://zenodo.org/records/17450340",
+                "authors": "Sandra Gesing, Steven Brandt, Sean Cleveland, Braulio Misael Villegas-Martínez, Kerk Kee, Shannon Bradley ",
+                "link": "Designing for Success, Avoiding Failure: Ten Lessons for Science Gateways",
+                "title": "18th International Workshop on Science Gateways (IWSG2026), 16-19 June 2026",
+                "url": "",
                 "tags": [
                     "conference"
                 ]
