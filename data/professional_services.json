@@ -61,7 +61,7 @@
     "rows": [
       {
         "title": "NSF review panel",
-        "description": "2024, 2022, 2020, 2018, 2016",
+        "description": "2026, 2025, 2024, 2022, 2020, 2018, 2016",
         "url": "http://www.nsf.gov/",
         "sub_entries": []
       },
@@ -164,6 +164,16 @@
         "description": "International Workshop on Science Gateways",
         "url": "https://iwsgateways.github.io/iwsg2024/",
         "sub_entries": [
+           {
+            "title": "IWSG 2026",
+            "description": "16th International Workshop on Science Gateways, June 2026, Catania, Italy",
+            "url": "https://iwsgateways.github.io/iwsg2026/"
+          },
+           {
+            "title": "IWSG 2025",
+            "description": "16th International Workshop on Science Gateways, June 2025, London, UK",
+            "url": "https://iwsgateways.github.io/iwsg2025/"
+          },
           {
             "title": "IWSG 2024",
             "description": "16th International Workshop on Science Gateways, June 2024, Toulouse, France",
@@ -236,6 +246,16 @@
         "description": "",
         "url": "https://sciencegateways.org/networking-community/annual-conference",
         "sub_entries": [
+            {
+            "title": "Code of Conduct Chair Gateways 2026",
+            "description": "Washington, DC, US, September 2026",
+            "url": "https://sciencegateways.org/gateways2026"
+          },
+            {
+            "title": "Code of Conduct Chair Gateways 2025",
+            "description": "Greenbay, WI, US, October 2025",
+            "url": "https://sciencegateways.org/gateways2025"
+          },
           {
             "title": "Code of Conduct Chair Gateways 2024",
             "description": "Bozeman, MT, US, October 2024",
@@ -290,6 +310,11 @@
         "description": "Practice & Experience in Advanced Research Computing",
         "url": "https://www.pearc.org/",
         "sub_entries": [
+           {
+            "title": "PEARC26",
+            "description": "Exhibitor Co-Chair, July 2026, Minneapolis, USA",
+            "url": "https://pearc.hosting2.acm.org/pearc26/"
+          },
           {
             "title": "PEARC20",
             "description": "General Co-Chair, July 2020, Portland, USA",
@@ -307,10 +332,20 @@
         "description": "The International Conference for HPC, Networking, Storage and Analysis",
         "url": "http://supercomputing.org/",
         "sub_entries": [
+           {
+            "title": "SC26",
+            "description": "Workshop on Research Software Engineers in HPC, November 2026",
+            "url": "https://us-rse.org/rse-hpc-2026/"
+          }, 
+          {
+            "title": "SC25",
+            "description": "Workshop on Research Software Engineers in HPC, November 2025",
+            "url": "https://us-rse.org/rse-hpc-2025/"
+          },
           {
             "title": "SC24",
             "description": "Workshop on Research Software Engineers in HPC, November 2024",
-            "url": "https://us-rse.org/rse-hpc-2023/"
+            "url": "https://us-rse.org/rse-hpc-2024/"
           },
           {
             "title": "SC23",
@@ -417,6 +452,26 @@
         "url": "https://www.rd-alliance.org/international-coalition-science-gateways-meeting-rda-10th-plenary-collocated-event",
         "sub_entries": [
           {
+            "title": "HICSS-60 Minitrack on Software Sustainability: Research on Usability, Maintainability and Reproducibility",
+            "description": "January 2027, Hilton Waikoloa, Big Island, Hawaii, USA",
+            "url": "http://hicss.hawaii.edu/"
+          },    
+          {
+            "title": "HICSS-60 Minitrack on Impact of AI on Software Engineering",
+            "description": "January 2027, Hilton Waikoloa, Big Island, Hawaii, USA",
+            "url": "https://hicss.hawaii.edu/tracks-60/software-technology/#software-sustainability-research-on-usability-maintainability-and-reproducibility-minitrack"
+          },
+          {
+            "title": "HICSS-59 Minitrack on Software Sustainability: Research on Usability, Maintainability and Reproducibility",
+            "description": "January 2026, Maui, Hawaii, USA",
+            "url": "http://hicss.hawaii.edu/"
+          },
+          {
+            "title": "HICSS-59 Minitrack on Impact of AI on Software Engineering",
+            "description": "January 2026, Maui, Hawaii, USA",
+            "url": "https://hicss.hawaii.edu/tracks-59/software-technology/#software-sustainability-research-on-usability-maintainability-and-reproducibility-minitrack"
+          },
+          {
             "title": "HICSS-58 Minitrack on Software Sustainability: Research on Usability, Maintainability and Reproducibility",
             "description": "January 2025, Hilton Waikoloa, Big Island, Hawaii, USA",
             "url": "http://hicss.hawaii.edu/"
@@ -493,9 +548,14 @@
         "description": "",
         "sub_entries": [
           {
+            "title": "Program Chair eScience 2023",
+            "description": "Sep 2026, Naples, Italy",
+            "url": "https://www.escience-conference.org/2026"
+          },
+          {
             "title": "Co-Chair Track for Computational Science for sustainable development eScience 2023",
             "description": "Oct 2023, Limassol, Cyprus",
-            "url": "https://www.escience-conference.org/2022/organizers"
+            "url": "https://www.escience-conference.org/2023/organizers"
           },
           {
             "title": "Workshop chair of eScience 2022",
@@ -715,13 +775,13 @@
         "title": "Special Issues",
         "dscription": "",
         "sub_entries": [],
-        "url": "http://home.frontiersin.org/"
+        "url": "https://sandra-gesing.com/publications/special-issues/"
       },
       {
         "title": "Edited Proceedings",
         "dscription": "",
         "sub_entries": [],
-        "url": "https://peerj.com/computer-science/"
+        "url": "https://sandra-gesing.com/publications/edited-proceedings/"
       }
     ]
   },
@@ -736,7 +796,7 @@
       },
       {
         "title": "Future Generation Computer Systems",
-        "description": "2020, 2019, 2018, 2017, 2016, 2015",
+        "description": "2023, 2020, 2019, 2018, 2017, 2016, 2015",
         "sub_entries": [],
         "url": "http://www.journals.elsevier.com/future-generation-computer-systems/"
       },
@@ -801,25 +861,25 @@
     "rows": [
       {
         "title": "IWSG",
-        "description": "(International Workshop on Science Gateways) 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009",
+        "description": "(International Workshop on Science Gateways) 2026, 2025,2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009",
         "sub_entries": [],
         "url": "http://iwsg.info/"
       },
       {
         "title": "Gateways (formerly GCE)",
-        "description": "(International Workshop on Science Gateways) 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013",
+        "description": "(Gateways Conference) 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013",
         "sub_entries": [],
         "url": "https://sciencegateways.org/engage/annual-conference"
       },
       {
         "title": "SC Conference Series (Supercomputing Conference)",
-        "description": "(Supercomputing Conference) 2024, 2023, 2022, 2021, 2020, 2019, 2017",
+        "description": "(Supercomputing Conference) 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2017",
         "sub_entries": [],
         "url": "http://www.supercomputing.org/"
       },
       {
         "title": "PEARC",
-        "description": "(Practice & Experience in Advanced Research Computing), formerly XSEDE (XSEDE annual conference) 2020, 2017, 2016, 2015",
+        "description": "(Practice & Experience in Advanced Research Computing), formerly XSEDE (XSEDE annual conference) 2026, 2020, 2017, 2016, 2015",
         "sub_entries": [],
         "url": "http://www.pearc.org/committee"
       },
