@@ -44,6 +44,15 @@
         "year": 2025,
         "publications": [
             {
+                "authors": "Sandra Gesing",
+                "link": "RSEs 2035: Surviving or Thriving in the Age of AI",
+                "title": "Proceedings of the 21st IEEE International Conference on eScience (eScience), Chicago, IL, USA, September 15–18, 2025, pp. 381–382",
+                "url": "https://doi.org/10.1109/eScience65000.2025.00081",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
                 "authors": "Sandra Gesing, Claire Stirm (2025)",
                 "link": "Bridging FAIR and Function: The Science Gateway Advantage",
                 "title": "17th International Workshop on Science Gateways",
