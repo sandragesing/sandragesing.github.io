@@ -48,11 +48,21 @@
                     "white-paper"
                 ]
             }
+
         ]
     },
     {
         "year": 2025,
         "publications": [
+            {
+                "authors": "Alliance for Data Science and AI (ADSA), US Research Software Engineer Association (US-RSE)",
+                "link": "Position Statement on Generative AI in the RSE Workplace",
+                "title": "Community Position Statement, 2025",
+                "url": "https://github.com/Academic-Data-Science-Alliance/rse-ai-position-statement",
+                "tags": [
+                    "white-paper"
+                ]
+            },
             {   
                 "authors": "L.C. McInnes, D. Arnold, P. Balaprakash, M. Bernhardt, B. Cerny, A. Dubey, R. Giles, D.W. Hood, M.A. Leung, V. López-Marrero, P. Messina, O.B. Newton, C. Oehmen, S.M. Wild, J. Willenbring, L. Woodley, T. Baylis, D.E. Bernholdt, C. Camaño, J. Cohoon, C. Ferenbaugh, S.M. Fiore, S. Gesing, D. Gómez-Zará, J. Howison, T. Islam, D. Kepczynski, C. Lively, H. Menon, B. Messer, M. Ngom, U. Paliath, M.E. Papka, I. Qualters, E.M. Raybourn, K. Riley, P. Rodriguez, D. Rouson, M. Schwalbe, S.K. Seal, Ö. Sürer, V. Taylor, L. Wu (2025)",
                 "link": "Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science","title": "Technical Report ANL-25/47, Argonne National Laboratory, 2025",
