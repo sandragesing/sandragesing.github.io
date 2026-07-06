@@ -2,6 +2,74 @@
     {
         "year": "Accepted",
         "publications": [
+                       {
+                "authors": "Jeanette Sperhac, Sandra Gesing, Robert Quick, Joe Stubbs, Christian Garcia, Chi-kwan Chan, Ewa Deelman, Amy Connolly, Huanmei Wu, Sean Cleveland, Roderick Tabalba",
+                "link": "Considering Workforce Development for AI in Scientific Research",
+                "title": "Proceedings of Practice and Experience in Advanced Research Computing (PEARC'26)",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Jeremy Fischer, Carol Song, Nikolay Simakov, Sergiu Sanielevici, Paola Buitrago, Lisa Perez, Remy Scott, Jim Griffioen, Brett Bode, Sean Cleveland, Mahidhar Tatineni, Kenton McHenry, Mats Rynge, Daniel Howard",
+                "link": "BoF - ACCESS-ing the Future: Survival Guide for 2026 and Beyond",
+                "title": "Practice and Experience in Advanced Research Computing (PEARC)",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Wes Brewer, Shreyas Cholia, Olga Kuchar, Sandra Gesing, Joe Stubbs, Christine Kirkpatrick, Suren Byna, Rajesh Kalyanam",
+                "link": "Mind the gap: What are we missing in the conversations on AI Readiness?",
+                "title": "Practice and Experience in Advanced Research Computing (PEARC) Birds of a Feather (BoF)",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Sandra Gesing, Steven Brandt, Sean Cleveland, Braulio Misael Villegas-Martínez, Kerk Kee, Shannon Bradley ",
+                "link": "Designing for Success, Avoiding Failure: Ten Lessons for Science Gateways",
+                "title": "18th International Workshop on Science Gateways (IWSG2026), 16-19 June 2026",
+                "tags": [
+                    "conference"
+                ]
+            },
+        ]
+    },
+    {
+        "year": 2026,
+        "publications": []
+    },
+    {
+        "year": 2025,
+        "publications": [
+            {
+                "authors": "Sandra Gesing, Claire Stirm (2025)",
+                "link": "Bridging FAIR and Function: The Science Gateway Advantage",
+                "title": "17th International Workshop on Science Gateways",
+                "url": "https://zenodo.org/records/17448647",
+                "tags": [
+                    "conference"
+                ]
+            },
+            {
+                "authors": "Karen Green, Clark Gaylord, Tabitha Samuel, Dhruv Chakravorty, Richard Gerber, Alisa Kang, Ralph Zottola, Sandra Gesing, Dan Majchrzak, Bill Barnett, Semir Sarajlic, Stratos Efstathiadis, Erik Deumens, Carolyn Casler, Kathryn Kelley (2025)",
+                "link": "Teaming Up for Impact: Regional Collaborations for Research Computing and Data",
+                "title": "Coalition for Academic Scientific Computation (CASC) White Paper. https://casc.org/policy-publications/position-paper/teaming-up-for-impact-regional-collaborations-for-research-computing-and-data/",
+                "url": "https://casc.org/policy-publications/position-paper/teaming-up-for-impact-regional-collaborations-for-research-computing-and-data/",
+                "tags": [
+                    "white paper"
+                ]
+            },
+            {
+                "authors": "GS Fahara-Ojeda, LA Tapia-Alarcón, BM Villegas-Martínez, GK Thiruvathukal, AF Neto, S Gesing, T Battelle, V Stankovski, IA Bocanegra-Garay, A Venegas-Gomez, JJ Escobedo-Alatorre, RA Beltrán-Vargas",
+                "link": "Exact dynamics and Bloch oscillations in a non-Hermitian zigzag Glauber–Fock lattice",
+                "title": "Physica A: Statistical Mechanics and its Applications, Volume 675, Article 130811, 2025",
+                "url": "https://doi.org/10.1016/j.physa.2025.130811",
+                "tags": [
+                    "journal"
+                ]
+            },
             {
                 "authors": "Sandra Gesing, Maytal Dahan, Linda Hayden, Claire Stirm, Sean Cleveland, Janae Baker (2025)",
                 "link": "SGX3 - A Center of Excellence to Extend Access, Expand the Community, and Exemplify Good Practices for CI Through Science Gateways",
@@ -29,78 +97,6 @@
                     "conference"
                 ]
             },
-            {
-                "authors": "Jeanette Sperhac, Sandra Gesing, Robert Quick, Joe Stubbs, Christian Garcia, Chi-kwan Chan, Ewa Deelman, Amy Connolly, Huanmei Wu, Sean Cleveland, Roderick Tabalba",
-                "link": "Considering Workforce Development for AI in Scientific Research",
-                "title": "Proceedings of Practice and Experience in Advanced Research Computing (PEARC'26)",
-                "url": "",
-                "tags": [
-                    "conference"
-                ]
-            },
-            {
-                "authors": "Jeremy Fischer, Carol Song, Nikolay Simakov, Sergiu Sanielevici, Paola Buitrago, Lisa Perez, Remy Scott, Jim Griffioen, Brett Bode, Sean Cleveland, Mahidhar Tatineni, Kenton McHenry, Mats Rynge, Daniel Howard",
-                "link": "BoF - ACCESS-ing the Future: Survival Guide for 2026 and Beyond",
-                "title": "Practice and Experience in Advanced Research Computing (PEARC)",
-                "url": "",
-                "tags": [
-                    "conference"
-                ]
-            },
-            {
-                "authors": "Wes Brewer, Shreyas Cholia, Olga Kuchar, Sandra Gesing, Joe Stubbs, Christine Kirkpatrick, Suren Byna, Rajesh Kalyanam",
-                "link": "Mind the gap: What are we missing in the conversations on AI Readiness?",
-                "title": "Practice and Experience in Advanced Research Computing (PEARC) Birds of a Feather (BoF)",
-                "url": "",
-                "tags": [
-                    "conference"
-                ]
-            },
-            {
-                "authors": "Sandra Gesing, Claire Stirm (2025)",
-                "link": "Bridging FAIR and Function: The Science Gateway Advantage",
-                "title": "17th International Workshop on Science Gateways https://zenodo.org/records/17448647",
-                "url": "https://zenodo.org/records/17448647",
-                "tags": [
-                    "conference"
-                ]
-            },
-            {
-                "authors": "Sandra Gesing, Steven Brandt, Sean Cleveland, Braulio Misael Villegas-Martínez, Kerk Kee, Shannon Bradley ",
-                "link": "Designing for Success, Avoiding Failure: Ten Lessons for Science Gateways",
-                "title": "18th International Workshop on Science Gateways (IWSG2026), 16-19 June 2026",
-                "url": "",
-                "tags": [
-                    "conference"
-                ]
-            },
-            {
-                "authors": "Karen Green, Clark Gaylord, Tabitha Samuel, Dhruv Chakravorty, Richard Gerber, Alisa Kang, Ralph Zottola, Sandra Gesing, Dan Majchrzak, Bill Barnett, Semir Sarajlic, Stratos Efstathiadis, Erik Deumens, Carolyn Casler, Kathryn Kelley (2025)",
-                "link": "Teaming Up for Impact: Regional Collaborations for Research Computing and Data",
-                "title": "Coalition for Academic Scientific Computation (CASC) White Paper. https://casc.org/policy-publications/position-paper/teaming-up-for-impact-regional-collaborations-for-research-computing-and-data/",
-                "url": "https://casc.org/policy-publications/position-paper/teaming-up-for-impact-regional-collaborations-for-research-computing-and-data/",
-                "tags": [
-                    "white paper"
-                ]
-            },
-            {
-                "authors": "GS Fahara-Ojeda, BM Villegas-Martínez, JJ Sánchez-Mondragón, S Gesing, T Battelle, AF Neto, IA Bocanegra-Garay, J Licea-Rodriguez, RA Beltrán-Vargas, JJ Escobedo-Alatorre",
-                "link": "Non-Hermitian Zigzag Glauber Lattice (2024)",
-                "title": "Latin America Optics and Photonics Conference, 2024/11/10",
-                "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sLwdc4wAAAAJ&sortby=pubdate&citation_for_view=sLwdc4wAAAAJ:dhFuZR0502QC",
-                "tags": [
-                    "conference"
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2026,
-        "publications": []
-    },
-    {
-        "year": 2025,
-        "publications": [
             {
                 "authors": "Ismael Kherroubi Garcia ,Christopher Erdmann,Sandra Gesing,Michael Barton,Lauren Cadwallader, Geerten Hengeveld,Christine R. Kirkpatrick,Kathryn Knight,Carsten Lemmen,Rebecca Ringuette,Qing Zhan,Melissa Harrison,Feilim Mac Gabhann,Natalie Meyers,Cailean Osborne,Charlotte Till,Paul Brenner,Matt Buys,Min Chen,Allen Lee,Jason Papin,Yuhan Rao (2025)",
                 "link": "Ten simple rules for good model-sharing practices",
