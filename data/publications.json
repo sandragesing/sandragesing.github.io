@@ -38,7 +38,17 @@
     },
     {
         "year": 2026,
-        "publications": []
+        "publications": [
+            {
+                "authors": "Michelle Barker, Daniel S. Katz, Kim Hartley, Samantha Ahern, Neil Chue Hong, Ian Cosden, Ryan Daniels, Stephan Druskat, Anshu Dubey, Yael Elmatad, Cunliang Geng, Sandra Gesing, Robert Haines, James Hetherington, Toby Hodges, James Howison, Kamilla Kopec-Harding, Richard Littauer, Christina Maimone, Vani Mandava, Rohan Marwaha, Elle O'Brien, Adrian Price-Whelan, Karthik Ram, Joseph Shingleton, Sue Smith, Nathan TeBlunthuis, Anelda van der Walt, Steve Van Tuyl, Ben van Werkhoven, Kirstie Whitaker, Greg Wilson, Sherry Wu, Yo Yehudi",
+                "link": "Research Software Engineering in the Age of Generative AI: Building a Community Vision",
+                "title": "Zenodo, 2026",
+                "url": "https://doi.org/10.5281/zenodo.20320884",
+                "tags": [
+                    "white-paper"
+                ]
+            }
+        ]
     },
     {
         "year": 2025,
