@@ -11,7 +11,19 @@
                 "text": "San Diego Supercomputer Center",
                 "url": "https://www.sdsc.edu/"
             }
-        ] 
+        ],
+         "rows": [
+            {
+                "text": "To strengthen the professional network of research software engineers in the United States",
+                "description": "Aug 2022-July 2024",
+                "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2211276"
+            },
+            {
+                "text": "Understanding AI Impacts on Research Software Engineering (RSE)",
+                "description": "Jul 2025-Feb 2026",
+                "url": "https://www.schmidtsciences.org/"
+            },
+         ],
     },
     {
         "titles": ["Scientific Outreach and Senior Researcher at the Discovery Partners Institute (DPI)"],
