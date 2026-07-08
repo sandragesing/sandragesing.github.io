@@ -42,7 +42,11 @@
                         <td>
                             {{ .authors }}
                             <br>
+                {{if .url }}
                             <a href = "{{ .url}}"> {{ .link }} </a>
+                {{else}}
+                            {{ .link }}
+                {{end}}
                             <br>
                             {{ .title}}
                         </td>
