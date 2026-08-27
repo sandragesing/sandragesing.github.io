@@ -40,6 +40,15 @@
         "year": 2026,
         "publications": [
             {
+                "authors": "Wilmer Contreras-Sepúlveda, Luis Arturo Tapia-Alarcón, Nelson Alexander Pérez-García, Braulio Misael Villegas-Martínez, Sandra Gesing, George K. Thiruvathukal, J. Jesús Escobedo-Alatorre, José Javier Sánchez-Mondragón",
+                "link": "QinterpreterDesigner: A Visual-Interactive Composer for Quantum Circuit Design",
+                "title": "16th International Conference on Parallel Processing & Applied Mathematics (PPAM 2026), Poznań, Poland, August 30–September 2, 2026",
+                "url": "https://www.ppam.edu.pl/program",
+        "tags": [
+            "conference"
+        ]
+    },
+            {
                 "authors": "Michelle Barker, Daniel S. Katz, Kim Hartley, Samantha Ahern, Neil Chue Hong, Ian Cosden, Ryan Daniels, Stephan Druskat, Anshu Dubey, Yael Elmatad, Cunliang Geng, Sandra Gesing, Robert Haines, James Hetherington, Toby Hodges, James Howison, Kamilla Kopec-Harding, Richard Littauer, Christina Maimone, Vani Mandava, Rohan Marwaha, Elle O'Brien, Adrian Price-Whelan, Karthik Ram, Joseph Shingleton, Sue Smith, Nathan TeBlunthuis, Anelda van der Walt, Steve Van Tuyl, Ben van Werkhoven, Kirstie Whitaker, Greg Wilson, Sherry Wu, Yo Yehudi",
                 "link": "Research Software Engineering in the Age of Generative AI: Building a Community Vision",
                 "title": "Zenodo, 2026",
