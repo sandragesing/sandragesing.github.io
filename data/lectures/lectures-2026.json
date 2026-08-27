@@ -1,46 +1,46 @@
 [
-   {
-    "title": "Research Software Engineering in the Age of AI: Evolving Identity, Skills, and Community in the Research Computing & Data Landscape",
-    "description": "Invited Panel, PEARC26, Minneapolis, MN, July 2026",
-    "links": [
-        {
-            "text": "PEARC26",
-            "url": "https://pearc.acm.org/pearc26/"
-        },
-        {
-            "text": "Research Software Engineering in the Age of AI: Evolving Identity, Skills, and Community in the Research Computing & Data Landscape",
-            "url": "https://pearc.acm.org/pearc26/conference-schedule/#session=e9e54e29-d773-4b6f-a780-d0ce141182bb"
-        }
-    ]
-},
-{
-    "title": "Mind the gap: What are we missing in conversations on AI Readiness",
-    "description": "BoF, PEARC26, Minneapolis, MN, July 2026",
-    "links": [
-        {
-            "text": "PEARC26",
-            "url": "https://pearc.acm.org/pearc26/"
-        },
-        {
-            "text": "Mind the gap: What are we missing in conversations on AI Readiness",
-            "url": "https://pearc.acm.org/pearc26/conference-schedule/"
-        }
-    ]
-},
-{
-    "title": "Panelist at the 9th Workshop on Strategies for Enhancing HPC Education and Training (SEHET26)",
-    "description": "PEARC26, Minneapolis, MN, July 2026",
-    "links": [
-        {
-            "text": "PEARC26",
-            "url": "https://pearc.acm.org/pearc26/"
-        },
-        {
-            "text": "SEHET26",
-            "url": "https://sehet26.github.io/"
-        }
-    ]
-}
+    {
+        "title": "Research Software Engineering in the Age of AI: Evolving Identity, Skills, and Community in the Research Computing & Data Landscape",
+        "description": "Invited Panel, PEARC26, Minneapolis, MN, July 2026",
+        "links": [
+            {
+                "text": "PEARC26",
+                "url": "https://pearc.acm.org/pearc26/"
+            },
+            {
+                "text": "Research Software Engineering in the Age of AI: Evolving Identity, Skills, and Community in the Research Computing & Data Landscape",
+                "url": "https://pearc.acm.org/pearc26/conference-schedule/#session=e9e54e29-d773-4b6f-a780-d0ce141182bb"
+            }
+        ]
+    },
+    {
+        "title": "Mind the gap: What are we missing in conversations on AI Readiness",
+        "description": "BoF, PEARC26, Minneapolis, MN, July 2026",
+        "links": [
+            {
+                "text": "PEARC26",
+                "url": "https://pearc.acm.org/pearc26/"
+            },
+            {
+                "text": "Mind the gap: What are we missing in conversations on AI Readiness",
+                "url": "https://pearc.acm.org/pearc26/conference-schedule/"
+            }
+        ]
+    },
+    {
+        "title": "Panelist at the 9th Workshop on Strategies for Enhancing HPC Education and Training (SEHET26)",
+        "description": "PEARC26, Minneapolis, MN, July 2026",
+        "links": [
+            {
+                "text": "PEARC26",
+                "url": "https://pearc.acm.org/pearc26/"
+            },
+            {
+                "text": "SEHET26",
+                "url": "https://sehet26.github.io/"
+            }
+        ]
+    },
     {
         "title": "Designing for Success, Avoiding Failure: Ten Lessons for Science Gateways",
         "description": "IWSG2026, Catania, Italy, June 2026",
@@ -101,7 +101,7 @@
         "title": "RSEs in the Age of AI: Professional Roles, Responsibilities, and Change",
         "description": "ISS2026, remote, Boulder, Colorado, US, April 2026",
         "links": [
-             {
+            {
                 "text": "RSEs in the Age of AI: Professional Roles, Responsibilities, and Change",
                 "url": "https://sea.ucar.edu/iss/2026/program/"
             },
@@ -133,7 +133,7 @@
                 "text": "Careers in Research Software Engineering",
                 "url": "https://summit.aps.org/smt/2026/events/EVW-TT05"
             },
-             {
+            {
                 "text": "APS Global Physical Summit",
                 "url": "https://summit.aps.org/smt/2026/events/EVW-TT05"
             }
@@ -232,5 +232,6 @@
                 "url": "https://hicss.hawaii.edu/"
             }
         ]
-    } 
+    }
 ]
+
