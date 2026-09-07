@@ -1,5 +1,19 @@
 [
     {
+        "title": “Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years”,
+        "description": "HiRSE ‘Summer of AI for RSE', September 2026",
+        "links": [
+            {
+                "text": "HiRSE ‘Summer of AI for RSE'",
+                "url": "https://www.helmholtz-hirse.de/series/summer_of_ai_for_rse/"
+            },
+            {
+                "text": "Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years",
+                "url": "https://www.youtube.com/watch?v=FU1OMERjfOE"
+            }
+        ]
+    },
+    {
         "title": "Research Software Engineering in the Age of AI: Evolving Identity, Skills, and Community in the Research Computing & Data Landscape",
         "description": "Invited Panel, PEARC26, Minneapolis, MN, July 2026",
         "links": [
