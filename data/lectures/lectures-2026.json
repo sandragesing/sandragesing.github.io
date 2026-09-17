@@ -1,5 +1,57 @@
 [
     {
+        "title": "AI Can Write the Code. Now What? Rethinking RSE Education",
+        "description": "IEEE HPEC 2026, virtual, September 2026",
+        "links": [
+            {
+                "text": "IEEE HPEC 2026",
+                "url": "https://ieee-hpec.org/"
+            },
+            {
+                "text": "AI Can Write the Code. Now What? Rethinking RSE Education",
+                "url": "https://ieee-hpec.org/ieee-hpec-2026-prelim-agenda/"
+            }
+        ]
+    },
+    {
+        "title": "US-RSE: Beyond the Code – Building Careers and Community",
+        "description": "RSE Worldwide, RSECon26, Sheffield, UK, September 2026",
+        "links": [
+            {
+                "text": "RSE Worldwide",
+                "url": "https://rsecon26.society-rse.org/programme/rse-worldwide/"
+            },
+            {
+                "text": "RSECon26",
+                "url": "https://rsecon26.society-rse.org/"
+            }
+        ]
+    },
+    {
+        "title": "Current State of the RSE Profession and Future Challenges",
+        "description": "Panelist, RSECon26, Sheffield, UK, September 2026",
+        "links": [
+            {
+                "text": "RSECon26",
+                "url": "https://rsecon26.society-rse.org/"
+            }
+        ]
+    },
+    {
+        "title": "Evolving the RSE Role in the Age of Generative and Agentic AI",
+        "description": "BoF, RSECon26, Sheffield, UK, September 2026",
+        "links": [
+            {
+                "text": "RSECon26",
+                "url": "https://rsecon26.society-rse.org/"
+            },
+            {
+                "text": "Evolving the RSE Role in the Age of Generative and Agentic AI",
+                "url": "https://zenodo.org/records/22230055"
+            }
+        ]
+    },
+    {
         "title": "Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years",
         "description": "HiRSE Summer of AI for RSE, September 2026",
         "links": [
@@ -7,7 +59,7 @@
                 "text": "HiRSE Summer of AI for RSE",
                 "url": "https://www.helmholtz-hirse.de/series/summer_of_ai_for_rse/"
             },
-            {    
+            {
                 "text": "Beyond Hype and Panic: RSEs Navigating the Next Five AI-Driven Years",
                 "url": "https://www.youtube.com/watch?v=FU1OMERjfOE"
             }
@@ -248,4 +300,3 @@
         ]
     }
 ]
-
